@@ -1,0 +1,774 @@
+/game/gear/artifacts/_design/balancedefs/invbald_artifact_01_common,白色神器
+/game/gear/artifacts/_design/balancedefs/invbald_artifact_02_uncommon,绿色神器
+/game/gear/artifacts/_design/balancedefs/invbald_artifact_03_rare,蓝色神器
+/game/gear/artifacts/_design/balancedefs/invbald_artifact_04_veryrare,紫色神器
+/game/gear/artifacts/_design/balancedefs/invbald_artifact_05_legendary,传奇神器
+/game/gear/artifacts/_design/partsets/abilities/_unique/eldragonjr/balance/invbald_artifact_eldragonjr,巨龙之力
+/game/gear/artifacts/_design/partsets/abilities/_unique/electricbanjo/balance/invbald_artifact_electricbanjo,电子班卓
+/game/gear/artifacts/_design/partsets/abilities/_unique/grave/balance/invbald_artifact_grave,坟墓
+/game/gear/artifacts/_design/partsets/abilities/_unique/phoenixtears/balance/invbald_artifact_phoenixtears,凤凰泪
+/game/gear/artifacts/_design/partsets/abilities/_unique/roadwarrior/balance/invbald_artifact_roadwarrior,公路战士
+/game/gear/artifacts/_design/partsets/abilities/_unique/vaulthunterrelic/balance/invbald_artifact_relic,金库猎人的遗迹
+/game/gear/classmods/_design/balancedefs/invbald_classmod_beastmaster_01_common,兽王白色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_beastmaster_02_uncommon,兽王绿色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_beastmaster_03_rare,兽王蓝色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_beastmaster_04_veryrare,兽王紫色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_beastmaster_05_legendary,兽王传奇COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_gunner_01_common,枪手白色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_gunner_02_uncommon,枪手绿色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_gunner_03_rare,枪手蓝色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_gunner_04_veryrare,枪手紫色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_gunner_05_legendary,枪手传奇COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_operative_01_common,特工白色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_operative_02_uncommon,特工绿色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_operative_03_rare,特工蓝色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_operative_04_veryrare,特工紫色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_operative_05_legendary,特工传奇COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_siren_01_common,魔女白色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_siren_02_uncommon,魔女绿色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_siren_03_rare,魔女蓝色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_siren_04_veryrare,魔女紫色COM
+/game/gear/classmods/_design/balancedefs/invbald_classmod_siren_05_legendary,魔女传奇COM
+/game/gear/grenademods/_design/_unique/birthdaysuprise/balance/invbald_gm_birthdaysuprise,终结者
+/game/gear/grenademods/_design/_unique/buttstallion/balance/invbald_gm_buttstallion,钻石屁股炸弹
+/game/gear/grenademods/_design/_unique/cashmoneypreorder/balance/invbald_gm_cashmoneypreorder,奶酪切割机
+/game/gear/grenademods/_design/_unique/chupa/balance/invbald_gm_chupa,舒帕管风琴
+/game/gear/grenademods/_design/_unique/echov2/balance/invbald_gm_echov2,ECHO-2
+/game/gear/grenademods/_design/_unique/emp/balance/invbald_gm_emp,电磁脉冲
+/game/gear/grenademods/_design/_unique/epicenter/balance/invbald_gm_epicenter,震中
+/game/gear/grenademods/_design/_unique/fastball/balance/invbald_gm_ted_fastball,快速球
+/game/gear/grenademods/_design/_unique/firestorm/balance/invbald_gm_vla_firestorm,烈焰风暴
+/game/gear/grenademods/_design/_unique/hiphop/balance/invbald_gm_tor_hiphop,蒂娜的跳跳虫
+/game/gear/grenademods/_design/_unique/hunterseeker/balance/invbald_gm_hunterseeker,追猎者
+/game/gear/grenademods/_design/_unique/justdeserts/balance/invbald_gm_justdeserts,巧克力闪电
+/game/gear/grenademods/_design/_unique/kryll/balance/invbald_gm_kryll,科利尔
+/game/gear/grenademods/_design/_unique/mogwai/balance/invbald_gm_mogwai,元素持续接触榴弹
+/game/gear/grenademods/_design/_unique/moxiesbosom/balance/invbald_gm_pan_moxiesbosom,莫西的大波
+/game/gear/grenademods/_design/_unique/mushroom/balance/invbald_gm_shroom,我们中间的真菌
+/game/gear/grenademods/_design/_unique/nagate/balance/invbald_gm_nagate,永田
+/game/gear/grenademods/_design/_unique/obvioustrap/balance/invbald_gm_obvioustrap,低语之冰
+/game/gear/grenademods/_design/_unique/piss/balance/invbald_gm_piss,一团糟
+/game/gear/grenademods/_design/_unique/quasar/balance/invbald_gm_quasar,类星体
+/game/gear/grenademods/_design/_unique/redqueen/balance/invbald_gm_redqueen,红皇后
+/game/gear/grenademods/_design/_unique/seeker/balance/invbald_gm_seeker,六角
+/game/gear/grenademods/_design/_unique/stormfront/balance/invbald_gm_stormfront,风暴前线
+/game/gear/grenademods/_design/_unique/summit/balance/invbald_gm_summit,燃烧瓶
+/game/gear/grenademods/_design/_unique/surge/balance/invbald_gm_surge,浪涌
+/game/gear/grenademods/_design/_unique/toiletbombs/balance/invbald_gm_tor_toiletbombs,瓷管炸弹
+/game/gear/grenademods/_design/_unique/toygrenade/balance/invbald_gm_toygrenade,超级球
+/game/gear/grenademods/_design/_unique/tranfusion/balance/invbald_gm_tranfusion,传输
+/game/gear/grenademods/_design/_unique/widowmaker/balance/invbald_gm_widowmaker,黑寡妇
+/game/gear/grenademods/_design/_unique/wizardofnog/balance/invbald_gm_wizardofnog,诺格药水9号
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_atlas_01_common,阿特拉斯 白色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_atlas_02_uncommon,阿特拉斯 绿色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_atlas_03_rare,阿特拉斯 蓝色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_atlas_04_veryrare,阿特拉斯 紫色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_hyperion_01_common,亥伯龙 白色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_hyperion_02_uncommon,亥伯龙 绿色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_hyperion_03_rare,亥伯龙 蓝色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_hyperion_04_veryrare,亥伯龙 紫色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_pangolin_01_common,穿山甲 白色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_pangolin_02_uncommon,穿山甲 绿色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_pangolin_03_rare,穿山甲 蓝色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_pangolin_04_veryrare,穿山甲 紫色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_tediore_01_common,泰迪尔 白色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_tediore_02_uncommon,泰迪尔 绿色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_tediore_03_rare,泰迪尔 蓝色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_tediore_04_veryrare,泰迪尔 紫色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_torgue_01_common,托格 白色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_torgue_02_uncommon,托格 绿色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_torgue_03_rare,托格 蓝色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_torgue_04_veryrare,托格 紫色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_vladof_01_common,弗拉多夫 白色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_vladof_02_uncommon,弗拉多夫 绿色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_vladof_03_rare,弗拉多夫 蓝色 手榴弹
+/game/gear/grenademods/_design/invbalance/invbald_grenademod_vladof_04_veryrare,弗拉多夫 紫色 手榴弹
+/game/gear/shields/_design/_uniques/_xplootbooster/balance/invbald_shield_xplootbooster,资深恶棍
+/game/gear/shields/_design/_uniques/aurelia/balance/invbald_shield_lgd_aurelia,冰封之心
+/game/gear/shields/_design/_uniques/backham/balance/invbald_shield_backham,背后伤害
+/game/gear/shields/_design/_uniques/bigboomblaster/balance/invbald_shield_lgd_bigboomblaster,大爆炸冲击
+/game/gear/shields/_design/_uniques/blackhole/balance/invbald_shield_lgd_blackhole,黑洞
+/game/gear/shields/_design/_uniques/buriedalive/balance/invbald_shield_buriedalive,蓄能恢复
+/game/gear/shields/_design/_uniques/cyttorak/balance/invbald_shield_cyttorak,塞托拉克的魔带
+/game/gear/shields/_design/_uniques/dispensary/balance/invbald_shield_lgd_dispensary,口袋药房
+/game/gear/shields/_design/_uniques/frontloader/balance/invbald_shield_lgd_frontloader,生命铠甲
+/game/gear/shields/_design/_uniques/goldentouch/balance/invbald_shield_goldentouch,点石成金
+/game/gear/shields/_design/_uniques/impaler/balance/invbald_shield_lgd_impaler,穿刺公
+/game/gear/shields/_design/_uniques/loopof4n631/balance/invbald_shield_hyp_loopof4n631,4N631的循环
+/game/gear/shields/_design/_uniques/messybreakup/balance/invbald_shield_messybreakup,混乱的分手
+/game/gear/shields/_design/_uniques/moxxisembrace/balance/invbald_shield_moxxisembrace,莫西的拥抱
+/game/gear/shields/_design/_uniques/mrcaffeine/balance/invbald_shield_pan_mrcaffeine,咖啡因先生
+/game/gear/shields/_design/_uniques/novaburner/balance/invbald_shield_lgd_novaburner,伯纳星爆
+/game/gear/shields/_design/_uniques/radiate/balance/invbald_shield_lgd_radiate,赤甲
+/game/gear/shields/_design/_uniques/re-charger/balance/invbald_shield_lgd_recharger,加速充能
+/game/gear/shields/_design/_uniques/rectifier/balance/invbald_shield_lgd_rectifier,带电者
+/game/gear/shields/_design/_uniques/revengenader/balance/invbald_shield_lgd_revengenader,复仇者
+/game/gear/shields/_design/_uniques/roughrider/balance/invbald_shield_lgd_roughrider,狂野骑士
+/game/gear/shields/_design/_uniques/shootingstar/balance/invbald_shield_lgd_shootingstar,流星
+/game/gear/shields/_design/_uniques/slidekick/balance/invbald_shield_lgd_slidekick,红牌罚下
+/game/gear/shields/_design/_uniques/stopgap/balance/invbald_shield_lgd_stopgap,神佑
+/game/gear/shields/_design/_uniques/transformer/balance/invbald_shield_lgd_transformer,变形金刚
+/game/gear/shields/_design/_uniques/unpaler/balance/invbald_shield_lgd_unpaler,反穿刺公
+/game/gear/shields/_design/_uniques/vamp/balance/invbald_shield_legendary_vamp,能量转换
+/game/gear/shields/_design/_uniques/ward/balance/invbald_shield_ward,守卫者
+/game/gear/shields/_design/_uniques/whiskeytangofoxtrot/balance/invbald_shield_legendary_whiskeytangofoxtrot,威士忌探戈狐步舞
+/game/gear/shields/_design/invbalance/invbald_shield_anshin_01_common,安心 白色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_anshin_02_uncommon,安心 绿色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_anshin_03_rare,安心 蓝色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_anshin_04_veryrare,安心 紫色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_hyperion_01_common,亥伯龙 白色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_hyperion_02_uncommon,亥伯龙 绿色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_hyperion_03_rare,亥伯龙 蓝色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_hyperion_04_veryrare,亥伯龙 紫色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_pangolin_01_common,穿山甲 白色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_pangolin_02_uncommon,穿山甲 绿色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_pangolin_03_rare,穿山甲 蓝色 护盾
+/game/gear/shields/_design/invbalance/invbald_shield_pangolin_04_veryrare,穿山甲 紫色 护盾
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/cov/balance/balance_ar_cov_etech_rare,蓝色 异型 密藏之子 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/cov/balance/balance_ar_cov_etech_veryrare,紫色 异型 密藏之子 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/dahl/balance/balance_dal_ar_etech_rare,蓝色 异型 达尔 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/dahl/balance/balance_dal_ar_etech_veryrare,紫色 异型 达尔 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/tor/balance/balance_ar_tor_etech_rare,蓝色 异型 托格 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/tor/balance/balance_ar_tor_etech_veryrare,紫色 异型 托格 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/vla/balance/balance_ar_vla_etech_rare,蓝色 异型 弗拉多夫 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/assaultrifle/vla/balance/balance_ar_vla_etech_veryrare,紫色 异型 弗拉多夫 步枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/hw/cov/balance/balance_hw_cov_etech_rare,蓝色 异型 密藏之子 重武器
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/hw/cov/balance/balance_hw_cov_etech_veryrare,紫色 异型 密藏之子 重武器
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/hw/tor/balance/balance_hw_tor_etech_rare,蓝色 异型 托格 重武器
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/hw/tor/balance/balance_hw_tor_etech_veryrare,紫色 异型 托格 重武器
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/hw/vla/balance/balance_hw_vla_etech_rare,蓝色 异型 弗拉多夫 重武器
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/hw/vla/balance/balance_hw_vla_etech_veryrare,紫色 异型 弗拉多夫 重武器
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/cov/balance/balance_ps_cov_etech_rare,蓝色 异型 密藏之子 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/cov/balance/balance_ps_cov_etech_veryrare,紫色 异型 密藏之子 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/dahl/balance/balance_dal_ps_etech_rare,蓝色 异型 达尔 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/dahl/balance/balance_dal_ps_etech_veryrare,紫色 异型 达尔 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/mal/balance/balance_ps_mal_etech_rare,蓝色 异型 马里旺 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/mal/balance/balance_ps_mal_etech_veryrare,紫色 异型 马里旺 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/ted/balance/balance_ps_tediore_etech_rare,蓝色 异型 泰迪尔 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/ted/balance/balance_ps_tediore_etech_veryrare,紫色 异型 泰迪尔 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/tor/balance/balance_ps_tor_etech_rare,蓝色 异型 托格 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/tor/balance/balance_ps_tor_etech_veryrare,紫色 异型 托格 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/vladof/balance/balance_ps_vla_etech_rare,蓝色 异型 弗拉多夫 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/pistol/vladof/balance/balance_ps_vla_etech_veryrare,紫色 异型 弗拉多夫 手枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/hyperion/balance/balance_sg_hyp_etech_rare,蓝色 异型 亥伯龙 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/hyperion/balance/balance_sg_hyp_etech_veryrare,紫色 异型 亥伯龙 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/maliwan/balance/balance_sg_mal_etech_rare,蓝色 异型 马里旺 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/maliwan/balance/balance_sg_mal_etech_veryrare,紫色 异型 马里旺 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/tediore/balance/balance_sg_ted_etech_rare,蓝色 异型 泰迪尔 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/tediore/balance/balance_sg_ted_etech_veryrare,紫色 异型 泰迪尔 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/torgue/balance/balance_sg_torgue_etech_rare,蓝色 异型 托格 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/shotgun/torgue/balance/balance_sg_torgue_etech_veryrare,紫色 异型 托格 霰弹枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/dahl/balance/balance_sm_dal_etech_rare,蓝色 异型 达尔 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/dahl/balance/balance_sm_dal_etech_veryrare,紫色 异型 达尔 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/hyperion/balance/balance_sm_hyp_etech_rare,蓝色 异型 亥伯龙 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/hyperion/balance/balance_sm_hyp_etech_veryrare,紫色 异型 亥伯龙 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/maliwan/balance/balance_sm_mal_etech_rare,蓝色 异型 马里旺 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/maliwan/balance/balance_sm_mal_etech_veryrare,紫色 异型 马里旺 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/tediore/balance/balance_sm_ted_etech_rare,蓝色 异型 泰迪尔 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/smgs/tediore/balance/balance_sm_ted_etech_veryrare,紫色 异型 泰迪尔 冲锋枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/dahl/balance/balance_sr_dal_etech_rare,蓝色 异型 达尔 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/dahl/balance/balance_sr_dal_etech_veryrare,紫色 异型 达尔 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/hyperion/balance/balance_sr_hyp_etech_rare,蓝色 异型 亥伯龙 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/hyperion/balance/balance_sr_hyp_etech_veryrare,紫色 异型 亥伯龙 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/maliwan/balance/balance_sr_mal_etech_rare,蓝色 异型 马里旺 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/maliwan/balance/balance_sr_mal_etech_veryrare,紫色 异型 马里旺 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/vladof/balance/balance_sr_vla_etech_rare,蓝色 异型 弗拉多夫 狙击枪
+/game/gear/weapons/_shared/_design/_manufacturers/_etech/_design/sniperrifles/vladof/balance/balance_sr_vla_etech_veryrare,紫色 异型 弗拉多夫 狙击枪
+/game/gear/weapons/_shared/npc_weapons/zero/zeroforplayer/balance_sr_hyp_zeroforplayer,空指针
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/_unique/carrier/balance/balance_atl_ar_carrier,航空母舰
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/_unique/portal/balance/balance_atl_ar_portals,传送门
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/_unique/rebellyell/balance/balance_atl_ar_rebelyell,反抗的号角
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/balance/balance_atl_ar_01_common,白色 阿特拉斯 步枪
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/balance/balance_atl_ar_02_uncommon,绿色 阿特拉斯 步枪
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/balance/balance_atl_ar_03_rare,蓝色 阿特拉斯 步枪
+/game/gear/weapons/assaultrifles/atlas/_shared/_design/balance/balance_atl_ar_04_veryrare,紫色 阿特拉斯 步枪
+/game/gear/weapons/assaultrifles/childrenofthevault/_shared/_design/_unique/kriegar/balance/balance_ar_cov_kriegar,痛苦就是力量 / 拥抱痛苦
+/game/gear/weapons/assaultrifles/childrenofthevault/_shared/_design/_unique/sawbar/balance/balance_ar_cov_sawbar,锯条
+/game/gear/weapons/assaultrifles/childrenofthevault/_shared/_design/balancestate/balance_ar_cov_01_common,白色 密藏之子 步枪
+/game/gear/weapons/assaultrifles/childrenofthevault/_shared/_design/balancestate/balance_ar_cov_02_uncommon,绿色 密藏之子 步枪
+/game/gear/weapons/assaultrifles/childrenofthevault/_shared/_design/balancestate/balance_ar_cov_03_rare,蓝色 密藏之子 步枪
+/game/gear/weapons/assaultrifles/childrenofthevault/_shared/_design/balancestate/balance_ar_cov_04_veryrare,紫色 密藏之子 步枪
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/barrage/balance/balance_dal_ar_barrage,狂轰滥炸
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/botd/balance/balance_dal_ar_botd,垂死之息
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/earworm/balance/balance_dal_ar_earworm,害虫
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/hail/balance/balance_dal_ar_hail,冰雹
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/kaos/balance/balance_dal_ar_kaos,卡奥斯
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/starhelix/balance/balance_dal_ar_starhelix,恒星螺旋
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/_unique/warlord/balance/balance_dal_ar_warlord,军阀
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/balancestate/balance_dal_ar_01_common,白色 达尔 步枪
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/balancestate/balance_dal_ar_02_uncommon,绿色 达尔 步枪
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/balancestate/balance_dal_ar_03_rare,蓝色 达尔 步枪
+/game/gear/weapons/assaultrifles/dahl/_shared/_design/balancestate/balance_dal_ar_04_veryrare,紫色 达尔 步枪
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/bekah/balance/balance_ar_jak_bekah,Bekah
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/gatlinggun/balance/balance_ar_jak_04_gatlinggun,加特林枪
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/handofglory/balance/balance_ar_jak_handofglory,荣耀之手
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/leadsprinkler/balance/balance_ar_jak_leadsprinkler,弹雨
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/pasrifle/balance/balance_ar_jak_pasrifle,老爸的步枪
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/rowanscall/balance/balance_ar_jak_rowanscall,罗恩的召唤
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/_unique/traitorsdeath/balance/balance_ar_jak_traitorsdeath,叛徒之死
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/balance/balance_ar_jak_01_common,白色 雅各布斯 步枪
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/balance/balance_ar_jak_02_uncommon,绿色 雅各布斯 步枪
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/balance/balance_ar_jak_03_rare,蓝色 雅各布斯 步枪
+/game/gear/weapons/assaultrifles/jakobs/_shared/_design/balance/balance_ar_jak_04_veryrare,紫色 雅各布斯 步枪
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/_unique/alchemist/balance/balance_ar_tor_alchemist,炼金术士
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/_unique/ambermanagement/balance/balance_ar_tor_ambermanagement,琥珀管理
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/_unique/bearcat/balance/balance_ar_tor_bearcat,熊狸
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/_unique/lasersploder/balance/balance_ar_tor_lasersploder,激光爆炸器
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/_unique/trybolt/balance/balance_ar_tor_trybolt,原力试炼
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/balance/balance_ar_tor_01_common,白色 托格 步枪
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/balance/balance_ar_tor_02_uncommon,绿色 托格 步枪
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/balance/balance_ar_tor_03_rare,蓝色 托格 步枪
+/game/gear/weapons/assaultrifles/torgue/_shared/_design/balance/balance_ar_tor_04_veryrare,紫色 托格 步枪
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/bigsucc/balance_ar_vla_bigsucc,大成功
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/damn/balance/balance_ar_vla_damn,厄难
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/dictator/balance/balance_ar_vla_dictator,独裁者
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/faisor/balance/balance_ar_vla_faisor,费索
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/lucianscall/balance/balance_ar_vla_lucianscall,卢西恩的召唤
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/ogre/balance/balance_ar_vla_ogre,食人魔
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/shredifier/balance/balance_ar_vla_sherdifier,破碎者
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/_unique/sickle/balance/balance_ar_vla_sickle,动臂镰刀 / 镰刀
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/balancestate/balance_ar_vla_01_common,白色 弗拉多夫 步枪
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/balancestate/balance_ar_vla_02_uncommon,绿色 弗拉多夫 步枪
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/balancestate/balance_ar_vla_03_rare,蓝色 弗拉多夫 步枪
+/game/gear/weapons/assaultrifles/vladof/_shared/_design/balancestate/balance_ar_vla_04_veryrare,紫色 弗拉多夫 步枪
+/game/gear/weapons/heavyweapons/atl/_shared/_design/_unique/freeman/balance/balance_hw_atl_freeman,弗里曼
+/game/gear/weapons/heavyweapons/atl/_shared/_design/_unique/rubyswrath/balance/balance_hw_atl_rubyswrath,鲁比的愤怒
+/game/gear/weapons/heavyweapons/atl/_shared/_design/balancestate/balance_hw_atl_01_common,白色 阿特拉斯 重武器
+/game/gear/weapons/heavyweapons/atl/_shared/_design/balancestate/balance_hw_atl_02_uncommon,绿色 阿特拉斯 重武器
+/game/gear/weapons/heavyweapons/atl/_shared/_design/balancestate/balance_hw_atl_03_rare,蓝色 阿特拉斯 重武器
+/game/gear/weapons/heavyweapons/atl/_shared/_design/balancestate/balance_hw_atl_04_veryrare,紫色 阿特拉斯 重武器
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/_unique/hotdrop/balance/balance_hw_cov_hotdrop,灼热飞弹
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/_unique/portapooper/balance/balance_hw_cov_portapooper,移动喷粪器5000
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/_unique/terror/balance/balance_hw_cov_terror,痛苦制造者1500
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/balance/balance_hw_cov_01_common,白色 密藏之子 重武器
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/balance/balance_hw_cov_02_uncommon,绿色 密藏之子 重武器
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/balance/balance_hw_cov_03_rare,蓝色 密藏之子 重武器
+/game/gear/weapons/heavyweapons/childrenofthevault/_shared/_design/balance/balance_hw_cov_04_veryrare,紫色 密藏之子 重武器
+/game/gear/weapons/heavyweapons/eridian/_shared/_design/balance/balance_eridian_fabricator,伊瑞德制造器
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/_unique/burgercannon/balance/balance_hw_tor_burgercannon,格塔堡
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/_unique/hive/balance/balance_hw_tor_hive,蜂巢
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/_unique/rampager/balance/balance_hw_tor_rampager,四元主宰
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/_unique/ryno/balance/balance_hw_tor_ryno,R.Y.N.A.H.
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/_unique/swarm/balance/balance_hw_tor_swarm,鞭笞
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/_unique/tunguska/balance/balance_hw_tor_tunguska,通古斯大爆炸
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/balance/balance_hw_tor_01_common,白色 托格 重武器
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/balance/balance_hw_tor_02_uncommon,绿色 托格 重武器
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/balance/balance_hw_tor_03_rare,蓝色 托格 重武器
+/game/gear/weapons/heavyweapons/torgue/_shared/_design/balance/balance_hw_tor_04_veryrare,紫色 托格 重武器
+/game/gear/weapons/heavyweapons/vladof/_shared/_design/_unique/cloudburst/balance/balance_hw_vla_cloudburst,杰里科
+/game/gear/weapons/heavyweapons/vladof/_shared/_design/_unique/mongol/balance/balance_hw_vla_mongol,蒙古
+/game/gear/weapons/heavyweapons/vladof/_shared/_design/balance/balance_hw_vla_01_common,白色 弗拉多夫 重武器
+/game/gear/weapons/heavyweapons/vladof/_shared/_design/balance/balance_hw_vla_02_uncommon,绿色 弗拉多夫 重武器
+/game/gear/weapons/heavyweapons/vladof/_shared/_design/balance/balance_hw_vla_03_rare,蓝色 弗拉多夫 重武器
+/game/gear/weapons/heavyweapons/vladof/_shared/_design/balance/balance_hw_vla_04_veryrare,紫色 弗拉多夫 重武器
+/game/gear/weapons/pistols/atlas/_shared/_design/_unique/drill/balance/balance_ps_atl_drill,连接
+/game/gear/weapons/pistols/atlas/_shared/_design/_unique/warmonger/balance/balance_ps_atl_warmonger,泛和平主义者
+/game/gear/weapons/pistols/atlas/_shared/_design/balance/balance_ps_atl_01_common,白色 阿特拉斯 手枪
+/game/gear/weapons/pistols/atlas/_shared/_design/balance/balance_ps_atl_02_uncommon,绿色 阿特拉斯 手枪
+/game/gear/weapons/pistols/atlas/_shared/_design/balance/balance_ps_atl_03_rare,蓝色 阿特拉斯 手枪
+/game/gear/weapons/pistols/atlas/_shared/_design/balance/balance_ps_atl_04_veryrare,紫色 阿特拉斯 手枪
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/_unique/chad/balance/balance_ps_cov_chad,极端悬停查德
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/_unique/contagion/balance/balance_ps_cov_contagion,瘟疫
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/_unique/legion/balance/balance_ps_cov_legion,群
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/_unique/mouthpiece/balance/balance_ps_cov_mouthpiece,甜言蜜语
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/_unique/psychostabber/balance/balance_ps_cov_psychostabber,狂人刺客
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/_unique/skeksis/balance/balance_ps_cov_skeksis,司凯希斯
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/balance/balance_ps_cov_01_common,白色 密藏之子 手枪
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/balance/balance_ps_cov_02_uncommon,绿色 密藏之子 手枪
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/balance/balance_ps_cov_03_rare,蓝色 密藏之子 手枪
+/game/gear/weapons/pistols/childrenofthevault/_shared/_design/balance/balance_ps_cov_04_veryrare,紫色 密藏之子 手枪
+/game/gear/weapons/pistols/dahl/_shared/_design/_unique/aaa/balance/balance_dal_ps_aaa,AAA
+/game/gear/weapons/pistols/dahl/_shared/_design/_unique/hornet/balance/balance_dal_ps_hornet,猛毒大黄蜂
+/game/gear/weapons/pistols/dahl/_shared/_design/_unique/nemesis/balance/balance_dal_ps_nemesis,涅墨西斯
+/game/gear/weapons/pistols/dahl/_shared/_design/_unique/omniloader/balance/balance_dal_ps_omniloader,万用装载器
+/game/gear/weapons/pistols/dahl/_shared/_design/_unique/rakkman/balance/balance_dal_ps_rakkman,夜间飞行者
+/game/gear/weapons/pistols/dahl/_shared/_design/balancestate/balance_dal_ps_01_common,白色 达尔 手枪
+/game/gear/weapons/pistols/dahl/_shared/_design/balancestate/balance_dal_ps_01_firstguna,白色 达尔 手枪
+/game/gear/weapons/pistols/dahl/_shared/_design/balancestate/balance_dal_ps_01_firstgunb,白色 达尔 手枪
+/game/gear/weapons/pistols/dahl/_shared/_design/balancestate/balance_dal_ps_02_uncommon,绿色 达尔 手枪
+/game/gear/weapons/pistols/dahl/_shared/_design/balancestate/balance_dal_ps_03_rare,蓝色 达尔 手枪
+/game/gear/weapons/pistols/dahl/_shared/_design/balancestate/balance_dal_ps_04_veryrare,紫色 达尔 手枪
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/amazinggrace/balance/balance_ps_jak_amazinggrace,奇异恩典
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/buttplug/balance/balance_ps_jak_buttplug,肛门塞
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/doc/balance/balance_ps_jak_doc,洪水
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/godmother/balance/balance_ps_jak_godmother,双王的召唤
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/maggie/balance/balance_ps_jak_maggie,玛吉
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/malevolent/balance/balance_ps_jak_malevolent,死亡室
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/melscompanion/balance/balance_ps_jak_melscompanion,同伴
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/spyrevolver/balance_ps_jak_spyrevolver,流氓视线
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/theduc/balance/balance_ps_jak_theduc,毁灭公爵
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/unforgiven/balance/balance_ps_jak_unforgiven,不可饶恕的
+/game/gear/weapons/pistols/jakobs/_shared/_design/_unique/wagonwheel/balance/balance_ps_jak_wagonwheel,货车轮
+/game/gear/weapons/pistols/jakobs/_shared/_design/balancestate/balance_ps_jak_01_common,白色 雅各布斯 手枪
+/game/gear/weapons/pistols/jakobs/_shared/_design/balancestate/balance_ps_jak_02_uncommon,绿色 雅各布斯 手枪
+/game/gear/weapons/pistols/jakobs/_shared/_design/balancestate/balance_ps_jak_03_rare,蓝色 雅各布斯 手枪
+/game/gear/weapons/pistols/jakobs/_shared/_design/balancestate/balance_ps_jak_04_veryrare,紫色 雅各布斯 手枪
+/game/gear/weapons/pistols/maliwan/_shared/_design/_unique/hellshock/balance/balance_ps_mal_hellshock,地狱震荡
+/game/gear/weapons/pistols/maliwan/_shared/_design/_unique/hyperhydrator/balance/balance_ps_mal_hyperhydrator,超能水电枪
+/game/gear/weapons/pistols/maliwan/_shared/_design/_unique/plumber/balance/balance_ps_mal_plumber,弹力球
+/game/gear/weapons/pistols/maliwan/_shared/_design/_unique/starkiller/balance/balance_ps_mal_starkiller,弑星者
+/game/gear/weapons/pistols/maliwan/_shared/_design/_unique/suckerpunch/balance/balance_ps_mal_suckerpunch,背叛
+/game/gear/weapons/pistols/maliwan/_shared/_design/_unique/thunderballfist/balance/balance_ps_mal_thunderballfists,闪电球之拳
+/game/gear/weapons/pistols/maliwan/_shared/_design/balancestate/balance_ps_mal_01_common,白色 马里旺 手枪
+/game/gear/weapons/pistols/maliwan/_shared/_design/balancestate/balance_ps_mal_02_uncommon,绿色 马里旺 手枪
+/game/gear/weapons/pistols/maliwan/_shared/_design/balancestate/balance_ps_mal_03_rare,蓝色 马里旺 手枪
+/game/gear/weapons/pistols/maliwan/_shared/_design/balancestate/balance_ps_mal_04_veryrare,紫色 马里旺 手枪
+/game/gear/weapons/pistols/tediore/shared/_design/_unique/_bangarang/balance/balance_ps_ted_bangerang,班加朗
+/game/gear/weapons/pistols/tediore/shared/_design/_unique/babymaker/balance/balance_ps_tediore_babymaker,宝贝制造者艹
+/game/gear/weapons/pistols/tediore/shared/_design/_unique/babymaker/balance/salvage/balance_ps_tediore_babymaker_salvage,宝贝制造者(固定部件)
+/game/gear/weapons/pistols/tediore/shared/_design/_unique/gunerang/balance/balance_ps_ted_gunerang,回旋枪XL
+/game/gear/weapons/pistols/tediore/shared/_design/_unique/sabre/balance/balance_ps_tediore_sabre,毒刺XL
+/game/gear/weapons/pistols/tediore/shared/_design/balancestate/balance_ps_tediore_01_common,白色 泰迪尔 手枪
+/game/gear/weapons/pistols/tediore/shared/_design/balancestate/balance_ps_tediore_02_uncommon,绿色 泰迪尔 手枪
+/game/gear/weapons/pistols/tediore/shared/_design/balancestate/balance_ps_tediore_03_rare,蓝色 泰迪尔 手枪
+/game/gear/weapons/pistols/tediore/shared/_design/balancestate/balance_ps_tediore_04_veryrare,紫色 泰迪尔 手枪
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/devestator/balance/balance_ps_tor_devestator,外壳破坏者
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/echo/balance/balance_ps_tor_echo,ECHO
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/foursum/balance/balance_ps_tor_4sum,魔鬼四人组
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/heckelandhyde/heckle/balance/balance_ps_tor_heckle,海客
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/heckelandhyde/hyde/balance/balance_ps_tor_hyde,海德
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/nurf/balance/balance_ps_tor_nurf,格思暴能精英
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/roisensthorns/balance/balance_ps_tor_roisensthorns,罗森的刺
+/game/gear/weapons/pistols/torgue/_shared/_design/_unique/troy/balance/balance_ps_tor_troy,神秘术士
+/game/gear/weapons/pistols/torgue/_shared/_design/balance/balance_ps_tor_01_common,白色 托格 手枪
+/game/gear/weapons/pistols/torgue/_shared/_design/balance/balance_ps_tor_02_uncommon,绿色 托格 手枪
+/game/gear/weapons/pistols/torgue/_shared/_design/balance/balance_ps_tor_03_rare,蓝色 托格 手枪
+/game/gear/weapons/pistols/torgue/_shared/_design/balance/balance_ps_tor_04_veryrare,紫色 托格 手枪
+/game/gear/weapons/pistols/vladof/_shared/_design/_unique/boneshredder/balance/balance_ps_vla_boneshredder,Bone Shredder
+/game/gear/weapons/pistols/vladof/_shared/_design/_unique/infiniti/balance/balance_ps_vla_infiniti,Infinity
+/game/gear/weapons/pistols/vladof/_shared/_design/_unique/magnificent/balance/balance_ps_vla_magnificent,Magnificent
+/game/gear/weapons/pistols/vladof/_shared/_design/_unique/theleech/balance/balance_ps_vla_theleech,The Leech
+/game/gear/weapons/pistols/vladof/_shared/_design/balancestate/balance_ps_vla_01_common,白色 弗拉多夫 手枪
+/game/gear/weapons/pistols/vladof/_shared/_design/balancestate/balance_ps_vla_02_uncommon,绿色 弗拉多夫 手枪
+/game/gear/weapons/pistols/vladof/_shared/_design/balancestate/balance_ps_vla_03_rare,蓝色 弗拉多夫 手枪
+/game/gear/weapons/pistols/vladof/_shared/_design/balancestate/balance_ps_vla_04_veryrare,紫色 弗拉多夫 手枪
+/game/gear/weapons/shotguns/hyperion/_shared/_design/_unique/brick/balance/balance_sg_hyp_brick,面部穿孔机
+/game/gear/weapons/shotguns/hyperion/_shared/_design/_unique/conferencecall/balance/balance_sg_hyp_conferencecall,电话会议
+/game/gear/weapons/shotguns/hyperion/_shared/_design/_unique/phebert/balance/balance_sg_hyp_phebert,费博特
+/game/gear/weapons/shotguns/hyperion/_shared/_design/_unique/redistributor/balance/balance_sg_hyp_redistributor,头脑风暴
+/game/gear/weapons/shotguns/hyperion/_shared/_design/_unique/thebutcher/balance/balance_sg_hyp_thebutcher,屠夫
+/game/gear/weapons/shotguns/hyperion/_shared/_design/balancestates/balance_sg_hyp_01_common,白色 亥伯龙 霰弹枪
+/game/gear/weapons/shotguns/hyperion/_shared/_design/balancestates/balance_sg_hyp_02_uncommon,绿色 亥伯龙 霰弹枪
+/game/gear/weapons/shotguns/hyperion/_shared/_design/balancestates/balance_sg_hyp_03_rare,蓝色 亥伯龙 霰弹枪
+/game/gear/weapons/shotguns/hyperion/_shared/_design/balancestates/balance_sg_hyp_04_veryrare,紫色 亥伯龙 霰弹枪
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/_legendary/garcia/balance/balance_sg_jak_garcia,加西亚家族
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/_legendary/hellwalker/balance/balance_sg_jak_hellwalker,地狱行者
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/_legendary/nimblejack/balance/balance_sg_jak_nimble,敏捷的杰克
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/_legendary/onepunch/balance/balance_sg_jak_onepunch,单泵笨蛋
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/_legendary/sledge/balance/balance_sg_jak_lgd_sledge,斯莱奇霰弹枪 / 斯莱奇超级霰弹枪
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/fingerbiter/balance/balance_sg_jak_fingerbiter,手指咬
+/game/gear/weapons/shotguns/jakobs/_shared/_design/_unique/thewave/balance/balance_sg_jak_unique_wave,T.K波动
+/game/gear/weapons/shotguns/jakobs/_shared/_design/balancestate/balance_sg_jak_01_common,白色 雅各布斯 霰弹枪
+/game/gear/weapons/shotguns/jakobs/_shared/_design/balancestate/balance_sg_jak_02_uncommon,绿色 雅各布斯 霰弹枪
+/game/gear/weapons/shotguns/jakobs/_shared/_design/balancestate/balance_sg_jak_03_rare,蓝色 雅各布斯 霰弹枪
+/game/gear/weapons/shotguns/jakobs/_shared/_design/balancestate/balance_sg_jak_04_veryrare,紫色 雅各布斯 霰弹枪
+/game/gear/weapons/shotguns/maliwan/_shared/_design/_unique/mouthpiece2/balance/balance_sg_mal_mouthpiece2,精神杀手
+/game/gear/weapons/shotguns/maliwan/_shared/_design/_unique/recursion/balance/balance_sg_mal_recursion,射弹循环
+/game/gear/weapons/shotguns/maliwan/_shared/_design/_unique/shriek/balance/balance_sg_mal_shriek,咆哮恶魔
+/game/gear/weapons/shotguns/maliwan/_shared/_design/_unique/trev/balance/balance_sg_mal_trev,特雷弗终结者
+/game/gear/weapons/shotguns/maliwan/_shared/_design/_unique/wisp/balance/balance_sg_mal_wisp,鬼火
+/game/gear/weapons/shotguns/maliwan/_shared/_design/balancestate/balance_sg_mal_01_common,白色 马里旺 霰弹枪
+/game/gear/weapons/shotguns/maliwan/_shared/_design/balancestate/balance_sg_mal_02_uncommon,绿色 马里旺 霰弹枪
+/game/gear/weapons/shotguns/maliwan/_shared/_design/balancestate/balance_sg_mal_03_rare,蓝色 马里旺 霰弹枪
+/game/gear/weapons/shotguns/maliwan/_shared/_design/balancestate/balance_sg_mal_04_veryrare,紫色 马里旺 霰弹枪
+/game/gear/weapons/shotguns/tediore/_shared/_design/_unique/friendzone/balance/balance_sg_ted_friendzone,疯精寻梦枪
+/game/gear/weapons/shotguns/tediore/_shared/_design/_unique/horizon/balance/balance_sg_ted_horizon,地平线
+/game/gear/weapons/shotguns/tediore/_shared/_design/_unique/polybius/balance/balance_sg_ted_polybius,波利比阿斯
+/game/gear/weapons/shotguns/tediore/_shared/_design/_unique/sludge/balance/balance_sg_ted_sludge,爬行死亡
+/game/gear/weapons/shotguns/tediore/_shared/_design/balance/balance_sg_ted_01_common,白色 泰迪尔 霰弹枪
+/game/gear/weapons/shotguns/tediore/_shared/_design/balance/balance_sg_ted_02_uncommon,绿色 泰迪尔 霰弹枪
+/game/gear/weapons/shotguns/tediore/_shared/_design/balance/balance_sg_ted_03_rare,蓝色 泰迪尔 霰弹枪
+/game/gear/weapons/shotguns/tediore/_shared/_design/balance/balance_sg_ted_04_veryrare,紫色 泰迪尔 霰弹枪
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/balrog/balance/balance_sg_torgue_balrog,打孔枪
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/brew/balance/balance_sg_tor_brewha,黑色火焰
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/flakker/balance/balance_sg_torgue_flakker,高射炮
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/redliner/balance/balance_sg_torgue_redline,终点线
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/theboringgun/balance/balance_sg_tor_boring,咀嚼者
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/thelob/balance/balance_sg_torgue_etech_thelob,大厅
+/game/gear/weapons/shotguns/torgue/_shared/_design/_unique/thumper/balance/balance_sg_torgue_thumper,普桑兔
+/game/gear/weapons/shotguns/torgue/_shared/_design/balancestate/balance_sg_torgue_01_common,白色 托格 霰弹枪
+/game/gear/weapons/shotguns/torgue/_shared/_design/balancestate/balance_sg_torgue_02_uncommon,绿色 托格 霰弹枪
+/game/gear/weapons/shotguns/torgue/_shared/_design/balancestate/balance_sg_torgue_03_rare,蓝色 托格 霰弹枪
+/game/gear/weapons/shotguns/torgue/_shared/_design/balancestate/balance_sg_torgue_04_veryrare,紫色 托格 霰弹枪
+/game/gear/weapons/smgs/dahl/_shared/_design/_unique/demoskag/balance/balance_sm_dal_demoskag,夜鹰
+/game/gear/weapons/smgs/dahl/_shared/_design/_unique/hellfire/balance/balance_sm_dahl_hellfire,地狱之火
+/game/gear/weapons/smgs/dahl/_shared/_design/_unique/ninevolt/balance/balance_sm_dahl_ninevolt,惊雷9伏特
+/game/gear/weapons/smgs/dahl/_shared/_design/_unique/ripper/balance/balance_sm_dal_ripper,开膛手
+/game/gear/weapons/smgs/dahl/_shared/_design/_unique/sleepinggiant/balance/balance_sm_dal_sleepinggiant,沉睡巨人
+/game/gear/weapons/smgs/dahl/_shared/_design/_unique/vanquisher/balance/balance_sm_dahl_vanquisher,征服者
+/game/gear/weapons/smgs/dahl/_shared/_design/balancestate/balance_sm_dahl_01_common,白色 达尔 冲锋枪
+/game/gear/weapons/smgs/dahl/_shared/_design/balancestate/balance_sm_dahl_01_common_no_elemental,白色 达尔 冲锋枪
+/game/gear/weapons/smgs/dahl/_shared/_design/balancestate/balance_sm_dahl_02_uncommon,绿色 达尔 冲锋枪
+/game/gear/weapons/smgs/dahl/_shared/_design/balancestate/balance_sm_dahl_03_rare,蓝色 达尔 冲锋枪
+/game/gear/weapons/smgs/dahl/_shared/_design/balancestate/balance_sm_dahl_04_veryrare,紫色 达尔 冲锋枪
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/bitch/balance/balance_sm_hyp_bitch,贱人
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/crossroad/balance/balance_sm_hyp_crossroad,十字枪
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/fork/balance/balance_sm_hyp_fork,再分配器蓝(任务奖励)
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/handsome/balance/balance_sm_hyp_handsome,铁壁帅杰克
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/l0v3m4ch1n3/balance/balance_sm_hyp_l0v3m4ch1n3,L0V3M4CH1N3
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/predatorylending/balance/balance_sm_hyp_predatorylending,掠夺式贷款
+/game/gear/weapons/smgs/hyperion/_shared/_design/_unique/xz/balance/balance_sm_hyp_xz,XZ41
+/game/gear/weapons/smgs/hyperion/_shared/_design/balancestate/balance_sm_hyp_01_common,白色 亥伯龙 冲锋枪
+/game/gear/weapons/smgs/hyperion/_shared/_design/balancestate/balance_sm_hyp_02_uncommon,绿色 亥伯龙 冲锋枪
+/game/gear/weapons/smgs/hyperion/_shared/_design/balancestate/balance_sm_hyp_03_rare,蓝色 亥伯龙 冲锋枪
+/game/gear/weapons/smgs/hyperion/_shared/_design/balancestate/balance_sm_hyp_04_veryrare,紫色 亥伯龙 冲锋枪
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/cloudkill/balance/balance_sm_mal_cloudkill,毒云术
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/crit/balance/balance_sm_mal_crit,暴击
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/cutsman/balance/balance_sm_mal_cutsman,切割者
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/destructospin/balance/balance_sm_mal_destructospin,破坏漩涡
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/devoted/balance/balance_sm_mal_devoted,奉献
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/e3/balance_sm_mal_e3,金库英雄
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/egon/balance/balance_sm_mal_egon,埃贡
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/emporer/balance/balance_sm_mal_emporer,皇帝的佐料
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/kevins/balance/balance_sm_mal_kevins,凯文的辣椒
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/tsunami/balance/balance_sm_mal_tsunami,海啸
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/vibrapulse/balance/balance_sm_mal_vibrapulse,莫西小姐的振动枪
+/game/gear/weapons/smgs/maliwan/_shared/_design/_unique/westergun/balance/balance_sm_mal_westergun,韦斯特枪支
+/game/gear/weapons/smgs/maliwan/_shared/_design/balancestate/balance_sm_mal_01_common,白色 马里旺 冲锋枪
+/game/gear/weapons/smgs/maliwan/_shared/_design/balancestate/balance_sm_mal_02_uncommon,绿色 马里旺 冲锋枪
+/game/gear/weapons/smgs/maliwan/_shared/_design/balancestate/balance_sm_mal_03_rare,蓝色 马里旺 冲锋枪
+/game/gear/weapons/smgs/maliwan/_shared/_design/balancestate/balance_sm_mal_04_veryrare,紫色 马里旺 冲锋枪
+/game/gear/weapons/smgs/tediore/_shared/_design/_unique/beans/balance/balance_sm_ted_beans,豆荚
+/game/gear/weapons/smgs/tediore/_shared/_design/_unique/notaflamethrower/balance/balance_sm_ted_notaflamethrower,长杆步枪
+/game/gear/weapons/smgs/tediore/_shared/_design/_unique/spidermind/balance/balance_sm_ted_spidermind,智能枪XL
+/game/gear/weapons/smgs/tediore/_shared/_design/_unique/tengallon/balance/balance_sm_ted_tengallon,十加仑
+/game/gear/weapons/smgs/tediore/_shared/_design/balance/balance_sm_ted_01_common,白色 泰迪尔 冲锋枪
+/game/gear/weapons/smgs/tediore/_shared/_design/balance/balance_sm_ted_02_uncommon,绿色 泰迪尔 冲锋枪
+/game/gear/weapons/smgs/tediore/_shared/_design/balance/balance_sm_ted_03_rare,蓝色 泰迪尔 冲锋枪
+/game/gear/weapons/smgs/tediore/_shared/_design/balance/balance_sm_ted_04_veryrare,紫色 泰迪尔 冲锋枪
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/_unique/brashisdedication/balance/balance_sr_dal_brashisdedication,布拉希之奉献
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/_unique/malaksbane/balance/balance_sr_dal_etech_malaksbane,马拉克之祸
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/_unique/worlddestroyer/balance/balance_sr_dal_worlddestroyer,克努科罗斯
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/balance/balance_sr_dal_01_common,白色 达尔 狙击枪
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/balance/balance_sr_dal_02_uncommon,绿色 达尔 狙击枪
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/balance/balance_sr_dal_03_rare,蓝色 达尔 狙击枪
+/game/gear/weapons/sniperrifles/dahl/_shared/_design/balance/balance_sr_dal_04_veryrare,紫色 达尔 狙击枪
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/_unique/masterworkcrossbow/balance/balance_sr_hyp_masterwork,大师级十字弓
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/_unique/twotime/balance/balance_sr_hyp_twotime,两次
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/_unique/woodblocks/balance/balance_sr_hyp_woodblocks,暴恐分子
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/balance/balance_sr_hyp_01_common,白色 亥伯龙 狙击枪
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/balance/balance_sr_hyp_02_uncommon,绿色 亥伯龙 狙击枪
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/balance/balance_sr_hyp_03_rare,蓝色 亥伯龙 狙击枪
+/game/gear/weapons/sniperrifles/hyperion/_shared/_design/balance/balance_sr_hyp_04_veryrare,紫色 亥伯龙 狙击枪
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/_unique/headsplosion/balance/balance_sr_jak_headsplosion,爆头
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/_unique/icequeen/balance/balance_sr_jak_icequeen,冰雪女王
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/_unique/monocle/balance/balance_sr_jak_monocle,单片镜
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/_unique/thehunter/balance/balance_sr_jak_hunter,猎人
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/_unique/thehunter/hunted/balance/balance_sr_jak_hunted,猎物
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/_unique/thehunter/huntress/balance/balance_sr_jak_huntress,女猎人
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/balance/balance_sr_jak_01_common,白色 雅各布斯 狙击枪
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/balance/balance_sr_jak_02_uncommon,绿色 雅各布斯 狙击枪
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/balance/balance_sr_jak_03_rare,蓝色 雅各布斯 狙击枪
+/game/gear/weapons/sniperrifles/jakobs/_shared/_design/balance/balance_sr_jak_04_veryrare,紫色 雅各布斯 狙击枪
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/_unique/_legendary/asmd/balance/balance_mal_sr_asmd,人造电磁毁灭者
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/_unique/_legendary/krakatoa/balance/balance_mal_sr_krakatoa,喀拉喀托
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/_unique/_legendary/soleki/balance/balance_mal_sr_soleki,索勒基协议
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/_unique/_legendary/storm/balance/balance_mal_sr_lgd_storm,风暴/烈焰风暴
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/balance/balance_mal_sr_01_common,白色 马里旺 狙击枪
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/balance/balance_mal_sr_02_uncommon,绿色 马里旺 狙击枪
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/balance/balance_mal_sr_03_rare,蓝色 马里旺 狙击枪
+/game/gear/weapons/sniperrifles/maliwan/shared/_design/balance/balance_mal_sr_04_veryrare,紫色 马里旺 狙击枪
+/game/gear/weapons/sniperrifles/vladof/_shared/_design/_unique/lyuda/balance/balance_vla_sr_lyuda,Lyuda
+/game/gear/weapons/sniperrifles/vladof/_shared/_design/_unique/prison/balance/balance_vla_sr_prison,Cold Shoulder
+/game/gear/weapons/sniperrifles/vladof/_shared/_design/balance/balance_vla_sr_01_common,白色 弗拉多夫 狙击枪
+/game/gear/weapons/sniperrifles/vladof/_shared/_design/balance/balance_vla_sr_02_uncommon,绿色 弗拉多夫 狙击枪
+/game/gear/weapons/sniperrifles/vladof/_shared/_design/balance/balance_vla_sr_03_rare,蓝色 弗拉多夫 狙击枪
+/game/gear/weapons/sniperrifles/vladof/_shared/_design/balance/balance_vla_sr_04_veryrare,紫色 弗拉多夫 狙击枪
+/game/patchdlc/alisma/gear/classmods/_design/bsm/invbald_cm_beastmaster_alisma,兽王 游隼传奇COM
+/game/patchdlc/alisma/gear/classmods/_design/gun/invbald_cm_gunner_alisma,枪手 闪耀传奇COM
+/game/patchdlc/alisma/gear/classmods/_design/ope/invbald_cm_operative_alisma,特工 皮条客传奇COM
+/game/patchdlc/alisma/gear/classmods/_design/srn/invbald_cm_siren_alisma,魔女 缪斯传奇COM
+/game/patchdlc/alisma/gear/shields/_uniques/faultystar/balance/invbald_shield_legendary_faultystar,星运之错
+/game/patchdlc/alisma/gear/shields/_uniques/faultystar/balance/invbald_shield_legendary_faultystar_epic,罪恶火花紫
+/game/patchdlc/alisma/gear/shields/_uniques/plusultra/balance/invbald_shield_legendary_plusultra,超极致
+/game/patchdlc/alisma/gear/shields/_uniques/plusultra/balance/invbald_shield_legendary_plusultra_epic,脱坡极限紫
+/game/patchdlc/alisma/gear/weapon/_unique/ashenbeast/balance/balance_sm_dal_etech_ashenbeast,嗜血野兽
+/game/patchdlc/alisma/gear/weapon/_unique/ashenbeast/balance/balance_sm_dal_etech_ashenbeast_epic,苍白巨兽紫
+/game/patchdlc/alisma/gear/weapon/_unique/banditlauncher/balance/balance_hw_cov_banditlauncher,大钢炮
+/game/patchdlc/alisma/gear/weapon/_unique/banditlauncher/balance/balance_hw_cov_banditlauncher_epic,小钢炮紫
+/game/patchdlc/alisma/gear/weapon/_unique/blindbandit/balance/balance_sg_mal_blindbandit,盲眼贤者
+/game/patchdlc/alisma/gear/weapon/_unique/blindbandit/balance/balance_sg_mal_blindbandit_epic,盲眼强盗紫
+/game/patchdlc/alisma/gear/weapon/_unique/convergence/balance/balance_sg_hyp_convergence,收敛
+/game/patchdlc/alisma/gear/weapon/_unique/convergence/balance/balance_sg_hyp_convergence_epic,重聚紫
+/game/patchdlc/alisma/gear/weapon/_unique/lovablerogue/balance/balance_ar_tor_lovablerogue,可爱流氓
+/game/patchdlc/alisma/gear/weapon/_unique/lovablerogue/balance/balance_ar_tor_lovablerogue_epic,欢喜无赖
+/game/patchdlc/alisma/gear/weapon/_unique/pat_mk3/balance/balance_sm_ted_patmk3,阿端Ⅲ型
+/game/patchdlc/alisma/gear/weapon/_unique/pat_mk3/balance/balance_sm_ted_patmk3_epic,阿端Ⅱ型（紫）
+/game/patchdlc/alisma/gear/weapon/_unique/pat_mk3/balance/balance_sm_ted_patmk3_parent,阿端Ⅰ型（紫）
+/game/patchdlc/alisma/gear/weapon/_unique/sawhorse/balance/balance_ar_cov_sawhorse,反弹
+/game/patchdlc/alisma/gear/weapon/_unique/sawhorse/balance/balance_ar_cov_sawhorse_epic,财奴锯架（紫）
+/game/patchdlc/alisma/gear/weapon/_unique/septimator/balance/balance_vla_sr_septimator,第七人首领
+/game/patchdlc/alisma/gear/weapon/_unique/septimator/balance/balance_vla_sr_septimator_epic,第七人紫
+/game/patchdlc/alisma/gear/weapon/_unique/voice/balance/balance_ps_tor_voice,瞬发临界
+/game/patchdlc/alisma/gear/weapon/_unique/voice/balance/balance_ps_tor_voice_epic,临界质量紫
+/game/patchdlc/bloodyharvest/gear/grenademods/_design/_unique/fontofdarkness/balance/invbald_gm_tor_fontofdarkness,恶鬼召唤
+/game/patchdlc/bloodyharvest/gear/shields/_design/_unique/screamofpain/balance/invbald_shield_screamofterror,恐惧惨叫
+/game/patchdlc/bloodyharvest/gear/weapons/shotguns/hyperion/_shared/_design/_unique/fearmonger/balance/balance_sg_hyp_etech_fearmonger,恐惧散布者
+/game/patchdlc/bloodyharvest/gear/weapons/sniperrifles/dahl/_design/_unique/frostbolt/balance/balance_sr_dal_etech_frostbolt,跟踪者
+/game/patchdlc/dandelion/gear/cm/_d/partsets/_u/bsm/invbald_cm_beastmaster_dlc1,兽王 St4ckbot传奇COM
+/game/patchdlc/dandelion/gear/cm/_d/partsets/_u/gun/invbald_cm_gunner_dlc1,枪手 绿色 怪物传奇COM
+/game/patchdlc/dandelion/gear/cm/_d/partsets/_u/ope/invbald_cm_operative_dlc1,特工 看《死亡传奇》COM
+/game/patchdlc/dandelion/gear/cm/_d/partsets/_u/srn/invbald_cm_siren_dlc1,魔女 黄金法则传奇COM
+/game/patchdlc/dandelion/gear/grenade/acidburn/balance/invbald_gm_acidburn,酸性灼伤
+/game/patchdlc/dandelion/gear/grenade/slider/balance/invbald_gm_ted_slider,小滑球
+/game/patchdlc/dandelion/gear/shield/clover/balance/invbald_shield_clover,梭哈
+/game/patchdlc/dandelion/gear/shield/doubledowner/balance/invbald_shield_doubledowner,双倍镇定剂
+/game/patchdlc/dandelion/gear/shield/ember/balance/invbald_shield_ember,安贝尔的怒火
+/game/patchdlc/dandelion/gear/shield/rico/balance/invbald_shield_rico,弹射
+/game/patchdlc/dandelion/gear/weapon/_unique/autoaime/balance/balance_sr_dal_autoaime,自动叹息
+/game/patchdlc/dandelion/gear/weapon/_unique/boomer/balance/balance_sm_dal_boomer,轰爆者
+/game/patchdlc/dandelion/gear/weapon/_unique/cheaptips/balance/balance_sm_hyp_cheaptips,廉价小费
+/game/patchdlc/dandelion/gear/weapon/_unique/craps/balance/balance_ps_tor_craps,花旗骰
+/game/patchdlc/dandelion/gear/weapon/_unique/creamer/balance/balance_hw_tor_creamer,奶油分离器
+/game/patchdlc/dandelion/gear/weapon/_unique/digby/balance/balance_dal_ar_digby,迪格比光滑管
+/game/patchdlc/dandelion/gear/weapon/_unique/emberspurge/balance/balance_sm_mal_emberspurge,安贝尔的大清洗
+/game/patchdlc/dandelion/gear/weapon/_unique/heartbreaker/balance/balance_sg_hyp_heartbreaker,负心汉
+/game/patchdlc/dandelion/gear/weapon/_unique/ioncannon/balance/balance_hw_vla_ioncannon,离子炮
+/game/patchdlc/dandelion/gear/weapon/_unique/ionlaser/balance/balance_sm_mal_ionlaser,离子激光
+/game/patchdlc/dandelion/gear/weapon/_unique/justcaustic/balance/balance_sm_hyp_justcaustic,正当防卫
+/game/patchdlc/dandelion/gear/weapon/_unique/lucky7/balance/balance_ps_jak_lucky7,幸运7
+/game/patchdlc/dandelion/gear/weapon/_unique/meltfacer/balance/balance_sg_hyp_meltfacer,熔脸者
+/game/patchdlc/dandelion/gear/weapon/_unique/nukem/balance/balance_hw_tor_nukem,核子
+/game/patchdlc/dandelion/gear/weapon/_unique/robomasher/balance/balance_ps_jak_robomasher,熔铁者
+/game/patchdlc/dandelion/gear/weapon/_unique/scoville/balance/balance_ps_tor_scoville,斯科维尔
+/game/patchdlc/dandelion/gear/weapon/_unique/slowhand/balance/balance_sg_hyp_slowhand,慢手
+/game/patchdlc/dandelion/gear/weapon/_unique/trash/balance/balance_ar_cov_trash,倒霉鬼
+/game/patchdlc/dandelion/gear/weapon/_unique/varlope/balance/balance_ar_tor_varlope,瓦洛普
+/game/patchdlc/event2/gear/grenademods/fishslap/balance/invbald_gm_fishslap,鱼拍
+/game/patchdlc/event2/gear/shield/_unique/firewall/balance/invbald_shield_legendary_firewall,火墙
+/game/patchdlc/event2/gear/shield/_unique/meat/balance/invbald_shield_legendary_meat,M.E.A.T.护盾
+/game/patchdlc/event2/gear/shield/_unique/wattson/balance/invbald_shield_legendary_wattson,威特逊
+/game/patchdlc/event2/gear/weapon/_unique/greasetrap/balance/balance_ps_mal_greasetrap,油脂陷阱
+/game/patchdlc/event2/gear/weapon/_unique/iceburger/balance/balance_sg_hyp_iceburger,冰堡包
+/game/patchdlc/event2/gear/weapon/_unique/icepick/balance/balance_ps_mal_icepick,冰镐
+/game/patchdlc/event2/gear/weapon/_unique/needlegun/balance/balance_sm_ted_needlegun,针击枪
+/game/patchdlc/event2/gear/weapon/_unique/opq/balance/balance_atl_ar_opq,OPQ系列步枪
+/game/patchdlc/event2/gear/weapon/_unique/pewpew/balance/balance_ar_cov_pewpew,不准翁
+/game/patchdlc/event2/gear/weapon/_unique/pricker/balance/balance_sm_hyp_pricker,刺头
+/game/patchdlc/event2/gear/weapon/_unique/yellowcake/balance/balance_hw_cov_etech_yellowcake,黄饼
+/game/patchdlc/eventvday/gear/weapon/_unique/polyaim/balance/balance_sm_mal_polyaim,复合爱恋
+/game/patchdlc/eventvday/gear/weapon/_unique/twitchprime/balance/balance_sg_ted_twitch,超级流
+/game/patchdlc/eventvday/gear/weapon/_unique/weddinginvitation/balance/balance_sr_jak_weddinginvite,婚礼请帖
+/game/patchdlc/geranium/gear/artifacts/_design/_unique/vengeance/balance/invbald_artifact_vengeance,世仇紫神器
+/game/patchdlc/geranium/gear/grenade/coreburst/balance/invbald_gm_coreburst,核心爆发
+/game/patchdlc/geranium/gear/grenade/skagoil/balance/invbald_gm_skagoil,希娜博士的神奇手雷
+/game/patchdlc/geranium/gear/weapon/_unique/antler/balance/balance_sg_mal_etech_antler,吊灯
+/game/patchdlc/geranium/gear/weapon/_unique/biobetsy/balance/balance_ar_cov_biobetsy_rad,巨兽紫
+/game/patchdlc/geranium/gear/weapon/_unique/biobetsy/balance/balance_ar_cov_biobetsy_shock,巨兽
+/game/patchdlc/geranium/gear/weapon/_unique/brightside/balance/balance_sg_ted_brightside,光明一面
+/game/patchdlc/geranium/gear/weapon/_unique/bubbleblaster/balance/balance_ps_mal_bubbleblaster,泡沫爆破者紫
+/game/patchdlc/geranium/gear/weapon/_unique/containedexplosion/balance/balance_ar_tor_contained,遏制爆炸
+/game/patchdlc/geranium/gear/weapon/_unique/coolbeans/balance/balance_ar_jak_coolbeans,破冰者紫
+/game/patchdlc/geranium/gear/weapon/_unique/copybeast/balance/balance_sm_hyp_copybeast,专利执照
+/game/patchdlc/geranium/gear/weapon/_unique/dakota/balance/balance_sg_jak_dakota,达科他
+/game/patchdlc/geranium/gear/weapon/_unique/decoupler/balance/balance_ps_mal_decoupler,信标
+/game/patchdlc/geranium/gear/weapon/_unique/dowsingrod/balance/balance_ar_vla_dowsing,探矿杖
+/game/patchdlc/geranium/gear/weapon/_unique/earthbound/balance/balance_sm_ted_earthbound,亦为人母
+/game/patchdlc/geranium/gear/weapon/_unique/fakobs/balance/balance_sg_jak_fakobs,杂毛白
+/game/patchdlc/geranium/gear/weapon/_unique/flipper/balance/balance_sm_mal_flipper,飞鳍
+/game/patchdlc/geranium/gear/weapon/_unique/frequency/balance/balance_sg_mal_frequency,频率
+/game/patchdlc/geranium/gear/weapon/_unique/gargoyle/balance/balance_ps_cov_gargoyle,石像鬼
+/game/patchdlc/geranium/gear/weapon/_unique/imaginarynumber/balance/balance_mal_sr_imaginarynumber,复杂根须
+/game/patchdlc/geranium/gear/weapon/_unique/lasocannon/balance/balance_ps_vla_lasocannon,灯光展
+/game/patchdlc/geranium/gear/weapon/_unique/mcsmugger/balance/balance_ar_jak_mcsmugger,圣杯紫
+/game/patchdlc/geranium/gear/weapon/_unique/miscreant/balance/balance_ps_vla_miscreant,异端
+/game/patchdlc/geranium/gear/weapon/_unique/narp/balance/balance_sr_hyp_narp,纳普
+/game/patchdlc/geranium/gear/weapon/_unique/peashooter/balance/balance_ps_jak_peashooter,豌豆射手紫
+/game/patchdlc/geranium/gear/weapon/_unique/plumage/balance/balance_hw_atl_plumage,羽毛
+/game/patchdlc/geranium/gear/weapon/_unique/privateinvestigator/balance/balance_dal_ps_privateinvestigator,纯白
+/game/patchdlc/geranium/gear/weapon/_unique/quickdraw/balance/balance_ps_jak_quickdraw,快枪手紫
+/game/patchdlc/geranium/gear/weapon/_unique/rose/balance/balance_ps_jak_rose,绽放
+/game/patchdlc/geranium/gear/weapon/_unique/satisfaction/balance/balance_hw_tor_satisfaction,满足
+/game/patchdlc/geranium/gear/weapon/_unique/sheriff/balance/balance_ps_jak_sheriff,元帅
+/game/patchdlc/geranium/gear/weapon/_unique/shoveler/balance/balance_sg_torgue_shoveler,铁锹
+/game/patchdlc/geranium/gear/weapon/_unique/speakeasy/balance/balance_sg_jak_speakeasy,罗宾的召唤
+/game/patchdlc/geranium/gear/weapon/_unique/splinter/balance/balance_sg_jak_splinter,分裂者
+/game/patchdlc/geranium/gear/weapon/_unique/stonethrow/balance/balance_ar_jak_stonethrow,投石器
+/game/patchdlc/geranium/gear/weapon/_unique/unkemptharold/balance/balance_ps_tor_unkemptharold,蓬乱的哈罗德
+/game/patchdlc/hibiscus/gear/artifacts/_design/_unique/lunacy/balance/invbald_artifact_lunacy,癫狂 
+/game/patchdlc/hibiscus/gear/artifacts/_design/_unique/puk/balance/invbald_artifact_puk,禁讳知识宝珠
+/game/patchdlc/hibiscus/gear/classmods/_design/bsm/invbald_cm_beastmaster_hib,兽王 驯兽师传奇COM
+/game/patchdlc/hibiscus/gear/classmods/_design/gun/invbald_cm_gunner_hib,枪手 爆破手传奇COM
+/game/patchdlc/hibiscus/gear/classmods/_design/ope/invbald_cm_operative_hib,特工 导体传奇COM
+/game/patchdlc/hibiscus/gear/classmods/_design/srn/invbald_cm_siren_hib,魔女 顽石传奇COM
+/game/patchdlc/hibiscus/gear/shields/_unique/initiative/balance/invbald_shield_initiative,主动性
+/game/patchdlc/hibiscus/gear/shields/_unique/oldgod/balance/invbald_shield_oldgod,旧神
+/game/patchdlc/hibiscus/gear/shields/_unique/torch/balance/invbald_shield_legendary_torch,火把
+/game/patchdlc/hibiscus/gear/shields/_unique/voidrift/balance/invbald_shield_lgd_voidrift,虚空裂隙
+/game/patchdlc/hibiscus/gear/weapon/_unique/anarchy/balance/balance_sg_ted_anarchy,大混乱
+/game/patchdlc/hibiscus/gear/weapon/_unique/bitesize/balance/balance_ps_jak_bitesize,一口大小
+/game/patchdlc/hibiscus/gear/weapon/_unique/clairvoyance/balance/balance_ar_jak_clairvoyance,千里眼
+/game/patchdlc/hibiscus/gear/weapon/_unique/cockybastard/balance/balance_sr_jak_cockybastard,自大的混蛋
+/game/patchdlc/hibiscus/gear/weapon/_unique/firecracker/balance/balance_sg_hyp_firecracker,爆竹
+/game/patchdlc/hibiscus/gear/weapon/_unique/frozendevil/balance/balance_ps_mal_frozendevil,冰封恶魔
+/game/patchdlc/hibiscus/gear/weapon/_unique/homicidal/balance/balance_ar_cov_homicidal,Seeryul Killur
+/game/patchdlc/hibiscus/gear/weapon/_unique/hydrafrost/balance/balance_ps_cov_hydrafrost,Hydrafrost
+/game/patchdlc/hibiscus/gear/weapon/_unique/insider/balance/balance_sg_mal_etech_insider,内部人士
+/game/patchdlc/hibiscus/gear/weapon/_unique/kaleidoscope/balance/balance_dal_ps_kaleidoscope,万花筒
+/game/patchdlc/hibiscus/gear/weapon/_unique/littleyeeti/balance/balance_ps_jak_littleyeeti,小雪怪
+/game/patchdlc/hibiscus/gear/weapon/_unique/lovedrill/balance/balance_ps_jak_lovedrill,爱情演练紫
+/game/patchdlc/hibiscus/gear/weapon/_unique/lovedrill/balance/balance_ps_jak_lovedrill_legendary,爱情演练
+/game/patchdlc/hibiscus/gear/weapon/_unique/mutant/balance/balance_ar_jak_mutant,突变体
+/game/patchdlc/hibiscus/gear/weapon/_unique/oldridian/balance/balance_sm_hyp_oldridian,旧矿
+/game/patchdlc/hibiscus/gear/weapon/_unique/omen/balance/balance_sg_ted_omen,火焰欺诈
+/game/patchdlc/hibiscus/gear/weapon/_unique/sacrificallamb/balance/balance_sg_ted_sacrificiallamb,牺牲品
+/game/patchdlc/hibiscus/gear/weapon/_unique/seventhsense/balance/balance_ps_jak_seventhsense,第七感(紫色版本)
+/game/patchdlc/hibiscus/gear/weapon/_unique/seventhsense/balance/balance_ps_jak_ss_l,第七感(幽灵伯顿版)
+/game/patchdlc/hibiscus/gear/weapon/_unique/sfforce/balance/balance_sm_mal_sfforce,科幻力量
+/game/patchdlc/hibiscus/gear/weapon/_unique/shocker/balance/balance_sg_torgue_etech_shocker,震击者
+/game/patchdlc/hibiscus/gear/weapon/_unique/skullmasher/balance/balance_sr_jak_skullmasher,碎颅者
+/game/patchdlc/hibiscus/gear/weapon/_unique/soulrender/balance/balance_dal_ar_soulrender,裂魂者
+/game/patchdlc/hibiscus/gear/weapon/_unique/sparkyboom/balance/balance_ar_cov_sparkyboom,火刑架
+/game/patchdlc/hibiscus/gear/weapon/_unique/thecure/balance/balance_sg_jak_thecure,治愈
+/game/patchdlc/hibiscus/gear/weapon/_unique/thenothing/balance/balance_sg_mal_thenothing,虚无
+/game/patchdlc/hibiscus/gear/weapon/_unique/theseventhsense/balance/balance_ps_jak_theseventhsense,第七感(传奇版本)
+/game/patchdlc/hibiscus/gear/weapon/_unique/theseventhsense/balance/balance_ps_jak_theseventhsense_missionweapon,第七感(任务版本)
+/game/patchdlc/hibiscus/gear/weapon/_unique/unseenthreat/balance/balance_sr_jak_unseenthreat,看不见的威胁
+/game/patchdlc/ixora/gear/artifacts/_design/_unique/deathrattle/balance/invbald_artifact_deathrattle,亡语
+/game/patchdlc/ixora/gear/artifacts/_design/_unique/holygrail/balance/invbald_artifact_holygrail,圣杯
+/game/patchdlc/ixora/gear/artifacts/_design/_unique/mysteriousamulet/balance/invbald_artifact_mysteriousamulet,神秘护身符紫色
+/game/patchdlc/ixora/gear/artifacts/_design/_unique/toboggan/balance/invbald_artifact_toboggan,托博根传奇文物
+/game/patchdlc/ixora/gear/classmods/_design/bsm/l01/invbald_cm_ixora_bsm_l01,兽王 指令传奇COM
+/game/patchdlc/ixora/gear/classmods/_design/bsm/partsets/invbald_cm_ixora_bsm_01_common,兽王 (设计师的剪裁) 白色 COM
+/game/patchdlc/ixora/gear/classmods/_design/bsm/partsets/invbald_cm_ixora_bsm_02_uncommon,兽王 (设计师的剪裁) 绿色 COM
+/game/patchdlc/ixora/gear/classmods/_design/bsm/partsets/invbald_cm_ixora_bsm_03_rare,兽王 (设计师的剪裁) 蓝色 COM
+/game/patchdlc/ixora/gear/classmods/_design/bsm/partsets/invbald_cm_ixora_bsm_04_veryrare,兽王 (设计师的剪裁) 紫色 COM
+/game/patchdlc/ixora/gear/classmods/_design/gun/l01/invbald_cm_ixora_gun_l01,枪手 永恒之火传奇COM
+/game/patchdlc/ixora/gear/classmods/_design/gun/partsets/invbald_cm_ixora_gun_01_common,枪手 (设计师的剪裁) 白色 COM
+/game/patchdlc/ixora/gear/classmods/_design/gun/partsets/invbald_cm_ixora_gun_02_uncommon,枪手 (设计师的剪裁) 绿色 COM
+/game/patchdlc/ixora/gear/classmods/_design/gun/partsets/invbald_cm_ixora_gun_03_rare,枪手 (设计师的剪裁) 蓝色 COM
+/game/patchdlc/ixora/gear/classmods/_design/gun/partsets/invbald_cm_ixora_gun_04_veryrare,枪手 (设计师的剪裁) 紫色 COM
+/game/patchdlc/ixora/gear/classmods/_design/ope/l01/invbald_cm_ixora_ope_l01,特工 间谍传奇COM
+/game/patchdlc/ixora/gear/classmods/_design/ope/partsets/invbald_cm_ixora_ope_01_common,特工 (设计师的剪裁) 白色 COM
+/game/patchdlc/ixora/gear/classmods/_design/ope/partsets/invbald_cm_ixora_ope_02_uncommon,特工 (设计师的剪裁) 绿色 COM
+/game/patchdlc/ixora/gear/classmods/_design/ope/partsets/invbald_cm_ixora_ope_03_rare,特工 (设计师的剪裁) 蓝色 COM
+/game/patchdlc/ixora/gear/classmods/_design/ope/partsets/invbald_cm_ixora_ope_04_veryrare,特工 (设计师的剪裁) 紫色 COM
+/game/patchdlc/ixora/gear/classmods/_design/srn/l01/invbald_cm_ixora_srn_l01,魔女 剑圣传奇COM
+/game/patchdlc/ixora/gear/classmods/_design/srn/partsets/invbald_cm_ixora_sir_01_common,魔女 (设计师的剪裁) 白色 COM
+/game/patchdlc/ixora/gear/classmods/_design/srn/partsets/invbald_cm_ixora_sir_02_uncommon,魔女 (设计师的剪裁) 绿色 COM
+/game/patchdlc/ixora/gear/classmods/_design/srn/partsets/invbald_cm_ixora_sir_03_rare,魔女 (设计师的剪裁) 蓝色 COM
+/game/patchdlc/ixora/gear/classmods/_design/srn/partsets/invbald_cm_ixora_sir_04_veryrare,魔女 (设计师的剪裁) 紫色 COM
+/game/patchdlc/ixora/gear/grenademods/hotspring/balance/invbald_gm_hotspring,温泉
+/game/patchdlc/ixora/gear/shields/_unique/beskar/balance/invbald_shield_beskar,贝斯卡
+/game/patchdlc/ixora/gear/shields/_unique/infernalwish/balance/invbald_shield_infernalwish,地狱希冀
+/game/patchdlc/ixora/gear/shields/_unique/madcap/balance/invbald_shield_lgd_madcap,莽夫
+/game/patchdlc/ixora/gear/shields/_unique/ventilator/balance/invbald_shield_ventilator,毒气面罩
+/game/patchdlc/ixora/gear/weapons/_unique/binaryoperator/balance/balance_mal_sr_binaryoperator,二次元运算大师
+/game/patchdlc/ixora/gear/weapons/_unique/boogeyman/balance/balance_vla_sr_boogeyman,怪物
+/game/patchdlc/ixora/gear/weapons/_unique/criticalthug/balance/balance_sg_torgue_criticalthug,致命暴徒
+/game/patchdlc/ixora/gear/weapons/_unique/darkarmy/balance/balance_sm_ted_darkarmy,黑暗军队
+/game/patchdlc/ixora/gear/weapons/_unique/firefly/balance/balance_ps_vla_firefly,萤火虫
+/game/patchdlc/ixora/gear/weapons/_unique/hotfootteddy/balance/balance_ar_tor_hotfoot,热脚泰迪
+/game/patchdlc/ixora/gear/weapons/_unique/iceage/balance/balance_hw_tor_iceage,冰河世纪
+/game/patchdlc/ixora/gear/weapons/_unique/kickcharger/balance/balance_hw_vla_etech_kickcharger,踢击充能器
+/game/patchdlc/ixora/gear/weapons/_unique/plasmacoil/balance/balance_sm_mal_plasmacoil,超导等离子线圈
+/game/patchdlc/ixora/gear/weapons/_unique/spiritofmaya/balance/balance_ps_atl_spiritofmaya,抗性
+/game/patchdlc/ixora/gear/weapons/_unique/tizzy/balance/balance_ps_cov_tizzy,无影恐慌
+/game/patchdlc/ixora/gear/weapons/_unique/torrent/balance/balance_sm_dal_torrent,激流
+/game/patchdlc/ixora/gear/weapons/_unique/trickshot/balance/balance_ps_jak_trickshot,花式射击
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/atlas/balance/invbald_artifact_companyman_atlas,公司负责人(阿特拉斯) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/cov/balance/invbald_artifact_companyman_cov,公司负责人(CoV) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/dahl/balance/invbald_artifact_companyman_dahl,公司负责人(达尔) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/hyperion/balance/invbald_artifact_companyman_hyperion,公司负责人(亥伯龙) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/jakobs/balance/invbald_artifact_companyman_jakobs,公司负责人(雅各布斯) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/maliwan/balance/invbald_artifact_companyman_maliwan,公司负责人(马里旺) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/tediore/balance/invbald_artifact_companyman_tediore,公司负责人(泰迪尔) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/torgue/balance/invbald_artifact_companyman_torgue,公司负责人(托格) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/companyman/vladof/balance/invbald_artifact_companyman_vladof,公司负责人(弗拉多夫) 传奇文物
+/game/patchdlc/ixora2/gear/artifacts/_unique/mysteriousamulet/balance/invbald_artifact_mysteriousamulet,Mysterious Artifact 紫色 Artifact
+/game/patchdlc/ixora2/gear/classmods/_design/bsm/l01/invbald_cm_ixora2_bsm_l01,兽王 逆向翻滚传奇COM
+/game/patchdlc/ixora2/gear/classmods/_design/gun/l01/invbald_cm_ixora2_gun_l01,枪手 主热交换器传奇COM
+/game/patchdlc/ixora2/gear/classmods/_design/ope/l01/invbald_cm_ixora2_ope_l01,特工 临界质量传奇COM
+/game/patchdlc/ixora2/gear/classmods/_design/srn/l01/invbald_cm_ixora2_srn_l01,魔女 死神的祝福传奇COM
+/game/patchdlc/ixora2/gear/grenademods/_unique/mesmer/balance/invbald_gm_mesmer,神秘
+/game/patchdlc/ixora2/gear/grenademods/_unique/ringer/balance/invbald_gm_ringer,替身
+/game/patchdlc/ixora2/gear/shields/_unique/re-volter/balance/invbald_shield_revolter,反抗者
+/game/patchdlc/ixora2/gear/weapons/_unique/deatomizer/balance/balance_ps_mal_deatomizer,自由激进
+/game/patchdlc/ixora2/gear/weapons/_unique/disruptor/balance/balance_sr_jak_disruptor,离子分裂器
+/game/patchdlc/ixora2/gear/weapons/_unique/redeye/balance/balance_hw_vla_redeye,红眼火箭发射器
+/game/patchdlc/ixora2/gear/weapons/_unique/replay/balance/balance_ps_atl_replay,阿特拉斯回放
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/backburner/balance/balance_hw_vla_etech_backburner,备胎
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/dna/balance/balance_sm_mal_dna,D.N.A.
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/doubletap/balance/balance_ps_atl_doubletap,多抽头
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/kaoson/balance/balance_sm_dahl_kaoson,Kaoson
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/monarch/balance/balance_ar_vla_monarch,君王
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/plague/balance/balance_hw_tor_plague,瘟疫传播者
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/reflux/balance/balance_sg_hyp_reflux,逆流
+/game/patchdlc/mayhem2/gear/weapon/_shared/_unique/sandhawk/balance/balance_sr_dal_sandhawk,Sand Hawk
+/game/patchdlc/raid1/gear/artifacts/commanderplanetoid/invbald_artifact_commanderplanetoid,小行星司令（仅限专用空投） 传奇文物
+/game/patchdlc/raid1/gear/artifacts/cosmiccrater/invbald_artifact_cosmiccrater,宇宙巨坑（仅限专用降落）传奇文物
+/game/patchdlc/raid1/gear/artifacts/deathless/invbald_artifact_deathless,不死（仅限专用空投）传奇文物
+/game/patchdlc/raid1/gear/artifacts/loadeddice/invbald_artifact_loadeddice,灌铅骰子（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/moxxisendowment/invbald_artifact_moxxisendowment,莫西的天赋（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/ottoidol/invbald_artifact_ottoidol,奥托神像（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/pulloutmethod/invbald_artifact_pulloutmethod,拔出法（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/rocketboots/invbald_artifact_rocketboots,火箭靴（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/safegaurd/invbald_artifact_safegaurd,守护（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/salvo/invbald_artifact_salvo,发射台（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/splattergun/invbald_artifact_splattergun,溅射枪（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/statictouch/invbald_artifact_statictouch,静电充能（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/victoryrush/invbald_artifact_victoryrush,胜利突击（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/artifacts/whiteelephant/invbald_artifact_whiteelephant,白象（仅限专用下降）传奇文物
+/game/patchdlc/raid1/gear/classmods/beastmaster/invbald_classmod_beastmaster_bountyhunter,兽王 赏金猎人传奇COM
+/game/patchdlc/raid1/gear/classmods/beastmaster/invbald_classmod_beastmaster_cosmicstalker,兽王 宇宙追踪者传奇COM
+/game/patchdlc/raid1/gear/classmods/beastmaster/invbald_classmod_beastmaster_de4deye,兽王 神枪手传奇COM
+/game/patchdlc/raid1/gear/classmods/beastmaster/invbald_classmod_beastmaster_friendbot,兽王 友方机器人传奇COM
+/game/patchdlc/raid1/gear/classmods/beastmaster/invbald_classmod_beastmaster_rakkcommander,兽王 飞龙指挥官传奇COM
+/game/patchdlc/raid1/gear/classmods/beastmaster/invbald_classmod_beastmaster_redfang,兽王 赤红之牙传奇COM
+/game/patchdlc/raid1/gear/classmods/gunner/invbald_classmod_gunner_beartrooper,枪手 熊熊游骑兵传奇COM
+/game/patchdlc/raid1/gear/classmods/gunner/invbald_classmod_gunner_blastmaster,枪手 爆破手传奇COM
+/game/patchdlc/raid1/gear/classmods/gunner/invbald_classmod_gunner_bloodletter,枪手 血书传奇COM
+/game/patchdlc/raid1/gear/classmods/gunner/invbald_classmod_gunner_mindsweeper,枪手 思想清洁工传奇COM
+/game/patchdlc/raid1/gear/classmods/gunner/invbald_classmod_gunner_rocketeer,枪手 火箭兵传奇COM
+/game/patchdlc/raid1/gear/classmods/operative/invbald_classmod_operative_coldwarrior,特工 冷战分子传奇COM
+/game/patchdlc/raid1/gear/classmods/operative/invbald_classmod_operative_executor,特工 刽子手传奇COM
+/game/patchdlc/raid1/gear/classmods/operative/invbald_classmod_operative_firebrand,特工 震惊者传奇COM
+/game/patchdlc/raid1/gear/classmods/operative/invbald_classmod_operative_infiltrator,特工 潜入者传奇COM
+/game/patchdlc/raid1/gear/classmods/operative/invbald_classmod_operative_techspert,特工 技术专家传奇COM
+/game/patchdlc/raid1/gear/classmods/siren/invbald_classmod_siren_breaker,魔女 断路器传奇COM
+/game/patchdlc/raid1/gear/classmods/siren/invbald_classmod_siren_dragon,魔女 魔龙传奇COM
+/game/patchdlc/raid1/gear/classmods/siren/invbald_classmod_siren_elementalist,魔女 元素师者传奇COM
+/game/patchdlc/raid1/gear/classmods/siren/invbald_classmod_siren_nimbus,魔女 灵气传奇COM
+/game/patchdlc/raid1/gear/classmods/siren/invbald_classmod_siren_phasezerker,魔女 相位狂战士传奇COM
+/game/patchdlc/raid1/gear/cm/_d/partsets/_u/bsm/invbald_cm_beastmaster_raid1,兽王 飞龙包传奇COM
+/game/patchdlc/raid1/gear/cm/_d/partsets/_u/gun/invbald_cm_gunner_raid1,枪手 愤怒熊传奇COM
+/game/patchdlc/raid1/gear/cm/_d/partsets/_u/ope/invbald_cm_operative_raid1,特工 防冻传奇COM
+/game/patchdlc/raid1/gear/cm/_d/partsets/_u/srn/invbald_cm_siren_raid1,魔女 灵魂车手传奇COM
+/game/patchdlc/raid1/gear/shields/_hybridlegendary/slidekickhybrid/recharger_berner/invbald_shield_lgd_recharger_berner,充能者
+/game/patchdlc/raid1/gear/shields/_hybridlegendary/slidekickhybrid/slidekick_frozenheart/balance/invbald_shield_slidekickfrozenheart,冰冻雪鞋
+/game/patchdlc/raid1/gear/shields/_hybridlegendary/slidekickhybrid/slidekick_recharger/invbald_shield_slidekickrecharger,红牌补充者
+/game/patchdlc/raid1/gear/shields/versionomnom/balance/invbald_shield_legendary_versionomnom,版本0.m
+/game/patchdlc/raid1/gear/weapons/fork2/balance/balance_sm_hyp_fork2,再分配器
+/game/patchdlc/raid1/gear/weapons/handcannon/balance/balance_ps_tor_handcannon,月火
+/game/patchdlc/raid1/gear/weapons/kybsworth/balance/balance_sm_mal_kybsworth,某人的财产
+/game/patchdlc/raid1/gear/weapons/link/balance/balance_sm_mal_link,P2P网络人
+/game/patchdlc/raid1/gear/weapons/tiggsboom/balance/balance_sg_torgue_tiggsboom,狄格思爆炸
+/game/patchdlc/raid1/re-engagement/weapons/cradermp5/balance/balance_sm_dahl_cradermp5,克拉德的EM-P5 
+/game/patchdlc/raid1/re-engagement/weapons/deathgrip/balance/balance_sg_mal_deathgrip,沃斯克的死亡之握
+/game/patchdlc/raid1/re-engagement/weapons/execute/balance/balance_ps_ted_execute,S3RV-80S-EXECUTE
+/game/patchdlc/raid1/re-engagement/weapons/juju/balance/balance_dal_ar_etech_juju,幸运护符
+/game/patchdlc/raid1/re-engagement/weapons/juliet/balance/balance_ar_tor_juliet_worlddrop,朱丽叶的闪耀
+/game/patchdlc/raid1/re-engagement/weapons/tankman/balance/balance_sr_hyp_tankman,坦克侠护盾
+/game/patchdlc/raid1/re-engagement/weapons/zheitseveruption/balance/balance_ar_cov_zheitsev,梅尔加尼的爆发
+/game/patchdlc/steam/gear/weapons/steamgun/balance/balance_sm_hyp_shortstick,短棍
+/game/patchdlc/steam/gear/weapons/steamgun/balance/balance_sm_hyp_shortstick_legendary,短棍（传说版）
+/game/patchdlc/takedown2/gear/grenademods/lightspeed/balance/invbald_gm_hyp_lightspeed,光速
+/game/patchdlc/takedown2/gear/shields/aesclepius/balance/invbald_shield_lgd_aesclepius,医神
+/game/patchdlc/takedown2/gear/shields/stinger/balance/invbald_shield_lgd_stinger,毒刺
+/game/patchdlc/takedown2/gear/weapons/globetrotter/balance/balance_hw_cov_globetrotter,环球旅行家
+/game/patchdlc/takedown2/gear/weapons/smog/balance/balance_sm_hyp_smog,烟雾
+/game/patchdlc/takedown2/gear/weapons/webslinger/balance/balance_ar_vla_webslinger,蛛网尖刺龙
+/game/patchdlc/vaultcard/gear/shields/unique/supersoldier/balance/invbald_shield_supersoldier,超级士兵
+/game/patchdlc/vaultcard/gear/weapons/unique/birdofprey/balance/balance_sr_jak_birdofprey,猛禽
+/game/patchdlc/vaultcard/gear/weapons/unique/guardian/balance/balance_sg_hyp_guardian,护卫者4N631
+/game/patchdlc/vaultcard/gear/weapons/unique/mechanic/balance/balance_hw_cov_mechanic,技工
+/game/patchdlc/vaultcard2/gear/artifacts/unique/shlooter/balance/invbald_artifact_shlooter,Shlooter传奇文物
+/game/patchdlc/vaultcard2/gear/grenademods/unique/pyroburst/balance/invbald_gm_pyroburst,火山爆发
+/game/patchdlc/vaultcard2/gear/weapons/unique/goldrush/balance/balance_sm_hyp_goldrush,淘金热
+/game/patchdlc/vaultcard2/gear/weapons/unique/troubleshooter/balance/balance_sm_hyp_etech_troubleshooter,小能手
+/game/patchdlc/vaultcard3/gear/grenademods/unique/bloodsucker/balance/invbald_gm_bloodsucker,吸血鬼
+/game/patchdlc/vaultcard3/gear/grenademods/unique/sidewinder/balance/invbald_gm_sidewinder,响尾蛇
+/game/patchdlc/vaultcard3/gear/shields/unique/manawell/balance/invbald_shield_pangolin_manawell,马纳井
+/game/patchdlc/vaultcard3/gear/weapons/unique/bladefury/balance/balance_ar_jak_bladefury,剑刃风暴
+/game/patchdlc/vaultcard3/gear/weapons/unique/corruption/balance/balance_dal_ar_corruption,令人毛骨悚然的腐败
+/game/patchdlc/vaultcard3/gear/weapons/unique/tinytinagun/balance/balance_ps_tor_tinytinagun,TNTina

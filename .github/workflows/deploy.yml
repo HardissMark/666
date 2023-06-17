@@ -1,0 +1,181 @@
+name: Deploy
+
+on:
+  push:
+    # Sequence of patterns matched against refs/tags
+    tags:
+      - "v*" # Push events to matching v*, i.e. v1.0, v20.15.10
+
+env:
+  BIN: bl3_save_edit_ui
+  RUST_TEST_THREADS: 1
+
+jobs:
+  # This job downloads and stores `cross` as an artifact, so that it can be
+  # redownloaded across all of the jobs. Currently this copied pasted between
+  # `mean_bean_ci.yml` and `mean_bean_deploy.yml`. Make sure to update both places when making
+  # changes.
+  install-cross:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          depth: 50
+      - uses: XAMPPRocky/get-github-release@v1
+        id: cross
+        with:
+          owner: rust-embedded
+          repo: cross
+          matches: ${{ matrix.platform }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v1
+        with:
+          name: cross-${{ matrix.platform }}
+          path: ${{ steps.cross.outputs.install_path }}
+    strategy:
+      matrix:
+        platform: [ linux-musl, apple-darwin ]
+
+  windows:
+    runs-on: windows-latest
+    needs: install-cross
+    strategy:
+      matrix:
+        target:
+          # MSVC
+          - x86_64-pc-windows-msvc
+    steps:
+      - uses: actions/checkout@v2
+      - run: bash ci/set_rust_version.bash stable ${{ matrix.target }}
+      - run: bash ci/build.bash cargo ${{ matrix.target }} RELEASE
+      - run: |
+          cd ./target/${{ matrix.target }}/release/
+          mv "${{ env.BIN }}.exe" "Bl3SaveEditor.exe"
+          7z a "${{ env.BIN }}.zip" "Bl3SaveEditor.exe"
+          mv "${{ env.BIN }}.zip" $GITHUB_WORKSPACE
+        shell: bash
+        # We're using using a fork of `actions/create-release` that detects
+        # whether a release is already available or not first.
+      - uses: XAMPPRocky/create-release@v1.0.2
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: ${{ github.ref }}
+          # Draft should **always** be false. GitHub doesn't provide a way to
+          # get draft releases from its API, so there's no point using it.
+          draft: false
+          prerelease: false
+      - uses: actions/upload-release-asset@v1
+        id: upload-release-asset
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ env.BIN }}.zip
+          asset_name: Bl3SaveEditor-${{ matrix.target }}.zip
+          asset_content_type: application/zip
+
+  macos:
+    runs-on: macos-latest
+    needs: install-cross
+    strategy:
+      matrix:
+        include:
+          # Mac OS
+          - target: x86_64-apple-darwin
+            make: make mac_os_app RELEASE_DIR=target/x86_64-apple-darwin/release MACOS=1
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v1
+        with:
+          name: cross-apple-darwin
+          path: /usr/local/bin/
+      - run: chmod +x /usr/local/bin/cross
+
+      - name: Install GNU tar # Fix for macOS caching, https://github.com/actions/cache/issues/403
+        run: |
+          brew install gnu-tar
+          echo "/usr/local/opt/gnu-tar/libexec/gnubin" >> $GITHUB_PATH
+
+      - run: ci/set_rust_version.bash stable ${{ matrix.target }}
+      - run: ci/build.bash cross ${{ matrix.target }} RELEASE
+
+      - name: Bundle Into App
+        run: ${{ matrix.make }}
+
+      - run: tar -czvf ${{ env.BIN }}.tar.gz --directory=target/${{ matrix.target }}/release/osx Bl3SaveEditor.app
+      - uses: XAMPPRocky/create-release@v1.0.2
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - uses: actions/upload-release-asset@v1
+        id: upload-release-asset
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ env.BIN }}.tar.gz
+          asset_name: Bl3SaveEditor-${{ matrix.target }}.tar.gz
+          asset_content_type: application/gzip
+
+  linux:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          # Linux
+          - target: x86_64-unknown-linux-gnu
+            make: make appimage RELEASE_DIR=target/release
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          sudo apt update \
+          && sudo apt upgrade \
+          && sudo apt install libxkbcommon-dev \
+          && sudo apt install libxcb-shape0-dev \
+          && sudo apt install libxcb-xfixes0-dev
+
+      - name: Install
+        run: |
+          wget https://github.com/linuxdeploy/linuxdeploy/releases/download/continuous/linuxdeploy-x86_64.AppImage
+          chmod +x linuxdeploy-x86_64.AppImage
+
+      - run: ci/set_rust_version.bash stable ${{ matrix.target }}
+
+      - name: Build
+        run: cargo build --release
+
+      - name: Bundle Into App
+        run: ${{ matrix.make }}
+
+      - run: tar -czvf ${{ env.BIN }}.tar.gz bl3_save_editor.AppImage
+      - uses: XAMPPRocky/create-release@v1.0.2
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - name: Upload Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ env.BIN }}.tar.gz
+          asset_name: bl3_save_edit-${{ matrix.target }}.tar.gz
+          asset_content_type: application/gzip

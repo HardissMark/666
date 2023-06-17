@@ -1,0 +1,136 @@
+use std::rc::Rc;
+
+use derivative::Derivative;
+use iced::alignment::Horizontal;
+use iced::{Checkbox, Color, Column, Container, Element, Length, Text};
+
+use bl3_save_edit_core::bl3_save::inventory_slot::InventorySlot;
+
+use crate::bl3_ui::{Bl3Message, InteractionMessage};
+use crate::bl3_ui_style::Bl3UiStyle;
+use crate::resources::fonts::{JETBRAINS_MONO, JETBRAINS_MONO_BOLD};
+use crate::views::manage_save::character::{
+    CharacterGearUnlockedMessage, SaveCharacterInteractionMessage,
+};
+use crate::views::manage_save::ManageSaveInteractionMessage;
+use crate::views::InteractionExt;
+
+#[derive(Derivative)]
+#[derivative(Debug, Default)]
+pub struct GearUnlockCheckbox {
+    name: String,
+    pub inv_slot: InventorySlot,
+    pub is_unlocked: bool,
+    #[derivative(
+        Debug = "ignore",
+        Default(value = "Rc::new(CharacterGearUnlockedMessage::Grenade)")
+    )]
+    on_checked: Rc<dyn Fn(bool) -> CharacterGearUnlockedMessage>,
+}
+
+impl GearUnlockCheckbox {
+    pub fn new<S, F>(name: S, on_checked: F) -> Self
+    where
+        S: AsRef<str>,
+        F: 'static + Fn(bool) -> CharacterGearUnlockedMessage,
+    {
+        GearUnlockCheckbox {
+            name: name.as_ref().to_owned(),
+            inv_slot: InventorySlot::default(),
+            is_unlocked: false,
+            on_checked: Rc::new(on_checked),
+        }
+    }
+
+    pub fn view(&mut self) -> Element<Bl3Message> {
+        let on_checked = self.on_checked.clone();
+
+        Checkbox::new(self.is_unlocked, &self.name, move |c| {
+            InteractionMessage::ManageSaveInteraction(ManageSaveInteractionMessage::Character(
+                SaveCharacterInteractionMessage::GearMessage(on_checked(c)),
+            ))
+        })
+        .size(20)
+        .font(JETBRAINS_MONO)
+        .text_color(Color::from_rgb8(220, 220, 220))
+        .text_size(17)
+        .style(Bl3UiStyle)
+        .into_element()
+    }
+}
+
+#[derive(Debug)]
+pub struct GearUnlocker {
+    pub grenade: GearUnlockCheckbox,
+    pub shield: GearUnlockCheckbox,
+    pub weapon_1: GearUnlockCheckbox,
+    pub weapon_2: GearUnlockCheckbox,
+    pub weapon_3: GearUnlockCheckbox,
+    pub weapon_4: GearUnlockCheckbox,
+    pub artifact: GearUnlockCheckbox,
+    pub class_mod: GearUnlockCheckbox,
+}
+
+impl std::default::Default for GearUnlocker {
+    fn default() -> Self {
+        Self {
+            grenade: GearUnlockCheckbox::new("手榴弹", CharacterGearUnlockedMessage::Grenade),
+            shield: GearUnlockCheckbox::new("护盾", CharacterGearUnlockedMessage::Shield),
+            weapon_1: GearUnlockCheckbox::new(
+                "武器槽位 1",
+                CharacterGearUnlockedMessage::Weapon1,
+            ),
+            weapon_2: GearUnlockCheckbox::new(
+                "武器槽位 2",
+                CharacterGearUnlockedMessage::Weapon2,
+            ),
+            weapon_3: GearUnlockCheckbox::new(
+                "武器槽位 3",
+                CharacterGearUnlockedMessage::Weapon3,
+            ),
+            weapon_4: GearUnlockCheckbox::new(
+                "武器槽位 4",
+                CharacterGearUnlockedMessage::Weapon4,
+            ),
+            artifact: GearUnlockCheckbox::new("神器", CharacterGearUnlockedMessage::Artifact),
+            class_mod: GearUnlockCheckbox::new("职业模组", CharacterGearUnlockedMessage::ClassMod),
+        }
+    }
+}
+
+impl GearUnlocker {
+    pub fn view(&mut self) -> Container<Bl3Message> {
+        Container::new(
+            Column::new()
+                .push(
+                    Container::new(
+                        Text::new("装备管理")
+                            .font(JETBRAINS_MONO_BOLD)
+                            .size(17)
+                            .color(Color::from_rgb8(242, 203, 5)),
+                    )
+                    .padding(10)
+                    .align_x(Horizontal::Center)
+                    .width(Length::Fill)
+                    .style(Bl3UiStyle),
+                )
+                .push(
+                    Container::new(
+                        Column::new()
+                            .push(self.grenade.view())
+                            .push(self.shield.view())
+                            .push(self.weapon_1.view())
+                            .push(self.weapon_2.view())
+                            .push(self.weapon_3.view())
+                            .push(self.weapon_4.view())
+                            .push(self.artifact.view())
+                            .push(self.class_mod.view())
+                            .spacing(15),
+                    )
+                    .width(Length::Fill)
+                    .padding(15)
+                    .style(Bl3UiStyle),
+                ),
+        )
+    }
+}

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 30 30" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path d="M26 23v2.96S25.525 27 25 27s-8-4-21-4" fill="none" stroke="#48b749" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" style="--darkreader-inline-fill: none; --darkreader-inline-stroke: #5abe5b;" data-darkreader-inline-fill="" data-darkreader-inline-stroke="" class="stroke-000000"></path>
+    <path d="M26 19H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h22a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1z" fill="none" stroke="#48b749"
+          stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"
+          style="--darkreader-inline-fill: none; --darkreader-inline-stroke: #5abe5b;" data-darkreader-inline-fill=""
+          data-darkreader-inline-stroke="" class="stroke-000000"></path>
+    <circle cx="26" cy="6" r="2" fill="#48b749" style="--darkreader-inline-fill: #3a9250;"
+            data-darkreader-inline-fill="" class="fill-000000"></circle>
+    <circle cx="4" cy="6" r="2" fill="#48b749" style="--darkreader-inline-fill: #3a9250;" data-darkreader-inline-fill=""
+            class="fill-000000"></circle>
+    <circle cx="4" cy="18" r="2" fill="#48b749" style="--darkreader-inline-fill: #3a9250;"
+            data-darkreader-inline-fill="" class="fill-000000"></circle>
+    <circle cx="26" cy="18" r="2" fill="#48b749" style="--darkreader-inline-fill: #3a9250;"
+            data-darkreader-inline-fill="" class="fill-000000"></circle>
+    <path d="M23 26s.889 2.009 2 2.009 2-.904 2-2.009a2 2 0 1 0-4 0z" fill="#48b749"
+          style="--darkreader-inline-fill: #3a9250;" data-darkreader-inline-fill="" class="fill-000000"></path>
+    <circle cx="23" cy="12" r="1" fill="#48b749" style="--darkreader-inline-fill: #3a9250;"
+            data-darkreader-inline-fill="" class="fill-000000"></circle>
+    <circle cx="7" cy="12" r="1" fill="#48b749" style="--darkreader-inline-fill: #3a9250;"
+            data-darkreader-inline-fill="" class="fill-000000"></circle>
+    <path d="M12.514 16h4.972c.916-.825 1.514-2.078 1.514-3.5 0-2.485-1.791-4.5-4-4.5s-4 2.015-4 4.5c0 1.422.598 2.675 1.514 3.5zM25 22h2v2h-2z"
+          fill="#48b749" style="--darkreader-inline-fill: #3a9250;" data-darkreader-inline-fill=""
+          class="fill-000000"></path></svg>

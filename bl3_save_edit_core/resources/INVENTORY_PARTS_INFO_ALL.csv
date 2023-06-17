@@ -1,0 +1,2079 @@
+Part,Positives,Negatives,Effects
+Artifact_Part_Ability_AtomBalm,,,"光环伤害 +50%, 光环爆发伤害 +18%, 光环爆发半径 +18% ""增强辐射状态效果光环，使其更大、更致命"""
+Artifact_Part_Ability_BloodFrenzy,,,"近战敌人触发激怒，冲刺速度+13%，射速+9%，持续时间10s“”激怒增加你的冲刺速度和射速"""
+Artifact_Part_Ability_CausticCoast,,,"滑铲产生腐蚀伤害，额外伤害50%，碎片射速10.0/s“”滑梯会激起在撞击时爆炸的腐蚀性碎片"""
+Artifact_Part_Ability_Cauterizer,,,"滑铲产生燃烧伤害，额外伤害73%，水坑冷却10秒“滑梯造成额外燃烧伤害，在撞击时造成岩浆水坑"""
+Artifact_Part_Ability_CorrosiveStone,,,"近战增加腐蚀性,额外的伤害+ 80%”“所有近战攻击增加腐蚀性伤害"""
+Artifact_Part_Ability_CryoStone,,,"近战增加冰冻伤害，额外伤害+80%“”在所有近身攻击中增加低温伤害"""
+Artifact_Part_Ability_ElectricSlide,,,"冲击滑铲，额外伤害73%，弧线目标“”将冲击光束滑动到附近的敌人，可以弧线到附近的其他敌人"""
+Artifact_Part_Ability_ElementalOrigin,,,"元素伤害提升，伤害提升+183%“”当受到元素效果时，用相同的元素增加你的伤害"""
+Artifact_Part_Ability_FastHands,,,"近战敌人盗取弹药，弹药补充+8%，弹药返还盟友+8%”“造成近战伤害补充弹药"""
+Artifact_Part_Ability_FireStone,,,"给近人施放燃烧，额外伤害+80%“”对所有近人攻击增加燃烧伤害"""
+Artifact_Part_Ability_FleshMelter,,,"腐蚀性伤害提升，额外伤害+25%，最大叠加次数5，持续时间8.8s“”用腐蚀性武器杀死敌人会在短时间内增加你的腐蚀性武器伤害"""
+Artifact_Part_Ability_Grave,,,"弱点在头脑中，近身伤害+100%，武器伤害+20%，飞溅伤害+15%”“生命值低于50%时增加近身伤害，生命值低于20%时增加武器伤害，生命量低于5%时增加飞溅伤害"""
+Artifact_Part_Ability_HotDrop,,,"用燃烧弹猛击，猛击额外伤害88%，猛击半径+28%，火球5“”猛击发射燃烧弹，产生玛格玛水坑"""
+Artifact_Part_Ability_IceSpiker,,,"低温猛击，猛击额外伤害88%，猛击半径+28%“发射3枚低温弹，伤害并穿过敌人"""
+Artifact_Part_Ability_KnifeDrain,,,"使近身受到生命偷移，近身生命偷移+75%“”所有近身攻击都会造成一部分生命伤害"""
+Artifact_Part_Ability_LastStand,,,"暂时不受攻击，持续时间5s，冷却时间40s“”生命值降至50%以下时的暂时不受攻击"""
+Artifact_Part_Ability_LootExpander,,,"强化拾取，现金+119%，弹药+25%，生命值+43%“”增加你从拾取中获得的现金、生命值和弹药的数量笔记"""
+Artifact_Part_Ability_MindMelt,,,"辐射猛击，猛击额外伤害88%，猛击半径+28%，光环持续时间8s“”猛击触发辐射光环跟随你并伤害附近的敌人"""
+Artifact_Part_Ability_RadiationStone,,,"使近身受到辐射，额外伤害+80%“”所有近身攻击增加辐射伤害"""
+Artifact_Part_Ability_Radiodead,,,"滑铲附带辐射，额外伤害73%，持续时间5秒“”滑梯在撞击时造成额外的辐射伤害，造成有毒水坑"""
+Artifact_Part_Ability_Relic,,,"找到更好的战利品，运气+38.00%“”增加找到稀有战利品的几率"""
+Artifact_Part_Ability_ShatterRig,,,"Vs冰冻，额外伤害+35%，冰冻效率+50%“”增加对冰冻目标的伤害"""
+Artifact_Part_Ability_ShockStone,,,"使近战受到冲击，额外伤害+80%“”对所有近战攻击增加冲击伤害"""
+Artifact_Part_Ability_SparkPlug,,,"电击猛击，猛击额外伤害88%，猛击半径+28%，持续时间8s“”猛击植入带电线圈，对附近敌人造成电击伤害"""
+Artifact_Part_Ability_ToxicRevenger,,,"腐蚀性猛击，猛击额外伤害88%，猛击半径+28%，水坑持续时间5s“”猛击在撞击时会产生一个大的腐蚀性水坑"""
+Artifact_Part_Ability_CommanderPlanetoid,,,当你近身攻击敌人时，造成69%的额外元素伤害。元素类型每5秒变化一次
+Artifact_Part_Ability_CosmicCrater,,,猛击造成一个持续5秒的随机水坑
+Artifact_Part_Ability_Deathless,,,"保留除1点生命值外的所有生命值，+100%护盾容量，+25%护盾充电率，-20%护盾充值延迟"
+Artifact_Part_Ability_ElDragonJr,,,“释放El Dragon的力量，近身点燃几率100%，滑铲点燃几率100%、地猛击点燃几率100%"
+Artifact_Part_Ability_ElectricBanjo,,,"星力，子弹前进几率+20%"
+Artifact_Part_Ability_LoadedDice,,,"75最大生命值大大增加你的运气"
+Artifact_Part_Ability_MoxxisEndowment,,,+8%战斗经验
+Artifact_Part_Ability_OttoIdol,,,杀死时恢复18%的生命值
+Artifact_Part_Ability_PhoenixTears,,,"起来！，回复的生命值100%"
+Artifact_Part_Ability_PullOutMethod,,,"猛击会产生奇异效果，将敌人拉向你"
+Artifact_Part_Ability_RearEnder,,,"强化猛击，猛击伤害+59%，猛击半径+28%，猛击反击+53%"
+Artifact_Part_Ability_RoadWarrior,,,"滑铲释放圆锯，圆锯 3.0/s，圆锯伤害1"
+Artifact_Part_Ability_RocketBoots,,,Slide发射制导火箭，造成燃烧伤害
+Artifact_Part_Ability_Safegaurd,,,猛击触发护盾，减少+57%的伤害并持续5秒
+Artifact_Part_Ability_Salvo,,,猛击发射自导火箭狂轰滥炸
+Artifact_Part_Ability_SplatterGun,,,+滑动时50%霰弹枪伤害
+Artifact_Part_Ability_StaticTouch,,,"滑铲会产生静电，使你的下一次近战攻击产生50%的额外冲击伤害，并将其链接到附近的敌人"
+Artifact_Part_Ability_VictoryRush,,,"杀死一个狂徒触发胜利冲刺，+18%移动速度和伤害，持续60秒"
+Artifact_Part_Ability_WhiteElephant,,,近战攻击有30%的几率攻击粘性炸弹
+Artifact_Part_Stat_Relic,,,+10%战斗经验
+Artifact_Part_Stats_Asbestos,,,+29%燃烧阻力
+Artifact_Part_Stats_Brawler,,,+25%近战伤害
+Artifact_Part_Stats_Breaching,,,+17%霰弹枪伤害
+Artifact_Part_Stats_Contaminated,,,+16%辐射损伤
+Artifact_Part_Stats_DeadEye,,,+16%手枪伤害
+Artifact_Part_Stats_Durable,,,+29%耐腐蚀性
+Artifact_Part_Stats_Frozen,,,+16%低温伤害
+Artifact_Part_Stats_Greasy,,,+16%SMG伤害
+Artifact_Part_Stats_Grenadier,,,+30%手榴弹伤害
+Artifact_Part_Stats_Grounded,,,+29%抗震性
+Artifact_Part_Stats_Hasty,,,+8%移动速度
+Artifact_Part_Stats_HollowPoint,,,+16%突击步枪伤害
+Artifact_Part_Stats_Hulking,,,+17%重伤
+Artifact_Part_Stats_Insulated,,,+29%耐低温性
+Artifact_Part_Stats_LeadCoated,,,+29%抗辐射性
+Artifact_Part_Stats_Loaded,,,+40%弹匣尺寸
+Artifact_Part_Stats_LongLasting,,,+21%动作技能冷却率
+Artifact_Part_Stats_LongRange,,,+17%狙击手伤害
+Artifact_Part_Stats_Lucky,,,+12.67运气
+Artifact_Part_Stats_Lustrous,,,+23%元素抗性
+Artifact_Part_Stats_Melty,,,+16%腐蚀性损坏
+Artifact_Part_Stats_Precision,,,+26%的武器精度
+Artifact_Part_Stats_Quickdraw,,,+14%武器重装速度
+Artifact_Part_Stats_Ravaging,,,+33%飞溅伤害
+Artifact_Part_Stats_Spicy,,,+16%燃烧伤害
+Artifact_Part_Stats_Stalwart,,,+1666最大护盾
+Artifact_Part_Stats_Unyielding,,,+40%殊死一搏倒地时间
+Artifact_Part_Stats_Vigorous,,,+1487最大健康
+Artifact_Part_Stats_Zappy,,,+16%冲击伤害
+Artifact_Part_Stats_Accuracy,,,+26%准确度
+Artifact_Part_Stats_ActionSkillCooldown,,,+21%动作技能冷却率
+Artifact_Part_Stats_AreaDamage,,,+33%飞溅伤害
+Artifact_Part_Stats_ATLAS,,,"+20%ATLAS武器射速，+83%ATLAS弹药库尺寸"
+Artifact_Part_Stats_BleedoutDuration,,,+40%为你的寿命而战
+Artifact_Part_Stats_BleedoutMoveSpeed,,,+37%为你的生命而战移动速度
+Artifact_Part_Stats_CorrosiveDamage,,,+16%腐蚀性损坏
+Artifact_Part_Stats_CorrosiveDoTChance,,,+26%腐蚀机会
+Artifact_Part_Stats_CorrosiveResist,,,+29%耐腐蚀性
+Artifact_Part_Stats_CryoDamage_3,,,+16%低温伤害
+Artifact_Part_Stats_CryoEfficiency,,,+27%低温效率
+Artifact_Part_Stats_CryoResist,,,+29%耐低温性
+Artifact_Part_Stats_FireDamage_3,,,+16%火灾损失
+Artifact_Part_Stats_FireDoTChance,,,+26%燃烧机会
+Artifact_Part_Stats_FireResist,,,+29%燃烧阻力
+Artifact_Part_Stats_HealthRegen,,,再生+149生命值/秒
+Artifact_Part_Stats_Jakobs1,,,"+43%雅各布武器弹匣尺寸，+17%雅各布武器重装速度"
+Artifact_Part_Stats_MagazineSize,,,+40%弹匣尺寸
+Artifact_Part_Stats_MaxHealth,,,+1487最大健康
+Artifact_Part_Stats_MaxShieldCapacity,,,+30%护盾充电率
+Artifact_Part_Stats_MeleeDamage,,,+25%近战伤害
+Artifact_Part_Stats_Movespeed,,,+8%移动速度
+Artifact_Part_Stats_RadiationDamage,,,+16%辐射损伤
+Artifact_Part_Stats_RadiationDoTChance,,,+27%的辐射几率
+Artifact_Part_Stats_RadiationResist,,,+29%抗辐射性
+Artifact_Part_Stats_ReloadSpeed,,,+14%武器重装速度
+Artifact_Part_Stats_ShieldRechargeDelay,,,-30%护盾充电延迟
+Artifact_Part_Stats_ShieldRechargeRate,,,+30%护盾充电率
+Artifact_Part_Stats_ShockDamage,,,+16%冲击伤害
+Artifact_Part_Stats_ShockDoTChance,,,+26%电击几率
+Artifact_Part_Stats_ShockResist,,,+29%抗震性
+Artifact_Part_Stats_Tediore,,,"+35%泰迪尔武器的精度，+138%泰迪尔武器的弹匣尺寸"
+Artifact_Part_Stats_Vladof,,,"+10%的弗拉多夫武器射速，+67%的弗拉多夫武器弹匣尺寸"
+Artifact_Part_Stats_XPMultiplier,,,+7%战斗经验
+Part_Shield_Aug_ANS__LGD_Aurelia,,,"耗尽后，释放一颗巨大的超新星，造成11154点伤害并冻结敌人。新星30%的伤害作为生命值返回"
+Part_Shield_Aug_BackHam,,,从后面受到的伤害减少56%
+Part_Shield_Aug_ANS_LGD_Breakup,,,"伴随你的是一架小型无人机，它会向敌人开火，每次射击都会造成伤害。当你的盾牌断裂时，一架临时无人机会来帮助你."
+Part_Shield_Aug_ANS_LGD_NovaBurner,,,"22307盾牌破损和填充时的燃烧伤害"
+Part_Shield_Aug_ANS_LGD_ReRouter,,,"充满电后，下一枪消耗50%的护盾，造成120%的额外电击伤害，并将其作为生命值返回"
+Part_Shield_ANS_Aug_LGD_RoughRider,,,减少23%的伤害，并给予+35%的生命上限
+Part_Shield_Aug_ANS_LGD_SlideKick,,,滑入敌人内消耗掉所有护盾，并根据当前护盾强度造成高达5205的额外伤害
+Part_Shield_Aug_ANS_LGD_WTF,,,25%几率在IED受损时掉落，造成3718点伤害
+Part_Shield_Aug_ScreamOfTerror,,,14872新星对护盾的伤害
+Part_Shield_Aug_HYP_LGD_FrontLoader,,,保留你最大生命值的60%，并将其作为护盾等级返还。
+Part_Shield_Aug_HYP_LGD_ReCharger,,,损坏后立即开始充电。冷却时间：20秒
+Part_Shield_Aug_HYP_LGD_Rectifier1,,,"耗尽时，电死附近的敌人，每秒造成279点电击伤害"
+Part_Shield_Aug_HYP_LGD_StopGap,,,"护盾突破时，对受到的任何伤害免疫5秒。"
+Shield_Part_Aug_HYP_LGD_Transformer,,,"将100%的冲击伤害转化为护盾。40%吸收子弹的几率，将其添加到你的弹药数量中。"
+Part_Shield_Aug_Ward,,,+25%的武器伤害，同时护盾耗尽+护盾激活时每秒2%的最大生命值。当护盾耗尽时，这个效果加倍。
+Part_Shield_Aug_PAN_LGD_BigBoomBlaster,,,"有60%的几率掉落一个可以恢复60%护盾、手榴弹和重型弹药的助推器"
+Part_Shield_Aug_PAN_LGD_BlackHole,,,在护盾突破时向你吸引敌人
+Part_Shield_Aug_PAN_Cyttorak,,,+盾牌耗尽时造成22%的武器伤害+25%最大生命值
+Part_Shield_Aug_PAN_LGD_Impaler,,,在受到子弹伤害时向攻击者发射归位尖刺
+Part_Shield_Aug_PAN_LGD_Radiate,,,每秒对附近的敌人造成辐射伤害，并给予辐射伤害豁免。
+Part_Shield_Aug_PAN_LGD_Revengenader,,,当护盾耗尽时投掷一枚免费手榴弹。此效果冷却时间短
+Part_Shield_Aug_PAN_LGD_ShootingStar,,,"当消耗殆尽时，成功的梅莱斯会召唤出一枚造成伤害的炮弹。"
+Part_Shield_Aug_MoxxisEmbrace,,,当护盾耗尽时，在你自己和盟友身上进行治疗
+Part_Shield_Aug_XPLootBooster,,,经验增益：+10%。抢夺稀有度提升。XP和掠夺效果可以在10级中发挥作用。
+Part_Shield_Aug_HYP_BuriedAlive,,,+5%护盾满时每秒的最大生命值。
+Part_Shield_Aug_HYP_LGD_Dispensary,,,"受到伤害时，有35%的几率掉落上或下药丸。这些药丸可以提供缓冲，但可能有一些不良副作用..."
+Part_Shield_Aug_LoopOf4N631,,,耗尽时减少动作技能冷却时间
+Part_Shield_Aug_GoldenTouch,,,"提供：Brimming、Fleet和Roid"
+Part_Shield_Aug_MrCaffeine,,,"+50%的重装速度和15%的射速，同时盾牌是满的。耗尽时，射速和重新装填速度将受到严重惩罚."
+Part_Shield_Aug_Absorb,,,+15%吸收子弹作为弹药的机会
+Part_Shield_Aug_Adaptive,,,+8%生命值和对最后一种伤害类型的17%抗性持续3秒。
+Part_Shield_Aug_Adrenaline,,,+23%盾牌耗尽时的重装速度
+Part_Shield_Aug_Amp,,,"满枪时，射击消耗30%护盾，造成+20%武器伤害"
+Part_Shield_Aug_Brimming,,,+5%护盾满时每秒最大生命值。
+Part_Shield_Aug_Capacity,,,+25%最大容量
+Part_Shield_Aug_Fleet,,,+10%盾牌耗尽时的移动速度
+Part_Shield_Aug_FortifyCharge,,,"受到伤害时，有15%的几率掉落强化冲锋，该冲锋可减少10%的伤害"
+Part_Shield_Aug_HealthCharge,,,"受到伤害时，有15%的几率掉落生命值，恢复15%的最大生命值"
+Part_Shield_Aug_Healthy,,,+10/25/50%最大生命值
+Part_Shield_Aug_Knockback,,,在护盾突破时进行区域击退
+Part_Shield_Aug_Nova,,,在护盾断裂时，基于护盾阻力类型进行区域击退和伤害
+Part_Shield_Aug_PowerCharge,,,"受到伤害时，有15%的几率掉落一个能使武器伤害增加10%的电荷"
+Part_Shield_Aug_Projected,,,"蹲着向前投射你的护盾，获得+20%的伤害减免。"
+Part_Shield_Aug_RechargeDelay,,,-25%充电延迟
+Part_Shield_Aug_RechargeRate,,,+15%护盾恢复率
+Part_Shield_Aug_Reflect,,,15%屏蔽时反射射弹的机会
+Part_Shield_Aug_Roid,,,+80/180/300%盾牌耗尽时近战伤害
+Part_Shield_Aug_ShieldCharge,,,"当受到伤害时，有15%的几率掉落一个可以恢复8%护盾的助推器。"
+Part_Shield_Aug_Spike,,,如果近战受到保护，则返回1487点伤害
+Part_Shield_Aug_TriggerHappy,,,+10%盾牌耗尽时的射速
+Part_Shield_Aug_Turtle,,,"+40%护盾容量, -10%最大生命值"
+Part_Shield_Aug_Vagabond,,,+10%护盾满时的移动速度。
+Part_Shield_Mat_BackHam,,,皮肤
+Part_Shield_Mat_PAN_LGD_BigBoomBlaster,,,皮肤
+Part_Shield_Mat_PAN_LGD_BlackHole,,,皮肤
+Part_Shield_Mat_HYP_LGD_FrontLoader,,,皮肤
+Part_Shield_Mat_PAN_LGD_Impaler,,,皮肤
+Part_Shield_Mat_ANS_LGD_NovaBurner,,,皮肤
+Part_Shield_Mat_HYP_LGD_ReCharger,,,皮肤
+Part_Shield_Mat_HYP_LGD_Rectifier1,,,皮肤
+Part_Shield_Mat_PAN_LGD_Revengenader,,,皮肤
+Part_Shield_Mat_ANS_LGD_SlideKick,,,皮肤
+Part_Shield_Mat_HYP_LGD_StopGap,,,皮肤
+Part_Shield_Mat_ANS_LGD_ReRouter,,,皮肤
+Part_Shield_Mat_ANS_LGD_WTF,,,皮肤
+Part_Shield_Mat_ANS_LGD_Aurelia,,,皮肤
+Part_Shield_Mat_HYP_BuriedAlive,,,皮肤
+Part_Shield_Mat_PAN_Cyttorak,,,皮肤
+Part_Shield_Mat_HYP_LGD_Dispensary,,,皮肤
+Part_Shield_Mat_GoldenTouch,,,皮肤
+Part_Shield_Mat_ANS_LGD_Breakup,,,皮肤
+Part_Shield_Mat_MoxxisEmbrace,,,皮肤
+Part_Shield_Mat_PAN_LGD_Radiate,,,皮肤
+Part_Shield_Mat_PAN_LGD_ShootingStar,,,皮肤
+Part_Shield_Mat_PAN_LGD_Unpaler,,,皮肤
+Part_Shield_Mat_Ward,,,皮肤
+Part_Shield_Mat_XPLootBooster,,,皮肤
+Part_Shield_Mat_ScreamOfTerror,,,皮肤
+Part_Shield_Mat_ANS_LGD_VersionOmNom,,,皮肤
+Part_Shield_Mat_ANS_LGD_SlideKick,,,皮肤
+GM_Part_Behavior_01_Large,,,半径增加20/40/60%
+GM_Part_Behavior_03_Bouncy,,,"手榴弹向前反弹3/5/7次，击中敌人时爆炸。之后继续弹跳."
+GM_Part_Behavior_04_Sticky,,,抗冲击棒。如果直接卡在敌人身上，造成25/100/200%的额外伤害
+GM_Part_Behavior_06_MIRV,,,产生3/6/9 MIRV手榴弹
+GM_Part_Behavior_07_Lingering,,,点射是持续4/6/8秒还是2/4/6爆炸
+GM_Part_Behavior_09_Singularity,,,把敌人拉向震中。奇异外汇是静态的。不堆叠。
+GM_Part_Behavior_10_Transfusion,,,对敌方生命值造成30/60/100%的伤害。不适用于国防部。如果用户已满，则给予盟友。
+GM_Part_Behavior_11_Force,,,击退敌人
+GM_Part_Behavior_12_Mini_MIRV,,,MIRV手榴弹又产生3/4枚手榴弹。
+GM_Part_Behavior_15_Spring,,,直接向上反弹1/2/4次，每次撞击都会爆炸。每次跳跃伤害增加10/15/20%。
+GM_Part_Behavior_16_Money,,,敌人在受到伤害时会掉落少量/中等/大量现金。
+GM_Part_Behavior_18_Generator,,,对敌方护盾造成30/60/100%的伤害
+GM_Part_Behavior_19_Artillery,,,以360度喷射的方式发射子弹，造成15/30/50%的额外DoT，直到爆炸。
+GM_Part_Behavior_20_Nuke,,,最多可额外消耗2/3/5枚手榴弹。每增加一枚手榴弹，伤害增加50%。
+GM_Part_Behavior_21_Link,,,15/30/50%每多命中一个敌人，伤害就会增加。
+GM_Part_Behavior_22_Divider,,,手榴弹在投掷后不久就分裂成1+1/2/3手榴弹。
+GM_Part_Behavior_23_Roider,,,手榴弹伤害增加15/30/45%
+GM_Part_Behavior_24_ElementalDamage,,,增加元素伤害15/30/45%
+GM_Part_Behavior_25_Rain,,,在最初的爆炸后直接发射，并在其周围发射3/4/5枚手榴弹
+GM_Part_Behavior_NONE,,,N/A（可用作填充槽以保持组件数量）
+Part_GM_Aug_BirthdaySuprise,,,对造成100%的伤害varkids和spiderants.
+Part_GM_Aug_ButtStallion,,,用彩虹爆炸投掷Butstallion
+Part_GM_Aug_CashMoneyPreorder,,,敌人在受到伤害时会掉落大量神圣的现金
+Part_GM_Aug_Chupa,,,粘在敌人身上，随着时间的推移对生命造成伤害。忽略防护罩
+Part_GM_Aug_EMP,,,消耗敌人的护盾
+Part_GM_Aug_Epicenter,,,爆炸两次，释放放射状射弹。
+Part_GM_Aug_Fastball,,,像扔棒球一样扔手榴弹。碰撞时爆炸
+Part_GM_Aug_FireStorm,,,雨把火球从天上降下来
+Part_GM_Aug_HunterSeeker,,,分成2架慢速无人机，在爆炸前进行射击
+Part_GM_Aug_JustDeserts,,,"扔蛋糕，小半径"
+Part_GM_Aug_Kryll,,,三倍数量的手榴弹，每次爆炸最多3次
+Part_GM_Aug_Nagate,,,生成一圈长弓手榴弹
+Part_GM_Aug_ObviousTrap,,,放下一组6枚粘性手榴弹，当敌人靠近时引爆
+Part_GM_Aug_PAN_MoxiesBosom,,,经过橡胶处理。同时投掷2枚手榴弹。每次反弹都会增加伤害
+Part_GM_Aug_Piss,,,移除对盟友的地位影响。受到伤害的敌人受到+20%的伤害
+Part_GM_Aug_Quasar,,,悬停并吸入敌人。持续的电弧
+Part_GM_Aug_RedQueen,,,经过橡胶处理。分裂成两个激光连接手榴弹。
+Part_GM_Aug_Seeker,,,归巢
+Part_GM_Aug_Shroom,,,产生3个蘑菇，每个蘑菇都会爆炸产生腐蚀性
+Part_GM_Aug_StormFront,,,分裂成4枚手榴弹，对附近的敌人造成持续的冲击
+Part_GM_Aug_TranFusion,,,治疗所造成的生命值伤害的120%。治疗护盾造成30%的护盾伤害
+Part_GM_Aug_WidowMaker,,,近距离手榴弹。产生自导火箭
+Part_GM_Aug_WizardOfNOG,,,对NOG友好
+GM_Part_Material_Atlas_01_Common,,,皮肤
+GM_Part_Material_Atlas_02_Uncommon,,,皮肤
+GM_Part_Material_Atlas_03_Rare,,,皮肤
+GM_Part_Material_Atlas_04_VeryRare,,,皮肤
+GM_Part_Material_Hyperion_01_Common,,,皮肤
+GM_Part_Material_Hyperion_02_Uncommon,,,皮肤
+GM_Part_Material_Hyperion_03_Rare,,,皮肤
+GM_Part_Material_Hyperion_04_VeryRare,,,皮肤
+GM_Part_Material_Pangolin_01_Common,,,皮肤
+GM_Part_Material_Pangolin_02_Uncommon,,,皮肤
+GM_Part_Material_Pangolin_03_Rare,,,皮肤
+GM_Part_Material_Pangolin_04_VeryRare,,,皮肤
+GM_Part_Material_Tediore_01_Common,,,皮肤
+GM_Part_Material_Tediore_02_Uncommon,,,皮肤
+GM_Part_Material_Tediore_03_Rare,,,皮肤
+GM_Part_Material_Tediore_04_VeryRare,,,皮肤
+GM_Part_Material_Torgue_01_Common,,,皮肤
+GM_Part_Material_Torgue_02_Uncommon,,,皮肤
+GM_Part_Material_Torgue_03_Rare,,,皮肤
+GM_Part_Material_Torgue_04_VeryRare,,,皮肤
+GM_Part_Material_Vladof_01_Common,,,皮肤
+GM_Part_Material_Vladof_02_Uncommon,,,皮肤
+GM_Part_Material_Vladof_03_Rare,,,皮肤
+GM_Part_Material_Vladof_04_VeryRare,,,皮肤
+Part_GM_Material_BirthdaySuprise,,,皮肤
+Part_GM_Material_ButtStallion,,,皮肤
+Part_GM_Material_CashMoneyPreorder,,,皮肤
+Part_GM_Material_Chupa,,,皮肤
+Part_GM_Material_EchoV2,,,皮肤
+Part_GM_Material_EMP,,,皮肤
+Part_GM_Material_Epicenter,,,皮肤
+Part_GM_Material_Fastball,,,皮肤
+Part_GM_Material_FireStorm,,,皮肤
+Part_GM_Material_HipHop,,,皮肤
+Part_GM_Material_HunterSeeker,,,皮肤
+Part_GM_Material_JustDeserts,,,皮肤
+Part_GM_Material_Kryll,,,皮肤
+Part_GM_Material_Nagate,,,皮肤
+Part_GM_Material_ObviousTrap,,,皮肤
+Part_GM_Material_PAN_MoxiesBosom,,,皮肤
+Part_GM_Material_Piss,,,皮肤
+Part_GM_Material_Quasar,,,皮肤
+Part_GM_Material_RedQueen,,,皮肤
+Part_GM_Material_Seeker,,,皮肤
+Part_GM_Material_Shroom,,,皮肤
+Part_GM_Material_StormFront,,,皮肤
+Part_GM_Material_Summit,,,皮肤
+Part_GM_Material_Surge,,,皮肤
+Part_GM_Material_ToiletBombs,,,皮肤
+Part_GM_Material_ToyGrenade,,,皮肤
+Part_GM_Material_TranFusion,,,皮肤
+Part_GM_Material_WidowMaker,,,皮肤
+Part_GM_Material_WizardOfNOG,,,皮肤
+Part_GM_Material_FontOfDarkness,,,皮肤
+GM_Part_Manufacturer_01_Torgue,,,Exploder
+GM_Part_Manufacturer_02_Atlas,,,Homing
+GM_Part_Manufacturer_03_Hyperion,,,Longbow
+GM_Part_Manufacturer_04_Vladof,,,Impact
+GM_Part_Manufacturer_06_Pangolin,,,Rubberized
+GM_Part_Manufacturer_07_Tediore,,,Explode after impact
+ClassMod_Part_Beastmaster_Unique_01_Friendbot,,,"Psycho Head on a Stick / All my BFFs / Barbaric Yawp When FL4K kills an enemy, their pet gains second wind"
+ClassMod_Part_Beastmaster_Unique_02_CosmicStalker,,,Big Game / Interplanetary Stalker / Hunter's Eye FL4K's Hunt Skill Power is increased by 25%
+ClassMod_Part_Beastmaster_Unique_03_BountyHunter,,,"Hunter's Eye / The Most Dangerous Game / Frenzy FL4K has a 3% chance to activate any purchased Hunt Kill Skill when dealing gun damage. Bosses are now treated as Humans, Beasts and Robotics for FL4K's Hunt Skills."
+ClassMod_Part_Beastmaster_Unique_05_RakkCommander,,,He Bites! / Go for the Eyes! / Eager to Impress Rakk Attack gains 1 extra charge!
+ClassMod_Part_Beastmaster_Unique_06_RedFang,,,"Eager to impress / Ferocity / He Bites! While Gamma Burst is active, FL4K's pet taunts all enemies."
+ClassMod_Part_Beastmaster_Unique_07_BlueFang,,,Fade Away kills have a 33% chance to refund a Fade Away Charge and extend the duration of Fade Away by 3 seconds.
+ClassMod_Part_Mod_Beastmaster_01_QuickCharge,,,Hunter's Eye / Two F4ng / Turn Tail and Run
+ClassMod_Part_Mod_Beastmaster_02_Divergent,,,Eager To Impress / Hive Mind / Who Rescued Who?
+ClassMod_Part_Mod_Beastmaster_03_Bushmaster,,,Ambush Predator / Leave No Trace / Turn Tail and Run
+ClassMod_Part_Mod_Beastmaster_04_Whistleblower,,,Sic Em' / Eager To Impress / Psycho Head on a Stick
+ClassMod_Part_Mod_Beastmaster_05_DARPAW,,,Ferocity / Who Rescued Who? / Self-Repairing System
+ClassMod_Part_Mod_Beastmaster_06_Overdriven,,,Rage and Recover / The Fast and the Furryous / Who Rescued Who?
+ClassMod_Part_Mod_Beastmaster_07_Thrillbotting,,,The Most Dangerous Game / Big Game / Hidden Machine
+ClassMod_Part_Mod_Beastmaster_08_TurboCharged,,,Second Intention / Furious Attack / Overclocked
+ClassMod_Part_Mod_Beastmaster_09_Headcase,,,Ambush Predator / Leave No Trace / The Fast and the Furryous
+ClassMod_Part_Mod_Beastmaster_10_Botmaster,,,Ferocity / He Bites! / Go for the Eyes!
+ClassMod_Part_Skill_BeastMaster_Bond11,,,"When FL4K's pet takes damage, the pet returns some of that damage to the attacker."
+ClassMod_Part_Skill_BeastMaster_Bond2,,,"Kill Skill. Whenever FL4K kills an enemy, Action Skill Cooldown Time is reduces."
+ClassMod_Part_Skill_BeastMaster_Bond3,,,"Whenever FL4K's Pet deals damage, FL4K regenerates health for a few seconds."
+ClassMod_Part_Skill_BeastMaster_Bond4,,,"When FL4K's pet attacks an enemy, the first melee attack is an automatic Critical Hit that deals increased damage."
+ClassMod_Part_Skill_BeastMaster_Bond7,,,FL4K's Pet deals increased damage.
+ClassMod_Part_Skill_BeastMaster_DangerousGame,,,"Hunter Kill Skill. Whenever FL4K kills a Badass or stronger enemy, they gain increased Critical Hit Damage, Gun Damage, and Handling for a long time."
+ClassMod_Part_Skill_BeastMaster_FastAndFurry,,,"Turn Tail and Run: While moving, FL4K constantly regenerates health and gains Damage Reduction. While Still, FL4K gains Gun Damage and Fire Rate."
+ClassMod_Part_Skill_BeastMaster_Frenzy,,,"Frenzy: Hunter Skill. When FL4K's pet deals damage, FL4K and their pet gain a stack of Frenzy. Each stack of Frenzy increases Damage. The stacks decay after a few seconds."
+ClassMod_Part_Skill_BeastMaster_FullTank,,,"Fast and the Furryous: While above half health, FL4K's Gun Damage and Movement Speed are increased."
+ClassMod_Part_Skill_BeastMaster_GeneticLink,,,"When FL4K takes damage, a portion of all damage they take is shared to their pet instead."
+ClassMod_Part_Skill_BeastMaster_GotThisForYou,,,"Hunter Kill Skill. Whenever FL4K kills an enemy, their Pet gains increased Movement Speed and Damage for a few seconds."
+ClassMod_Part_Skill_BeastMaster_HeadCount,,,"Whenever FL4K scores a Critical hit, there is a chance their Action Skill Cooldown is reduced."
+ClassMod_Part_Skill_BeastMaster_HR1,,,"Hunter Skill. After shooting an enemy, FL4K gains a stack of Furious Attack."
+ClassMod_Part_Skill_BeastMaster_HR2,,,Attack Command has a lowered Cooldown and increased Damage.
+ClassMod_Part_Skill_BeastMaster_HR3,,,"Kill Skill. After killing an enemy, FL4K and FL4K's pet regenerate health for a few seconds."
+ClassMod_Part_Skill_BeastMaster_HR4,,,"FL4K's Maximum Health is increased, and they constantly regenerate health."
+ClassMod_Part_Skill_BeastMaster_HR7,,,Allies share a portion of FL4K's total Health Regeneration. FL4K's pet shares twice the amount of Health Regeneration.
+ClassMod_Part_Skill_BeastMaster_HR8,,,FL4K gains increased Fire Rate. FL4K gains even more Fire Rate after reloading.
+ClassMod_Part_Skill_BeastMaster_HR9,,,"When an enemy has no target or is attacking a different target, FL4K deals increased damage against them."
+ClassMod_Part_Skill_BeastMaster_Hunt1,,,"Leave No Trace: When FL4K scores a Critical Hit, there is a chance for 1 ammo to be added to their magazine."
+ClassMod_Part_Skill_BeastMaster_Hunt2,,,"Second Intention: Hunter Kill Skill. Whenever FL4K kills an enemy, they gain increased Reload Speed."
+ClassMod_Part_Skill_BeastMaster_Hunt5,,,"Ambush Predator: While there are no enemies nearby, FL4K's Weapon Handling and Critical Hit Damage are increased."
+ClassMod_Part_Skill_BeastMaster_HuntersEye,,,FL4K gains bonuses when fighting different types of enemies.
+ClassMod_Part_Skill_BeastMaster_InterStalker,,,"Hunter Kill Skill. Whenever FL4K kills an enemy, they gain a stack of Interplanetary Stalker. For each stack of Interplanetary Stalker, they gain a bonus to all damage dealt."
+ClassMod_Part_Skill_BeastMaster_LifeTraining,,,"Whenever FL4K's Pet deals damage, FL4K regenerates health for a few seconds."
+ClassMod_Part_Skill_BeastMaster_Symbiosis,,,Increases the power of Pet Bonuses granted to FL4K.
+ClassMod_Part_Skill_BeastMaster_TwoFang,,,FL4K has a chance to fire an extra projectile per shot
+ClassMod_Part_Operative_Unique_01_Infiltrator,,,"Zane's Weapon Damage and Movement Speed are increased. The lower his shield, the greater the bonus. Whenever Zane activates an action skill he breaks his shield."
+ClassMod_Part_Operative_Unique_02_Executor,,,"Kill Skill. Whenever Zane kills an enemy, he gains increased Accuracy, Handling, Critical Hit Damage, Status Effect Damage, and Status Effect Chance."
+ClassMod_Part_Operative_Unique_03_Expert,,,Kill Skill. +5% Chance on kill to recharge SNTL Cooldown and Duration.
+ClassMod_Part_Operative_Unique_04_Firebrand,,,"Grants Zane's Digit-Clone the Binary System Augment. Whenever Zane's Clone receives melee damage, it creates a Shock Nova around it."
+ClassMod_Part_Operative_Unique_05_Operative,,,"Whenever Zane freezes an enemy, a random Status Effect is applied to them instantly."
+Part_CM_Operative_Raid1,,,"While Sliding or Airborne, Zane gains +40% Weapon Damage and +20% Damage Reduction. While Slowed, Zane gains +25% Movement Speed"
+ClassMod_Part_Skill_Operative_Adrenaline,,,"Zane gains increased Action Skill Cooldown Rate. This bonus is based on the amount of shield he has. The more percent full, the greater the bonus."
+ClassMod_Part_Skill_Operative_BorrowedTime,,,Zane gains increased Action Skill Duration for every active Action Skill.
+ClassMod_Part_Skill_Operative_Chancer,,,"Zane gains Health Regeneration. The lower his shield is, the higher the bonus."
+ClassMod_Part_Skill_Operative_ColdBore,,,Zane gains increased Weapon Swap Speed. The next shot fired after swapping weapons deals Bonus Cryo Damage.
+ClassMod_Part_Skill_Operative_CoolerHeads,,,"Whenever Zane scores a Critical Hit on an enemy, theres a chance they will be Slowed. This effect stacks until the target is Frozen."
+ClassMod_Part_Skill_Operative_CoolHand,,,"Zane gains increased Reload Speed. Kill Skill. After killing an enemy, Zanes Reload Speed is increased for a few seconds. Duration 15sec"
+ClassMod_Part_Skill_Operative_Donnybrook,,,"Kill Skill. Whenever Zane kills an enemy, he and his Digi-Clone receive increased Gun Damage and gain Health Regeneration for a few seconds. Duration, 15sec"
+ClassMod_Part_Skill_Operative_DroneDelivery,,,"SNTL will occasionally drop a free grenade based on Zane's current grenade mod while attacking enemies. ""Cooldown 15sec"""
+ClassMod_Part_Skill_Operative_DuctTape,,,The first shot fired from Zane's gun has a chance to also fire a grenade. Cooldown Time 8sec
+ClassMod_Part_Skill_Operative_ExtraParts,,,Zane gains Increased Maximum Shield Capacity.
+ClassMod_Part_Skill_Operative_GoodMisfortune,,,Kill Skill. Killing an enemy increased Zane's Action Skill Duration.
+ClassMod_Part_Skill_Operative_LikeAGhost,,,Zane and his Digi-Clone gain a chance to ignore bullets. This chance is increased for a few seconds after activating an Action skill. This effect stacks. Duration 8sec
+ClassMod_Part_Skill_Operative_MultiTasker,,,"Whenever one or more of Zane's action skills are active, he gains increased Gun Damage for each active action skill."
+ClassMod_Part_Skill_Operative_Ordnance,,,"Kill Skill. Whenever Zane kills an enemy, they create a Cryo Nova, dealing damage to all nearby enemies. Cooldown 2sec"
+ClassMod_Part_Skill_Operative_PlayingDirty,,,"Kill Skill. After killing an enemy, Zane's next five shots all have a chance to fire an additional projectile."
+ClassMod_Part_Skill_Operative_PocketFullOfGrenades,,,"Kill Skill. After killing an enemy, Zane gains Grenade Regeneration for a few seconds. Duration 15sec"
+ClassMod_Part_Skill_Operative_Praemunitus,,,Zane and his Digi-Clone gain increased Magazine Size.
+ClassMod_Part_Skill_Operative_ReadyForAction,,,Zane gains improved Shield Recharge Rate and Shield Recharge Delay.
+ClassMod_Part_Skill_Operative_ReallyExpensiveJacket,,,Elemental Status Effects applied to Zane have a reduced duration.
+ClassMod_Part_Skill_Operative_Refreshment,,,"Whenever Zane damages a frozen enemy with his weapon, he gains some of that damage back as health."
+ClassMod_Part_Skill_Operative_SupersonicMan,,,"Whenever one or more of Zane's Action Skills are active, he gains increased Movement Speed for each active Action Skill."
+ClassMod_Part_Skill_Operative_Teamwork,,,Zane deals Bonus Shock Damage to enemies that arent targeting him.
+ClassMod_Part_Skill_Operative_TheWantVsNeed,,,"Kill Skill. After killing an enemy, Zane's weapons gain Life Steal for a few seconds. Duration 15sec"
+ClassMod_Part_Skill_Operative_Violent_Momentum,,,"Zane's Gun Damage is increased while moving. The quicker he moves, the greater the Gun Damage."
+ClassMod_Part_Skill_Operative_Violent_Speed,,,"Kill Skill. After killing an enemy, Zane gains increased Movement Speed for a few seconds. Duration 15sec"
+ClassMod_Part_Skill_Operative_ViolentViolence,,,"Kill Skill. After killing an enemy, Zane gains increased Fire Rate for a few seconds. Duration 15sec"
+ClassMod_Part_Siren_Unique_01_Storm,,,"Whenever Amara first damages an enemy with her Action Skill, she creates a damaging cloud of her Action Skill Element at that Location. Cloud Dmaage: +25/s"
+ClassMod_Part_Siren_Unique_02_Dragon,,,"Whenever Amara kills an enemy with a melee attack, her Action Skill Augment is triggered."
+ClassMod_Part_Siren_Unique_03_Bruiser,,,"Amara gains Damage Reduction. This bonus is based on the distance to the enemy. The close the enemy, the greater the bonus. Dmaage Reduction: Up to 29%"
+ClassMod_Part_Siren_Unique_04_Phasezerker,,,"On Action Skill Used, Amara gains her Max Rush Stack count, but they decay over time. Amara gains 3% Weapon Damage and 10% Action Skill Cooldown Rate based on the number of Rush Stacks. Max Rush Stacks: +5"
+ClassMod_Part_Siren_Unique_05_Siren,,,"Whenever Amara Phasegraps an enemy, her Action Skill Element is applied to all nearby enemies."
+Part_CM_Siren_Raid1,,,"Whenever Amara activates her action skill, she applies her action skill element to herself. Amara's Gun Damage is increased while moving. The quicker she moves, the greater the Gun Damage bonus."
+Part_CM_Siren_DLC1,,,"Whenever an enemy damages Amara, she gains increased Action Skill Cooldown Rate (5%) for a 8 seconds. This effect stacks."
+GPart_All_SkillEnd_AccuracyHandling,,,"On Action Skill End, Weapon Accuracy(50%) and Handling(200%) are greatly increased for 12 seconds."
+GPart_All_SkillEnd_AddGrenade,,,"On Action Skill Start, Regenerate 1 grenade."
+GPart_All_SkillEnd_CooldownRate,,,"On Action Skill End, action skill cooldown rate is increased by 20% for 15 seconds."
+GPart_All_SkillEnd_CritDamage,,,"On Action Skill End, Critical Damage is increased by 25% for 15 seconds."
+GPart_All_SkillEnd_DamageReduction,,,"On Action Skill End, damage taken is reduced by 15% for 12 seconds."
+GPart_All_SkillEnd_EleChanceDamage,,,"On Action Skill End, Weapon Status Effect Damage is increased by 75% and Chance is increased by 40% for 12 seconds."
+GPart_All_SkillEnd_FireRateReload,,,"On Action Skill End, fire rate is increased by 11%, and reload speed by 35% for 12 seconds."
+GPart_All_SkillEnd_HealthRegen,,,"On Action Skill End, regenerate 1.25% max health per second for 12 seconds."
+GPart_All_SkillEnd_LifeSteal,,,"On Action Skill End, gain 15% Life Steal for 12 seconds."
+GPart_All_SkillEnd_MeleeDamage,,,"On Action Skill End, Melee Damage is increased by 100% for 12 seconds."
+GPart_All_SkillEnd_MoveSpeed,,,"On Action Skill End, movement speed is increased by 5% for 12 seconds."
+GPart_All_SkillEnd_NextMagBonusDamageCorrosive,,,"On Action Skill End, the next 2 magazines will have 50% additional bonus corrosive damage."
+GPart_All_SkillEnd_NextMagBonusDamageCryo,,,"On Action Skill End, the next 2 magazines will have 50% additional bonus cryo damage."
+GPart_All_SkillEnd_NextMagBonusDamageFire,,,"On Action Skill End, the next 2 magazines will have 50% additional bonus fire damage."
+GPart_All_SkillEnd_NextMagBonusDamageRadiation,,,"On Action Skill End, the next 2 magazines will have 50% additional bonus radiation damage."
+GPart_All_SkillEnd_NextMagBonusDamageShock,,,"On Action Skill End, the next 2 magazines will have 50% additional bonus shock damage."
+GPart_All_SkillEnd_ProjectileSpeed,,,"On Action Skill End, Projectile Speed is increased by 100% for 12 seconds."
+GPart_All_SkillEnd_UniqueEnemyDamage,,,"On Action Skill End, Deal 125% more Weapon Damage to Badass, Named, and Boss enemies for 15 seconds."
+GPart_All_SkillEnd_WeaponDamage,,,"On Action Skill End, Weapon Damage is increased by 100% for 12 seconds."
+GPart_All_Passive_GenerateTerror_Melee,,,Melee Attacks have a 25% chance to apply Terror to yourself.
+GPart_All_Passive_TerrorAmmoRegen,,,"While Terrified, gain ammo regeneration. The more Terror you have, the higher the bonus. T1: 5%, T2: 10%, T3: 15%"
+GPart_All_Passive_TerrorBonus_CryoDamage,,,"While Terrified, deal 50% bonus cryo damage."
+GPart_All_Passive_TerrorBulletReflect,,,"While Terrified, enemy bullets have a chance to reflect off of you. The more Terror you have, the higher the bonus. T1: 15%, T2: 30%, T3: 45%"
+GPart_All_Passive_TerrorCritDamage,,,"While Terrified, gain increased crit damage. The more Terror you have, the higher the bonus. T1: 50%, T2: 75%, T3: 100%"
+GPart_All_Passive_TerrorDamageFireRate,,,"While Terrified, gain increased damage and fire rate. The more Terror you have, the higher the bonus. Damage: T1: 5%, T2: 10%, T3: 15%, Fire Rate: T1: 10%, T2: 20%, T3: 30%"
+GPart_All_Passive_TerrorDamageMitigation,,,"While Terrified, reduce all incoming damage by a small amount. The more Terror you have, the higher the bonus. T1: 10%, T2: 20%, T3: 30%"
+GPart_All_Passive_TerrorHealthRegen,,,"While Terrified, gain health regeneration. The more Terror you have, the higher the bonus. T1: 4%, T2: 6%, T3: 8%"
+GPart_All_Passive_TerrorProjectilesPerShot,,,"While Terrified, you have a chance to fire an extra projectile per shot. The more Terror you have, the higher the bonus. T1: 10%, T2: 20%, T3: 30%"
+GPart_All_SkillEnd_GenerateTerror,,,"On Action Skill End, apply Terror to yourself every 5 seconds for the next 18 seconds. Generate Terror Rate: 3 ?"
+GPart_All_SkillEnd_TerrorHeal,,,"While Terrified, gain health regeneration. The more Terror you have, the higher the bonus. Base Heal: 25%, Terror Stack Bonus: 15%"
+GPart_EG_Generic_ConsecutiveHitsDmgStack,,,"Consecutive Hits increase Weapon Damage by 1% per hit, misses remove all bonuses. (Max: 200 stacks)"
+GPart_EG_Generic_KillStackReloadDamage,,,"Killing an enemy grants 5% Weapon Damage and 95% Reload Speed for 25 seconds, this effect stacks."
+GPart_EG_Generic_LowHealthExecutor,,,"While enemies are below 25% Health, gain 50% increased Weapon Damage."
+GPart_EG_GrenadeThrow_GlobalDamage,,,"On Grenade Thrown, Weapon, Grenade, and Action Skill Damage are increased by 25% for 6 seconds."
+GPart_EG_SkillEndBonusEleDamage_Corrosive,,,"On Action Skill End, gain 50% bonus Corrosive Damage with Weapons for 10 seconds."
+GPart_EG_SkillEndBonusEleDamage_Cryo,,,"On Action Skill End, gain 50% bonus Cryo Damage with Weapons for 10 seconds."
+GPart_EG_SkillEndBonusEleDamage_Fire,,,"On Action Skill End, gain 50% bonus Fire Damage with Weapons for 10 seconds."
+GPart_EG_SkillEndBonusEleDamage_Radiation,,,"On Action Skill End, gain 50% bonus Radiation Damage with Weapons for 10 seconds."
+GPart_EG_SkillEndBonusEleDamage_Shock,,,"On Action Skill End, gain 50% bonus Shock Damage with Weapons for 10 seconds."
+GPart_EG_WhileAirborn_AccuracyHandling,,,"While Airborne, Accuracy is increased by 25% and Handling by 10%."
+GPart_EG_WhileAirborn_CritDamage,,,"While Airborne, Critical Damage is increased by 125%."
+GPart_EG_WhileAirborn_Damage,,,"While Airborne, Damage is increased by 130%."
+GPart_EG_WhileAirborn_FireRate,,,"While Airborne, Fire Rate is increased by 120%."
+GPart_EG_WhileSliding_AccuracyHandling,,,"While Sliding, Accuracy is increased by 50% and Handling by 10%."
+GPart_EG_WhileSliding_Damage,,,"While Sliding, Damage is increased by 140%."
+GPart_EG_WhileSliding_FireRate,,,"While Sliding, Fire Rate is increased by 125%."
+GPart_Beast_AttackCmd_Lifesteal,,,"After using Attack Command, gain 30% lifesteal for 8 seconds."
+GPart_Beast_AttackCmd_Movespeed,,,"After issuing an Attack Command, gain 8% Movespeed for 6 seconds."
+GPart_Beast_ExitStealthNova,,,"When exiting Fade Away, create a nova that deals 175% damage. Nova Radius: 500"
+GPart_Beast_RakkCharge,,,Grants an extra charge of Rakk Attack!
+GPart_Beast_RakkCrit,,,"After using Rakk Attack!, gain 25% critical hit damage for 8 seconds."
+GPart_Beast_RakkSlag,,,Enemies damaged by Rakk Attack! take 50% increased damage for 10 seconds.
+GPart_Beast_Stealth_AccuracyHandling,,,"While Fade Away is active, gain greatly increased Accuracy(200%) and Handling(perfect) for 20 seconds."
+GPart_BonusRadiationDamage,,,"While Gamma Burst is active, gain 65% bonus radiation damage."
+GPart_Beast_AttackCmd_TerrorFireDMG,,,"After using Attack Command, consume all Terror and Fl4K's pet gains 50% bonus fire damage for 15 seconds."
+GPart_Gunner_AutoBear_AmmoRegen,,,"While Auto Bear is active, constantly regenerate 7.5% of magazine size per second."
+GPart_Gunner_AutoBear_FireDamage,,,"While Auto Bear is active, deals 20% bonus Incendiary damage."
+GPart_Gunner_EnterExit_Nova,,,"When entering and exiting Iron Bear, create a nova that deals 175% damage. Radius: 900"
+GPart_Gunner_IBGrenadeChance,,,"While Iron Bear is active, taking damage has a 20% chance to spawn a grenade each 8 seconds."
+GPart_Gunner_KillsLowerCooldown,,,"After exiting Iron Bear, kills increase Iron Bear's cooldown rate by 30% for 30 seconds. Stack Duration: 10 seconds"
+GPart_Gunner_NextMagFireDamage,,,"After exiting Iron Bear, the next 2 magazines will have 40% bonus Incendiary damage."
+GPart_Gunner_NextMagFirerateCrit,,,"After exiting Iron Bear, the next 2 magazines will have 10% increased fire rate and 20% critical damage."
+GPart_Gunner_NextMagReloadHandling,,,"After exiting Iron Bear, the next 3 magazines will have 50% increased reload speed and 20% increased handling."
+GPart_Gunner_NoAmmoConsumption,,,"After exiting Iron Bear, do not consume ammo for 5 seconds."
+GPart_Gunner_ShieldHealthMax,,,"After exiting Iron Bear, gain 75% increased shields and health for 25 seconds."
+GPart_Gunner_Reload_TerrorNova,,,"After Reloading, consume all Terror and create a nova that deals cryo damage(175%). Radius: 400"
+GPart_CloneSwap_WeaponDamage,,,"After swapping places with your Digi-Clone, Weapon Damage is increased by 75% for 6 seconds."
+GPart_Operative_BarrierActive_AccuracyCrit,,,"While Barrier is active, Accuracy is increased by 150%, and Critical Hit damage is increased by 30%."
+GPart_Operative_BarrierDeploy_ShieldRecharge,,,"When Barrier is Deployed, instantly start recharging your shields. Delay: 0.15 seconds"
+GPart_Operative_CloneActive_AmmoRegen,,,"While Digi-Clone is active, regenerate 12% of magazine ammo in mag per second for 30 seconds."
+GPart_Operative_CloneActive_HealthRegen,,,"While Digi-Clone is active, regenerate 3% max health per second of 30 seconds."
+GPart_Operative_CloneSwapInstaReload,,,"After swapping places with your Digi-Clone, your weapon is reloaded."
+GPart_Operative_DroneActiveBonusDamage,,,"While SNTNL is active, gain 50% of damage as bonus Cryo damage."
+GPart_Operative_DroneActiveMovespeed,,,"While SNTNL is active, movespeed is increased by 15%."
+GPart_Operative_DroneActive_FireRateReload,,,"While SNTNL is active, Fire Rate is increased by 9%, and Reload Speed by 30%."
+GPart_Operative_DroneActiveTerrorLifesteal,,,"While SNTNL is active, SNTNL gains 100% lifesteal while you are affected by Terror."
+GPart_Siren_Cast_WeaponDamage,,,"After using Phasecast, Weapon Damage is increased by 250% for 12 seconds."
+GPart_Siren_Grasp_AccuracyCrit,,,"After Phasegrasping an enemy, Weapon Accuracy(100%) and Handling(400%) are greatly increased for 20 seconds."
+GPart_Siren_Grasp_ConstantNova,,,"While Phasegrasp is active, Amara constantly triggers novas that deal 50% damage for 15 seconds. Nova Frequency: 1.2 sec, Nova Radius: 500"
+GPart_Siren_SkillEnd_AttunedSkillDamage,,,"On Action Skill End, deal 40% bonus radiation damage for 8 seconds."
+GPart_Siren_Slam_DamageReduction,,,"After using Phaseslam, damage taken is reduced by 25% and movespeed is increased by 12% for 10 seconds."
+GPart_Siren_Slam_MeleeDamage,,,"After using Phaseslam, Melee Damage is increased by 200% for 10 seconds."
+GPart_Siren_Slam_ReturnDamage,,,"On Action Skill End, 30% of all damage taken is returned to the attacker for 12 seconds."
+GPart_Siren_Slam_WeaponDamage,,,"After using Phaseslam, Weapon Damage is increased by 300% for 12 seconds."
+GPart_Siren_Grasp_TerrorSkulls,,,"After Phasegrasping an enemy, Amara fires Terror skulls at the grasped target dealing 200% damage."
+Part_PS_ATL_Barrel_01_A,射速 +10%,,
+Part_PS_ATL_Barrel_01_B,射速 +10%,,
+Part_PS_ATL_Barrel_01_C,准心范围 -15%,,
+Part_PS_ATL_Barrel_02_A,子弹速度 +30%,,
+Part_PS_ATL_Barrel_02_B,伤害 +10%,,
+Part_PS_ATL_Barrel_02_C,伤害 +10%,,
+Part_PS_ATL_Barrel_03_A,准心范围 -15%,,
+Part_PS_ATL_Barrel_03_B,准心范围 -15%,,
+Part_PS_ATL_Barrel_03_C,装弹时间 -10%,,
+Part_PS_ATL_Barrel_连接,"子弹容量 +40, 伤害 +50%",装弹时间 +50%,
+Part_PS_ATL_Barrel_泛和平主义者,溅射伤害范围 +130,"伤害 -30%, 准心范围 +300%",
+Part_PS_ATL_Body,不可移除,,
+Part_PS_ATL_Body_A,射速 +10%,,
+Part_PS_ATL_Body_B,准心范围 -15%,,
+Part_PS_ATL_Body_C,装弹时间 -10%,,
+Part_PS_ATL_Grip_01,"装弹时间 -5%, 准心范围 -20%",,
+Part_PS_ATL_Grip_02,伤害 +5%,,
+Part_PS_ATL_Grip_03,"武器晃动 -30%, 射速 +5%",,
+Part_PS_ATL_Mag_02,18 弹匣,,
+Part_PS_ATL_Mag_03,"26 弹匣, 伤害 -10%",,
+Part_PS_ATL_Material_01_常见,皮肤,,
+Part_PS_ATL_Material_02_普通,皮肤,,
+Part_PS_ATL_Material_03_罕见,皮肤,,
+Part_PS_ATL_Material_04_非常罕见,皮肤,,
+Part_PS_ATL_Material_连接,皮肤,,
+Part_PS_ATL_Material_泛和平主义者,皮肤,,
+Part_PS_ATL_Radar_01,"武器晃动 -30%, 纵向后坐力 -30%, 准心范围 -10%",,
+Part_PS_ATL_Radar_02,"射速 +5%, 子弹容量 +10%",,
+Part_PS_ATL_Radar_03,"装弹时间 -5%, 伤害 +5%",,
+Part_PS_COV_Body_B,射速 +10%,,
+Part_PS_COV_Body_C,每击增加热量 -25%,"伤害 -5%, 准心范围 +10%",
+Part_PS_COV_Barrel_群,伤害 +5%,"装弹时间 +10%, 准心范围 +300%",
+Part_PS_COV_Barrel_01_A,"准心范围扩散 -30%, 近战伤害 +40%",,
+Part_PS_COV_Barrel_01_B,伤害 +10%,,
+Part_PS_COV_Barrel_01_C,射速 +10%,,
+Part_PS_COV_Barrel_02_A,伤害 +10%,,
+Part_PS_COV_Barrel_02_B,每击增加热量 -25%,"伤害 -5%, 准心范围 +10%",
+Part_PS_COV_Barrel_02_C,伤害 +10%,,
+Part_PS_COV_Barrel_03_A,射速 +10%,,
+Part_PS_COV_Barrel_03_B,射速 +10%,,
+Part_PS_COV_Barrel_03_C,"每击增加热量 -25%, 充能持续时间 -20%",,
+Part_PS_COV_Barrel_极端悬停查德,,"伤害 -30%, 准心范围扩散 +100%, 准心范围 +50%",
+Part_PS_COV_Barrel_瘟疫,,"伤害 -10%, 装弹时间 +50%, 准心范围 +20%",
+Part_PS_COV_Barrel_ETech,,"每击增加热量 +100%, 子弹速度 -50%",
+Part_PS_COV_Barrel_ETech_A,"元素伤害 +10%, 每击增加热量 -25%, 近战伤害 +60%",,
+Part_PS_COV_Barrel_甜言蜜语,"准心范围扩散 -50%, 伤害 +40%","准心范围 +20%, 每击增加热量 +100%",
+Part_PS_COV_Barrel_狂人刺客,"伤害 +25%, 近战伤害 +100%",,
+Part_PS_COV_Accessory_01,暴击伤害 +10%,,
+Part_PS_COV_Accessory_02,射速 +5%,,
+Part_PS_COV_Accessory_03,"每次射击射弹数 +1, 准心范围扩散 -16%","准心范围 +10%, 伤害 -20%",
+Part_PS_COV_Accessory_04,"伤害 +5%, 近战伤害 +80%",,
+Part_PS_COV_Grip_01,"横向后坐力幅度 -30%, 射速 +5%",,
+Part_PS_COV_Grip_02,"准心范围扩散 -20%, 暴击伤害 +10%",,
+Part_PS_COV_Grip_03,"准心范围 -12%, 每击增加热量 -15%",伤害 -5%,
+Part_PS_COV_Material_01_常见,皮肤,,
+Part_PS_COV_Material_02_普通,皮肤,,
+Part_PS_COV_Material_03_罕见,皮肤,,
+Part_PS_COV_Material_04_非常罕见,皮肤,,
+Part_PS_COV_Material_极端悬停查德,皮肤,,
+Part_PS_COV_Material_瘟疫,皮肤,,
+Part_PS_COV_Material_群,皮肤,,
+Part_PS_COV_Material_甜言蜜语,皮肤,,
+Part_PS_COV_Material_狂人刺客,皮肤,,
+Part_PS_COV_Material_司凯希斯,皮肤,,
+Part_PS_COV_Scope_01,机瞄,,
+Part_PS_COV_Scope_02,"机瞄 2, 1.8x",,
+Part_PS_COV_Scope_03,"Small scope, 2.5x",,
+Part_PS_COV_Scope_04,"Scope, 5.3x",,
+Part_PS_COV_Ele_Corr,Converts Damage to 腐蚀,,
+Part_PS_COV_Ele_Cryo,Converts Damage to 冰冻,,
+Part_PS_COV_Ele_Fire,Converts Damage to 燃烧,,
+Part_PS_COV_Ele_Radiation,Converts Damage to 辐射,,
+Part_PS_COV_Ele_Shock,Converts Damage to 电击,,
+Part_PS_COV_Stock_01,武器晃动 -30%,,
+Part_PS_COV_Stock_02,"纵向后坐力 -15%, 每次射击射弹数 +1","准心范围 +10%, 伤害 -20%, 准心范围扩散 +20%",
+Part_Dal_PS_Acc_01,"装弹时间 -10%, 暴击伤害 +10%",,
+Part_Dal_PS_Acc_02,"伤害 +10%, 近战伤害 +40%",,
+Part_Dal_PS_Acc_03,"武器晃动 -30%, 准心范围 -10%",,
+Part_Dal_PS_Acc_04,射速 +10%,,
+Part_Dal_PS_Acc_05,"横向后坐力幅度 -25%, 准心范围扩散 -25%",,
+Part_Dal_PS_Barrel_01_A,准心范围 -15%,,
+Part_Dal_PS_Barrel_01_B,准心范围 -15%,,
+Part_Dal_PS_Barrel_01_C,纵向后坐力 -25%,,
+Part_Dal_PS_Barrel_02_A,伤害 +10%,,
+Part_Dal_PS_Barrel_02_B,伤害 +10%,,
+Part_Dal_PS_Barrel_02_C,暴击伤害 +10%,,
+Part_Dal_PS_Barrel_03_A,射速 +10%,,
+Part_Dal_PS_Barrel_03_B,准心范围扩散 -25%,,
+Part_Dal_PS_Barrel_03_C,射速 +10%,,
+Part_Dal_PS_Barrel_ETech,"子弹容量 +20%, 近战伤害 +60%",,
+Part_Dal_PS_Barrel_ETech_A,"子弹速度 +30%, 装弹时间 -10%, 近战伤害 +60%",,
+Part_Dal_PS_Barrel_猛毒大黄蜂,"溅射伤害范围 +85, 装弹时间 -5%, 元素触发几率 +15%, 伤害 +150%",准心范围 +10%,
+Part_Dal_PS_Barrel_涅墨西斯,"准心范围扩散 -30%, 伤害 +120%",,
+Part_Dal_PS_Barrel_万用装载器,,准心范围 -45%,
+Part_Dal_PS_Barrel_夜间飞行者,伤害 +35%,,
+Part_Dal_PS_Body,不可移除,,
+Part_Dal_PS_FiringMode_Burst_Single,3 Shot Burst or Semi-Auto,,
+Part_Dal_PS_Grip_01,"纵向后坐力 -15%, 准心范围扩散 -20%",,
+Part_Dal_PS_Grip_02,"武器晃动 -30%, 射速 +5%",,
+Part_Dal_PS_Grip_03,"装弹时间 -5%, 伤害 +5%",,
+Part_Dal_PS_Mag_01,12 弹匣,伤害 +10%,
+Part_Dal_PS_Mag_02,18 弹匣,,
+Part_Dal_PS_Mag_03,24 弹匣,伤害 -10%,
+Part_Dal_PS_Mag_AAA,9 弹匣,,
+Part_Dal_PS_Mat_01_常见,皮肤,,
+Part_Dal_PS_Mat_02_普通,皮肤,,
+Part_Dal_PS_Mat_03_罕见,皮肤,,
+Part_Dal_PS_Mat_04_非常罕见,皮肤,,
+Part_Dal_PS_Mat_AAA,皮肤,,
+Part_Dal_PS_Mat_猛毒大黄蜂,皮肤,,
+Part_Dal_PS_Mat_涅墨西斯,皮肤,,
+Part_Dal_PS_Mat_万用装载器,皮肤,,
+Part_Dal_PS_Mat_夜间飞行者,皮肤,,
+Part_Dal_PS_Scope_01,"2.2x, 4x",,
+Part_Dal_PS_Scope_02,"1.0x, 1x",,
+Part_Dal_PS_Stock_01,"武器晃动 -30%, 准心范围 -20%",,
+Part_Dal_PS_Stock_02,"准心范围扩散 -20%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_PS_JAK_Barrel_01_A,伤害 +10%,,
+Part_PS_JAK_Barrel_01_B,暴击伤害 +10%,,
+Part_PS_JAK_Barrel_01_C,"纵向后坐力 -25%, 近战伤害 +60%",,
+Part_PS_JAK_Barrel_01_D,伤害 +10%,,
+Part_PS_JAK_Barrel_02_A,准心范围 -15%,,
+Part_PS_JAK_Barrel_02_B,伤害 +10%,,
+Part_PS_JAK_Barrel_02_C,"装弹时间 -10%, 近战伤害 +40%",,
+Part_PS_JAK_Barrel_03_A,准心范围 -15%,,
+Part_PS_JAK_Barrel_03_B,武器晃动 -20%,,
+Part_PS_JAK_Barrel_03_C,准心范围 -15%,,
+Part_PS_JAK_Barrel_03_D,装弹时间 -10%,,
+Part_PS_JAK_Barrel_奇异恩典,"横向后坐力幅度 -60%, 纵向后坐力 -25%, 伤害 +160%",,
+Part_PS_JAK_Barrel_肛门塞,近战伤害 +50%,"伤害 -90%, 准心范围 +110%",
+Part_PS_JAK_Barrel_洪水,"子弹容量 +3, 伤害 +50%",准心范围 +200%,
+Part_PS_JAK_Barrel_双王的召唤,"伤害 +150%, 准心范围 -50%, 元素触发几率 +100%","纵向后坐力 +50%, 装弹时间 +20%",
+Part_PS_JAK_Barrel_JabberWeaponBase,伤害 +40%,,
+Part_PS_JAK_Barrel_玛吉,子弹容量 +4,"准心范围 -250%, 伤害 -38%",
+Part_PS_JAK_Barrel_同伴,"子弹容量 +10, 伤害 +100%","准心范围 -35%, 元素触发几率 -100%",
+Part_PS_JAK_Barrel_SpyRevolver,"纵向后坐力 -50%, 子弹容量 +8",伤害 -30%,
+Part_PS_JAK_Barrel_毁灭公爵,"溅射伤害范围 +100, 伤害 +20%",,
+Part_PS_JAK_Barrel_不可饶恕,暴击伤害 +300%,"伤害 -40%, 准心范围扩散 +200%",
+Part_PS_JAK_Barrel_货车轮l,"纵向后坐力 -50%, 伤害 +30%",准心范围扩散 +200%,
+Part_PS_JAK_Body,不可移除,,
+Part_PS_JAK_Body_A,伤害 +10%,,
+Part_PS_JAK_Body_B,装弹时间 -10%,,
+Part_PS_JAK_Body_C,伤害 +10%,,
+Part_PS_JAK_Grip_01,"装弹时间 -5%, 暴击伤害 +10%",,
+Part_PS_JAK_Grip_02,"横向后坐力幅度 -15%, 伤害 +5%",,
+Part_PS_JAK_Grip_03,"武器晃动 -30%, 准心范围 -20%",,
+Part_PS_JAK_Grip_04,每次射击射弹数 +4,"伤害 -68.5%, 准心范围 +87%, 纵向后坐力 +40%, 准心范围扩散 +25%",
+Part_PS_JAK_Grip_RoboMelt,每次射击射弹数 +4,"伤害 -68.5%, 准心范围 +87%, 纵向后坐力 +40%, 准心范围扩散 +25%",
+Part_PS_JAK_Hammer_01,"装弹时间 -5%, 准心范围 -10%",,
+Part_PS_JAK_Hammer_02,"武器晃动 -30%, 暴击伤害 +10%",,
+Part_PS_JAK_Hammer_03,纵向后坐力 -30%,,
+Part_PS_JAK_Mag_01,5 弹匣,,
+Part_PS_JAK_Mag_02,6 弹匣,,
+Part_PS_JAK_Mag_03,4 弹匣. 伤害 +10%,,
+Part_PS_JAK_Material_01_常见,皮肤,,
+Part_PS_JAK_Material_02_普通,皮肤,,
+Part_PS_JAK_Material_03_罕见,皮肤,,
+Part_PS_JAK_Material_04_Epic,皮肤,,
+Part_PS_JAK_Material_奇异恩典,皮肤,,
+Part_PS_JAK_Material_肛门塞,皮肤,,
+Part_PS_JAK_Material_Clay,皮肤,,
+Part_PS_JAK_Material_洪水,皮肤,,
+Part_PS_JAK_Material_FirstGunB,皮肤,,
+Part_PS_JAK_Material_双王的召唤,皮肤,,
+Part_PS_JAK_Material_玛吉,皮肤,,
+Part_PS_JAK_Material_Malevolent,皮肤,,
+Part_PS_JAK_Material_同伴,皮肤,,
+Part_PS_JAK_Material_SpyRevolver,皮肤,,
+Part_PS_JAK_Material_毁灭公爵,皮肤,,
+Part_PS_JAK_Material_不可饶恕,皮肤,,
+Part_PS_JAK_Material_货车轮l,皮肤,,
+Part_PS_JAK_Material_RoboMasher,皮肤,,
+Part_PS_JAK_Rail_01,Visual Only,,
+Part_PS_JAK_NoScope,伤害 +35%,,
+Part_PS_JAK_Scope_02,Tear drop scope 5x,,
+Part_PS_JAK_Scope_03,2.2x,,
+Part_PS_JAK_Speedloader,快速装填器,,
+Part_PS_MAL_Barrel_01_A,射速 +10%,,
+Part_PS_MAL_Barrel_01_B,子弹容量 +10%,,
+Part_PS_MAL_Barrel_01_C,"准心范围扩散 -25%, 准心范围 -15%",,
+Part_PS_MAL_Barrel_02,溅射伤害范围 +60,,
+Part_PS_MAL_Barrel_02_A,充能持续时间 -20%,,
+Part_PS_MAL_Barrel_02_B,伤害 +10%,,
+Part_PS_MAL_Barrel_02_C,伤害 +10%,,
+Part_PS_MAL_Barrel_03_A,元素触发几率 +15%,,
+Part_PS_MAL_Barrel_03_B,"武器晃动 -20%, 充能持续时间 -20%",,
+Part_PS_MAL_Barrel_03_C,元素伤害 +10%,伤害 -15%,
+Part_PS_MAL_Barrel_喷雾器,子弹容量 +5,,
+Part_PS_MAL_Barrel_ETech_A,"元素触发几率 +15%, 子弹容量 +10%, 近战伤害 +60%",,
+Part_PS_MAL_Barrel_地狱震荡,"子弹容量 +20, 伤害 +25%",,
+Part_PS_MAL_Barrel_超能电水枪,溅射伤害范围 +60,,
+Part_PS_MAL_Barrel_弹力球,"溅射伤害范围 +100, 伤害 +50%",,
+Part_PS_MAL_Barrel_弑星者,子弹容量 +7,伤害 -70%,
+Part_PS_MAL_Barrel_背叛,"元素触发几率 +75%, 溅射伤害范围 +100","准心范围 +125%, 伤害 -40%, 准心范围扩散 +300%",
+Part_PS_MAL_Barrel_闪电球之拳,伤害 +125%,,
+Part_PS_MAL_Body,不可移除,,
+Part_PS_MAL_Grip_01,"充能持续时间 -10%, 准心范围扩散 -20%",,
+Part_PS_MAL_Grip_02,"武器晃动 -30%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_PS_MAL_Grip_03,"武器晃动 -30%, 伤害 +5%",,
+Part_PS_MAL_Grip_04,"武器晃动 -30%, 伤害 +5%",,
+Part_PS_MAL_Grip_05,"准心范围 -20%, 射速 +5%",,
+Part_PS_MAL_Hammer_01,射速 +10%,,
+Part_PS_MAL_Hammer_02,伤害 +10%,,
+Part_PS_MAL_Hammer_03,"溅射伤害范围 +20%, 准心范围 -15%",,
+Part_PS_MAL_Hammer_04,"元素伤害 +10%, 元素触发几率 +15%",,
+Part_PS_MAL_Hammer_05,,"伤害 -30%, 准心范围扩散 +25%, 准心范围 +10%",
+Part_PS_MAL_Mag_01,"10 弹匣, 伤害 +10%",,
+Part_PS_MAL_Mag_01_A,纵向后坐力 -25%,,
+Part_PS_MAL_Mag_02,14 弹匣,,
+Part_PS_MAL_Mag_02_A,元素伤害 +10%,,
+Part_PS_MAL_Mag_03,"20 弹匣, 伤害 -10%",,
+Part_PS_MAL_Mag_03_A,装弹时间 -10%,,
+Part_PS_MAL_Material_01_常见,皮肤,,
+Part_PS_MAL_Material_02_普通,皮肤,,
+Part_PS_MAL_Material_03_罕见,皮肤,,
+Part_PS_MAL_Material_04_非常罕见,皮肤,,
+Part_PS_MAL_Material_地狱震荡,皮肤,,
+Part_PS_MAL_Material_超能电水枪,皮肤,,
+Part_PS_MAL_Material_弹力球,皮肤,,
+Part_PS_MAL_Material_弑星者,皮肤,,
+Part_PS_MAL_Material_背叛,皮肤,,
+Part_PS_MAL_Material_闪电球之拳,皮肤,,
+Part_PS_MAL_Scope_01,1.5x,,
+Part_PS_MAL_Scope_02,2.9x,,
+Part_PS_MAL_Scope_03,2.2x,,
+Part_PS_TED_Barrel_01_A,伤害 +10%,,
+Part_PS_TED_Barrel_01_B,"溅射伤害范围 +20%, 伤害 +10%",,
+Part_PS_TED_Barrel_01_C,"射速 +10%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_PS_TED_Barrel_02_A,"纵向后坐力 -25%, 射速 +10%",,
+Part_PS_TED_Barrel_02_B,射速 +10%,,
+Part_PS_TED_Barrel_02_C,准心范围 -15%,,
+Part_PS_TED_Barrel_03_A,准心范围 -15%,,
+Part_PS_TED_Barrel_03_B,"子弹容量 +7, 伤害 +4.5%",准心范围 +10%,
+Part_PS_TED_Barrel_03_C,准心范围 -15%,,
+Part_PS_TED_Barrel_宝贝制造者,伤害 +100%,,
+Part_PS_TED_Barrel_ETech,子弹容量 +10%,,
+Part_PS_TED_Barrel_ETech_A,"装弹时间 -10%, 子弹容量 +10%, 近战伤害 +60%",,
+Part_PS_TED_Barrel_回旋枪XL,"装弹时间 -17.5%, 伤害 +100%, 子弹容量 +18",,
+Part_PS_TED_Barrel_毒刺XL,"子弹容量 +30, 伤害 +150%",准心范围 +25%,
+Part_PS_TED_Barrel_S3RV-80S-EXECUTE,"子弹容量 +2, 装弹时间 -35%",,
+Part_PS_TED_Body,不可移除,,
+Part_PS_TED_Body_A,子弹容量 +10%,"准心范围 +10%, 伤害 -5%",
+Part_PS_TED_Body_B,溅射伤害范围 +20%,,
+Part_PS_TED_Body_C,伤害 +10%,,
+Part_PS_TED_Grip_01,"武器晃动 -30%, 伤害 +5%",,
+Part_PS_TED_Grip_02,"准心范围 -12%, 子弹容量 +3",伤害 -5%,
+Part_PS_TED_Grip_03,"溅射伤害范围 +20%, 横向后坐力幅度 -30%",,
+Part_PS_TED_Grip_04,"纵向后坐力 -15%, 射速 +5",,
+Part_PS_TED_Grip_05,每次射击射弹数 +1,"准心范围扩散 +25%, 准心范围 +10%, 伤害 -30%",
+Part_PS_TED_Material_01_常见,皮肤,,
+Part_PS_TED_Material_02_普通,皮肤,,
+Part_PS_TED_Material_03_罕见,皮肤,,
+Part_PS_TED_Material_04_Epic,皮肤,,
+Part_PS_TED_Material_Ava,皮肤,,
+Part_PS_TED_Material_宝贝制造者,皮肤,,
+Part_PS_TED_Material_Bangerang,皮肤,,
+Part_PS_TED_Material_回旋枪XL,皮肤,,
+Part_PS_TED_Material_毒刺XL,皮肤,,
+Part_PS_TED_Material_S3RV-80S-EXECUTE,皮肤,,
+Part_PS_TED_Scope_01,1.5x,,
+Part_PS_TED_Scope_02,"Small Scope, 2.2x",,
+Part_PS_TED_Scope_03,4.5x,,
+Part_PS_TED_TypeMod_01,溅射伤害范围 +20%,,
+Part_PS_TED_TypeMod_02,"准心范围扩散 -30%, 伤害 +5%",,
+Part_PS_TED_TypeMod_03,"纵向后坐力 -30%, 射速 +5%",,
+Part_PS_TED_TypeMod_04,"武器晃动 -30%, 准心范围 -5%",,
+Part_PS_TED_TypeMod_宝贝制造者_Homing,"准心范围扩散 -30%, 伤害 +5%",,
+Part_PS_TED_TypeMod_宝贝制造者_Spider,"纵向后坐力 -30%, 射速 +5%",,
+Part_PS_TOR_Barrel_01_A,射速 +10%,,
+Part_PS_TOR_Barrel_01_B,子弹速度 +30%,,
+Part_PS_TOR_Barrel_01_C,子弹速度 +30%,,
+Part_PS_TOR_Barrel_02_A,伤害 +10%,,
+Part_PS_TOR_Barrel_02_B,子弹速度 +30%,,
+Part_PS_TOR_Barrel_02_C,伤害 +10%,,
+Part_PS_TOR_Barrel_03_A,伤害 +10%,,
+Part_PS_TOR_Barrel_03_B,溅射伤害范围 +20%,,
+Part_PS_TOR_Barrel_03_C,溅射伤害范围 +20%,,
+Part_PS_TOR_Barrel_4SUM,"溅射伤害范围 +400, 伤害 +100%",,
+Part_PS_TOR_Barrel_外壳破坏者,"纵向后坐力 -55%, 横向后坐力幅度 -55%",准心范围 +450%,
+Part_PS_TOR_Barrel_ETech,"装弹时间 -40%, 每次射击射弹数 +8",准心范围 +600%,
+Part_PS_TOR_Barrel_ETech_A,"子弹速度 +30%, 装弹时间 -10%, 近战伤害 +60%",,
+Part_PS_TOR_Barrel_Echo,伤害 +50%,,
+Part_PS_TOR_Barrel_海客,,"伤害 -25%, 准心范围 +50%",
+Part_PS_TOR_Barrel_海德,,"伤害 -25%, 准心范围 +50%",
+Part_PS_TOR_Barrel_格思暴能精英,"纵向后坐力 -90%, 子弹容量 +5",伤害 -70%,
+Part_PS_TOR_Barrel_罗森的刺,"纵向后坐力 -50%, 伤害 +100%",弹道速度 -75%,
+Part_PS_TOR_Barrel_神秘术士,,"伤害 -20%, 准心范围 +450%",
+Part_PS_TOR_Barrel_斯科维尔,"子弹容量 +2, 伤害 +175%, 溅射伤害范围 +350, 装弹时间 -30%",,
+Part_PS_TOR_Body,不可移除,,
+Part_PS_TOR_Body_A,伤害 +10%,,
+Part_PS_TOR_Body_B,伤害 +10%,,
+Part_PS_TOR_Body_C,溅射伤害范围 +20%,,
+Part_PS_TOR_Body_D,装弹时间 -10%,,
+Part_PS_TOR_Grip_01,"纵向后坐力 -15%, 射速 +5%",,
+Part_PS_TOR_Grip_02,"横向后坐力幅度 -30%, 伤害 +5%",,
+Part_PS_TOR_Grip_03,"子弹速度 +15%, 溅射伤害范围 +20%",,
+Part_PS_TOR_Hammer_01,准心范围 -15%,,
+Part_PS_TOR_Hammer_02,射速 +10%,,
+Part_PS_TOR_Hammer_03,伤害 +10%,,
+Part_PS_TOR_Mag_01,8 弹匣,,
+Part_PS_TOR_Mag_02,6 弹匣,,
+Part_PS_TOR_Mag_03,"5 弹匣, 溅射伤害范围 +20%",,
+Part_PS_TOR_Material_01_常见,皮肤,,
+Part_PS_TOR_Material_02_普通,皮肤,,
+Part_PS_TOR_Material_03_罕见,皮肤,,
+Part_PS_TOR_Material_04_非常罕见,皮肤,,
+Part_PS_TOR_Material_4SUM,皮肤,,
+Part_PS_TOR_Material_外壳破坏者,皮肤,,
+Part_PS_TOR_Material_Echo,皮肤,,
+Part_PS_TOR_Material_海客,皮肤,,
+Part_PS_TOR_Material_海德,皮肤,,
+Part_PS_TOR_Material_格思暴能精英,皮肤,,
+Part_PS_TOR_Material_罗森的刺,皮肤,,
+Part_PS_TOR_Material_神秘术士,皮肤,,
+Part_PS_TOR_TinyTina_Material,皮肤,,
+Part_PS_TOR_Material_HandCannon,皮肤,,
+Part_PS_TOR_Material_斯科维尔,皮肤,,
+Part_PS_TOR_Scope_01,2.2x,,
+Part_PS_TOR_Stock_01,每次射击射弹数 +1,"准心范围扩散 +20%, 准心范围 +120%, 伤害 -20%",
+Part_PS_TOR_Stock_02,溅射伤害范围 +20%,,
+Part_PS_VLA_Barrel_01,准心范围 -30%,,
+Part_PS_VLA_Barrel_01_A,伤害 +10%,,
+Part_PS_VLA_Barrel_01_B,伤害 +10%,,
+Part_PS_VLA_Barrel_01_C,准心范围扩散 -25%,,
+Part_PS_VLA_Barrel_02,准心范围 +20%,,
+Part_PS_VLA_Barrel_02_A,射速 +10%,,
+Part_PS_VLA_Barrel_02_B,准心范围扩散 -25%,,
+Part_PS_VLA_Barrel_02_C,射速 +10%,,
+Part_PS_VLA_Barrel_03_A,准心扩散范围 -25%,,
+Part_PS_VLA_Barrel_03_B,伤害 +10%,,
+Part_PS_VLA_Barrel_03_C,射速 +10%,,
+Part_PS_VLA_Barrel_碎骨机,"每次射击射弹数 +4, 子弹容量 +40","伤害 -50%, 准心范围扩散 +35%, 准心范围 +400%",
+Part_PS_VLA_Barrel_ETech,装弹时间 -20%,,
+Part_PS_VLA_Barrel_ETech_A,"射速 +10%, 子弹容量 +10%, M元素伤害 +80%",,
+Part_PS_VLA_Barrel_无穷,"武器晃动 -100%, 准心范围扩散 -100%, 纵向后坐力 -100%, 横向后坐力幅度 -100%, 伤害 +20%",武器晃动 -100%,
+Part_PS_VLA_Barrel_棒极了,伤害 +50%,"纵向后坐力 +25%, 准心范围 +250%, 横向后坐力幅度 +25%",
+Part_PS_VLA_Body,不可移除,,
+Part_PS_VLA_Grip_01,"武器晃动 -30%, 子弹容量 +10%",,
+Part_PS_VLA_Grip_02,"准心范围扩散 -30%, 伤害 +5%",,
+Part_PS_VLA_Grip_03,"横向后坐力幅度 -30%, 射速 +5%",,
+Part_PS_VLA_MagType_01,伤害 +10%,,
+Part_PS_VLA_MagType_02,准心范围扩散 -25%,,
+Part_PS_VLA_MagType_03,横向后坐力幅度 -25%,,
+Part_PS_VLA_Mag_01_A,"15 弹匣, 伤害 +10%",,
+Part_PS_VLA_Mag_01_B,18 弹匣,,
+Part_PS_VLA_Mag_02_A,18 弹匣,,
+Part_PS_VLA_Mag_02_A_无穷,无限弹匣g,,
+Part_PS_VLA_Mag_02_B,18 弹匣,,
+Part_PS_VLA_Mag_03_A,伤害 -10%,,
+Part_PS_VLA_Mag_03_B,35 弹匣,"伤害 -20%, 纵向后坐力 +25%, 准心范围扩散 +15%, 横向后坐力幅度 +20%",
+Part_PS_VLA_Material_01_常见,皮肤,,
+Part_PS_VLA_Material_02_普通,皮肤,,
+Part_PS_VLA_Material_03_罕见,皮肤,,
+Part_PS_VLA_Material_04_非常罕见,皮肤,,
+Part_PS_VLA_Material_碎骨机,皮肤,,
+Part_PS_VLA_Material_无穷,皮肤,,
+Part_PS_VLA_Material_棒极了,皮肤,,
+Part_PS_VLA_Material_TheLeech,皮肤,,
+Part_PS_VLA_Rail_01,准心范围扩散 -25%,,
+Part_PS_VLA_Rail_02,射速 +10%,,
+Part_PS_VLA_Rail_03,准心范围 -15%,,
+Part_PS_VLA_Rail_04,每次射击射弹数 +1,"准心范围扩散 +20%, 准心范围 +10%, 伤害 -20%",
+Part_PS_VLA_Scope_01,机瞄,,
+Part_PS_VLA_Scope_02,1.5x,,
+Part_PS_VLA_Scope_04,4.0x,,
+Part_PS_VLA_Slide_01,伤害 +10%,,
+Part_PS_VLA_Slide_02,射速 +10%,,
+Part_PS_VLA_Slide_03,子弹容量 +10%,"准心范围 +10%, 伤害 -5%",
+Part_PS_VLA_Underbarrel_01,"伤害 +5%, Extra 射速 +25%",,
+Part_PS_VLA_Underbarrel_01_A,射速 +10%,,
+Part_PS_VLA_Underbarrel_02,射速 +5%,,
+Part_PS_VLA_Underbarrel_03,子弹容量 +10%,,
+Part_PS_VLA_Underbarrel_TheLeech,子弹容量 +10%,,
+Part_SG_Hyp_Barrel_01_A,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_Hyp_Barrel_01_B,射速 +10%,,
+Part_SG_Hyp_Barrel_01_C,射速 +10%,,
+Part_SG_Hyp_Barrel_02_A,伤害 +10%,,
+Part_SG_Hyp_Barrel_02_B,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_Hyp_Barrel_02_C,"伤害 +10%, 近战伤害 +60%",,
+Part_SG_Hyp_Barrel_03_A,伤害 +10%,,
+Part_SG_Hyp_Barrel_03_B,准心范围 -7.5%,,
+Part_SG_Hyp_Barrel_03_C,准心范围 -7.5%,,
+Part_SG_Hyp_Barrel_面部穿孔机,,伤害 -70%,
+Part_SG_Hyp_Barrel_电话会议,伤害 +15%,准心范围 +25%,
+Part_SG_Hyp_Barrel_ETECH,"溅射伤害范围 +300, 子弹容量 +20%",,
+Part_SG_Hyp_Barrel_ETECH_A,"溅射伤害范围 +20%, 装弹时间 -10%",,
+Part_SG_Hyp_Barrel_费博特,"准心范围 -75%, 伤害 +600%, 子弹容量 +40%",,
+Part_SG_Hyp_Barrel_头脑风暴者,,"准心范围 +25%, 纵向后坐力 -10%",
+Part_SG_Hyp_Barrel_屠夫,"准心范围扩散 -50%, 纵向后坐力 -60%, 伤害 +175%",准心范围 +30%,
+Part_SG_Hyp_Body_01,不可移除,,
+Part_SG_Hyp_Body_01_A,"武器护盾值 +25%, 暴击伤害 +10%",,
+Part_SG_Hyp_Body_01_B,准心范围 -7.5%,,
+Part_SG_Hyp_Body_01_C,装弹时间 -10%,,
+Part_SG_Hyp_Foregrip_01,"武器晃动 -30%, 伤害 +5%",,
+Part_SG_Hyp_Foregrip_02,"射速 +5%, 子弹容量 +35%","伤害 -5%, 准心范围 +10%",
+Part_SG_Hyp_Foregrip_03,"武器护盾值 +15%, 伤害 +5%",,
+Part_SG_Hyp_Foregrip_04,"纵向后坐力 -30%, 准心范围 -5%",,
+Part_SG_Hyp_Grip_01,"准心范围 -1%, 每次射击射弹数 +100%","伤害 -30%, 准心范围扩散 +25%, 射击耗弹 +1",
+Part_SG_Hyp_Grip_02,"暴击伤害 +10%, 伤害 +5%",,
+Part_SG_Hyp_Grip_03,"纵向后坐力 -15%, 装弹时间 -5%",,
+Part_SG_Hyp_Grip_04,"武器晃动 -30%, 射速 +5%",,
+Part_SG_Hyp_Mag_01,8 弹匣,,
+Part_SG_Hyp_Mag_02,10 弹匣,伤害 -10%,
+Part_SG_Hyp_Mag_03,"6 弹匣, 伤害 +10%",,
+Part_SG_Hyp_Material_01_常见,皮肤,,
+Part_SG_Hyp_Material_02_普通,皮肤,,
+Part_SG_Hyp_Material_03_罕见,皮肤,,
+Part_SG_Hyp_Material_04_Epic,皮肤,,
+Part_SG_Hyp_Material_面部穿孔机,皮肤,,
+Part_SG_Hyp_Material_电话会议,皮肤,,
+Part_SG_Hyp_Material_费博特,皮肤,,
+Part_SG_Hyp_Material_头脑风暴者,皮肤,,
+Part_SG_Hyp_Material_屠夫,皮肤,,
+Part_SG_Hyp_Material_Fearmonger,皮肤,,
+Part_SG_Hyp_Scope_01,2.7x,,
+Part_SG_Hyp_Scope_02,2.2x,,
+Part_SG_Hyp_Shield_01,Shield,,
+Part_SG_Hyp_Shield_02,创世护盾,,
+Part_SG_Hyp_Shield_03,增伤护盾,,
+Part_SG_Hyp_Shield_04,重定向护盾,,
+Part_SG_JAK_Barrel_01,每次射击射弹数 +7,,
+Part_SG_JAK_Barrel_01_A,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_JAK_Barrel_01_B_Stat,"射速 +10%, 近战伤害 +60%",,
+Part_SG_JAK_Barrel_01_C,"射速 +10%, 近战伤害 +60%",,
+Part_SG_JAK_Barrel_02,每次射击射弹数 +8,,
+Part_SG_JAK_Barrel_02_A,装弹时间 -10%,,
+Part_SG_JAK_Barrel_02_B,伤害 +10%,,
+Part_SG_JAK_Barrel_02_C,"装弹时间 -10%, 每次射击射弹数 +50%","准心范围 +10%, 伤害 -20%, 准心范围扩散 +20%",
+Part_SG_JAK_Barrel_03,每次射击射弹数 +7,,
+Part_SG_JAK_Barrel_03_A,准心范围 -7.5%,,
+Part_SG_JAK_Barrel_03_B,"伤害 +10%, 近战伤害 +60%",,
+Part_SG_JAK_Barrel_03_C,准心范围 -7.5%,,
+Part_SG_JAK_Barrel_加西亚家族,"每次射击射弹数 +9, 伤害 +200%",,
+Part_SG_JAK_Barrel_地狱行者,"每次射击射弹数 +10, 装弹时间 -20%, 伤害 +400%","准心范围扩散 +75%, 纵向后坐力 +22%, 每击增加热量 +900%",
+Part_SG_JAK_Barrel_JabberBeefcake,"准心范围 -20%, 每次射击射弹数 +4",伤害 -10%,
+Part_SG_JAK_Barrel_敏捷杰克,"每次射击射弹数 +7, 伤害 +45%",准心范围 +30%,
+Part_SG_JAK_Barrel_单泵笨蛋,"每次射击射弹数 +1, 准心范围 -75%, 装弹时间 -20%, 伤害 +1100%",,
+Part_SG_JAK_Barrel_斯莱齐散弹枪,"伤害 +200%, 子弹容量 +12","准心范围 +75%, 纵向后坐力 +22%",
+Part_SG_JAK_Barrel_T.K波动,"暴击伤害 +45%, 伤害 +400%",,
+Part_SG_JAK_Barrel_潮汐波,"暴击伤害 +65%, 伤害 +30%",,
+Part_SG_JAK_Bolt_01,装弹时间 -10%,,
+Part_SG_JAK_Bolt_02,伤害 +10%,,
+Part_SG_JAK_Bolt_03,准心范围 -7.5%,,
+Part_SG_JAK_Bolt_04,暴击伤害 +10%,,
+Part_SG_JAK_Bolt_05,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_JAK_Foregrip_01,"武器晃动 -30%, 纵向后坐力 -30%",,
+Part_SG_JAK_Foregrip_02,"横向后坐力幅度 -15%, 射速 +5%",,
+Part_SG_JAK_Foregrip_03,"纵向后坐力 -30%, 暴击伤害 +10%",,
+Part_SG_JAK_Foregrip_04,每次射击射弹数 +15%,"准心范围扩散 +15%, 准心范围 +4.5%, 伤害 -5%",
+Part_SG_JAK_Foregrip_05,"武器晃动 -30%, 伤害 +5%",,
+Part_SG_JAK_Mag_01,No mag,,
+Part_SG_JAK_Mag_02,"12 弹匣, 伤害 -10%",,
+Part_SG_JAK_Mag_03,8 弹匣,,
+Part_SG_JAK_Mag_04,"6 弹匣, 伤害 +10%",,
+Part_SG_JAK_Mag_地狱行者,"子弹容量 +3, 伤害 +10%",,
+Part_SG_JAK_Material_01_常见,皮肤,,
+Part_SG_JAK_Material_02_普通,皮肤,,
+Part_SG_JAK_Material_03_罕见,皮肤,,
+Part_SG_JAK_Material_04_非常罕见,皮肤,,
+Part_SG_JAK_Material_咬指者r,皮肤,,
+Part_SG_JAK_Material_加西亚家族,皮肤,,
+Part_SG_JAK_Material_地狱行者,皮肤,,
+Part_SG_JAK_Material_LGD_斯莱齐散弹枪,皮肤,,
+Part_SG_JAK_Material_敏捷杰克,皮肤,,
+Part_SG_JAK_Material_单泵笨蛋,皮肤,,
+Part_SG_JAK_Material_Typhon,皮肤,,
+Part_SG_JAK_Scope_03,3.5x,,
+Part_SG_JAK_Stock_01,"武器晃动-30%, 装弹时间 -5%",,
+Part_SG_JAK_Stock_01_A,准心范围 -7.5%,,
+Part_SG_JAK_Stock_02,"横向后坐力幅度 -30%, 准心范围 -10%",,
+Part_SG_JAK_Stock_02_A,纵向后坐力 -25%,,
+Part_SG_JAK_Stock_03,"横向后坐力幅度 -30%, 纵向后坐力 -15%",,
+Part_SG_JAK_Stock_03_A,装弹时间 -10%,,
+Part_SG_JAK_Stock_04,"武器晃动-30%, 伤害 +5%",,
+Part_SG_JAK_Stock_04_A,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_JAK_Stock_05,"后坐力 -30%, 暴击伤害 +10%",,
+Part_SG_JAK_Stock_05_A,伤害 +10%,,
+Part_SG_JAK_Trigger_01,装弹时间 -10%,,
+Part_SG_JAK_Trigger_02,伤害 +10%,,
+Part_SG_JAK_Trigger_03,暴击伤害 +10%,,
+Part_SG_JAK_Trigger_咬指者r,"装弹时间 -25%, 每次射击射弹数 +50%, 伤害 +43%",准心范围 +70%,
+Part_SG_JAK_Trigger_地狱行者,装弹时间 -10%,,
+Part_SG_MAL_Barrel_01_A,准心范围 -7.5%,,
+Part_SG_MAL_Barrel_01_B,元素伤害 +10%,,
+Part_SG_MAL_Barrel_01_C,充能持续时间 -20%,,
+Part_SG_MAL_Barrel_02,武器晃动 -20%,,
+Part_SG_MAL_Barrel_02_A,子弹速度 +30%,,
+Part_SG_MAL_Barrel_02_B,伤害 +10%,,
+Part_SG_MAL_Barrel_02_C,伤害 +10%,,
+Part_SG_MAL_Barrel_03_A,元素伤害 +10%,,
+Part_SG_MAL_Barrel_03_B,元素伤害 +10%,,
+Part_SG_MAL_Barrel_03_C,准心范围 -7.5%,,
+Part_SG_MAL_Barrel_ETech,"溅射伤害范围 +210, 子弹容量 +50%",,
+Part_SG_MAL_Barrel_ETech_A,"子弹速度 +30%, 元素触发几率 +15%",,
+Part_SG_MAL_Barrel_精神杀手,"伤害 +17%, 武器晃动 -20%",武器晃动 -20%,
+Part_SG_MAL_Barrel_射弹循环,"准心范围 -75%, 伤害 +500%, 子弹容量 +20%",,
+Part_SG_MAL_Barrel_咆哮恶魔,伤害 +800%,,
+Part_SG_MAL_Barrel_特雷弗终结者,"溅射伤害范围 +75, 伤害 +400%, 子弹容量 +3",,
+Part_SG_MAL_Barrel_鬼火,伤害 +700%,,
+Part_SG_MAL_Barrel_沃斯克的死亡之魂,"子弹容量 +6, 伤害 +400%",,
+Part_SG_MAL_Body,不可移除,,
+Part_SG_MAL_Grip_01,"充能持续时间 -10%, 准心范围 -10%",,
+Part_SG_MAL_Grip_02,装弹时间 -5%,"准心范围扩散 +25%, 准心范围 +10%, 伤害 -30%",
+Part_SG_MAL_Grip_03,"子弹速度 +15%, 伤害 +5%",,
+Part_SG_MAL_Grip_04,"武器晃动 -30%, 射速 +5%",,
+Part_SG_MAL_Grip_05,"纵向后坐力 -30%, 每次射击射弹数 +15%","准心范围 +10%, 伤害 -5%, 准心范围扩散 +15%",
+Part_SG_MAL_Magazine_01,"6 弹匣, 伤害 +10%",,
+Part_SG_MAL_Magazine_02,12 弹匣,伤害 -10%,
+Part_SG_MAL_Magazine_03,9 弹匣,,
+Part_SG_MAL_Magazine_沃斯克的死亡之魂,9 弹匣,,
+Part_SG_MAL_Material_01_常见,皮肤,,
+Part_SG_MAL_Material_02_普通,皮肤,,
+Part_SG_MAL_Material_03_罕见,皮肤,,
+Part_SG_MAL_Material_04_非常罕见,皮肤,,
+Part_SG_MAL_Material_精神杀手,皮肤,,
+Part_SG_MAL_Material_射弹循环,皮肤,,
+Part_SG_MAL_Material_咆哮恶魔,皮肤,,
+Part_SG_MAL_Material_特雷弗终结者,皮肤,,
+Part_SG_MAL_Material_鬼火,皮肤,,
+Part_SG_MAL_Material_沃斯克的死亡之魂,皮肤,,
+Part_SG_MAL_Scope_04,2.2x,,
+Part_SG_MAL_Stock_01,"装弹时间 -5%, 子弹容量 +2","伤害 -5%, 准心范围 +10%",
+Part_SG_MAL_Stock_02,"武器晃动 -30%, 准心范围 -10%",,
+Part_SG_MAL_Stock_03,"横向后坐力幅度 -30%, 射速 +5%",,
+Part_SG_MAL_Stock_04,"元素伤害 +10%, 充能持续时间 -10%",,
+Part_SG_TED_Barrel_01_A,伤害 +10%,,
+Part_SG_TED_Barrel_01_B,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_TED_Barrel_01_C,"溅射伤害范围 +20%, 伤害 +10%",,
+Part_SG_TED_Barrel_02_A,准心范围 -7.5%,,
+Part_SG_TED_Barrel_02_B,射速 +10%,,
+Part_SG_TED_Barrel_02_C,射速 +10%,,
+Part_SG_TED_Barrel_03,子弹容量 +2,,
+Part_SG_TED_Barrel_03_A,准心范围 -7.5%,,
+Part_SG_TED_Barrel_03_B,"每次射击射弹数 +35%, 子弹容量 +2","伤害 -5%, 准心范围扩散 +15%, 准心范围 +10%",
+Part_SG_TED_Barrel_03_C,准心范围 -7.5%,,
+Part_SG_TED_Barrel_ETECH,"子弹容量 +4, 溅射伤害范围 +300",,
+Part_SG_TED_Barrel_ETECH_A,"溅射伤害范围 +20%, 子弹容量 +10%",,
+Part_SG_TED_Barrel_疯情寻梦枪,"元素伤害 +100%, 暴击伤害 +40%, 伤害 +15%",,
+Part_SG_TED_Barrel_地平线,伤害 +250%,子弹容量 -50%,
+Part_SG_TED_Barrel_波利比阿斯,"纵向后坐力 -85%, 横向后坐力幅度 -85%, 伤害 +220%",准心范围 +40%,
+Part_SG_TED_Barrel_爬行死亡,"溅射伤害范围 +300, 伤害 +175%, 子弹容量 +4",,
+Part_SG_TED_Body,不可移除,,
+Part_SG_TED_Body_A,溅射伤害范围 +20%,,
+Part_SG_TED_Body_B,"子弹容量 +10%, 伤害 +5%",准心范围 +10%,
+Part_SG_TED_Body_C,伤害 +10%,,
+Part_SG_TED_Foregrip_02,"纵向后坐力 -85%, 准心范围 -5%",,
+Part_SG_TED_Foregrip_03,"溅射伤害范围 +20%, 伤害 +5%",,
+Part_SG_TED_Foregrip_04,"每次射击射弹数 +50%, 伤害 +5%","准心范围 +4.5%, 准心范围扩散 +25%",
+Part_SG_TED_Foregrip_05,"横向后坐力幅度 -15%, 子弹容量 +2","伤害 -5%, 准心范围 +10%",
+Part_SG_TED_Grip_01,"横向后坐力幅度 -30%, 每次射击射弹数 +15%","准心范围 +10%, 伤害 -5%, 准心范围扩散 +15%",
+Part_SG_TED_Grip_02,射速 +5%,,
+Part_SG_TED_Grip_03,"纵向后坐力 -15%, 子弹容量 +2","伤害 -5%, 准心范围 +10%",
+Part_SG_TED_Grip_04,"溅射伤害范围 +20%, 准心范围 -20%",,
+Part_SG_TED_Grip_05,"武器晃动 -30%, 伤害 +5%",,
+Part_SG_TED_Material_01_常见,皮肤,,
+Part_SG_TED_Material_02_普通,皮肤,,
+Part_SG_TED_Material_03_罕见,皮肤,,
+Part_SG_TED_Material_04_非常罕见,皮肤,,
+Part_SG_TED_Material_疯情寻梦枪,皮肤,,
+Part_SG_TED_Material_地平线,皮肤,,
+Part_SG_TED_Material_波利比阿斯,皮肤,,
+Part_SG_TED_Material_爬行死亡,皮肤,,
+Part_SG_TED_Scope_01,2.2x,,
+Part_SG_TED_Scope_02,4.5x,,
+Part_SG_TED_Scope_03,1.5x,,
+Part_SG_TED_Scope_04,2.9x,,
+Part_SG_TED_TypeMod_01,扔出后撞击引爆,,
+Part_SG_TED_TypeMod_02,扔出后粘住,,
+Part_SG_TED_TypeMod_03,扔出后寻向追踪目标,,
+Part_SG_TED_TypeMod_04,扔出后弹跳,,
+Part_SG_Torgue_Barrel_01_A,射速 +10%,,
+Part_SG_Torgue_Barrel_01_B,溅射伤害范围 +20%,,
+Part_SG_Torgue_Barrel_01_C,溅射伤害范围 +20%,,
+Part_SG_Torgue_Barrel_02_A,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_Torgue_Barrel_02_B,伤害 +10%,,
+Part_SG_Torgue_Barrel_02_C,伤害 +10%,,
+Part_SG_Torgue_Barrel_03_A,子弹速度 +30%,,
+Part_SG_Torgue_Barrel_03_B,子弹速度 +30%,,
+Part_SG_Torgue_Barrel_03_C,准心范围 -7.5%,,
+Part_SG_Torgue_Barrel_打孔枪,"溅射伤害范围 +275, 子弹容量 +40%",,
+Part_SG_Torgue_Barrel_黑色火焰,"溅射伤害范围 +300, 伤害 +180%, 子弹容量 +8",,
+Part_SG_Torgue_Barrel_ETech,子弹容量 +5,,
+Part_SG_Torgue_Barrel_ETech_A,"溅射伤害范围 +20%, 装弹时间 -10%",,
+Part_SG_Torgue_Barrel_ETech_大厅,"子弹容量 +8, 伤害 +80%",,
+Part_SG_Torgue_Barrel_高射炮,"溅射伤害范围 +175, 伤害 +200%",准心范围 +100%,
+Part_SG_Torgue_Barrel_终点线,"纵向后坐力 -50%, 伤害 +200%",准心范围 +65%,
+Part_SG_Torgue_Barrel_桑普兔,子弹容量 +4,准心范围 +200%,
+Part_SG_Torgue_狄格思爆炸,"溅射伤害范围 +50, 伤害 +75%",准心范围 +75%,
+Part_SG_Torgue_Body,不可移除,,
+Part_SG_Torgue_Body_A,每次射击射弹数 +35%,"准心范围扩散 +15%, 准心范围 +10%, 伤害 -5%",
+Part_SG_Torgue_Body_B,伤害 +10%,,
+Part_SG_Torgue_Foregrip_01,"纵向后坐力 -30%, 射速 +5%",,
+Part_SG_Torgue_Foregrip_02,子弹容量 +10%,"准心范围 +10%, 伤害 -0.3%",
+Part_SG_Torgue_Foregrip_03,"溅射伤害范围 +20%, 准心范围 -5%",,
+Part_SG_Torgue_Grip_01,武器晃动 -30%,"伤害 -30%, 准心范围 +10%, 准心范围扩散 +25%",
+Part_SG_Torgue_Grip_02,溅射伤害范围 +20%,,
+Part_SG_Torgue_Grip_03,"准心范围 -10%, 伤害 +5%",,
+Part_SG_Torgue_Magazine_01,"3 弹匣, 每次射击射弹数 +0%, 每次射击射弹数 +1, 伤害 +10%",,
+Part_SG_Torgue_Magazine_02,"4 弹匣, 每次射击射弹数 +0%, 准心范围 -50%, 溅射伤害范围 +300, 每次射击射弹数 +1, 伤害 +620%",,
+Part_SG_Torgue_Magazine_03,"5 弹匣, 每次射击射弹数 +1, 每次射击射弹数 +0%",伤害 -10%,
+Part_SG_Torgue_Magazine_04,"2 弹匣, 每次射击射弹数 +1, 每次射击射弹数 +0%",伤害 +20%,
+Part_SG_Torgue_Magazine_Flak,每次射击射弹数 +3,,
+Part_SG_Torgue_Magazine_终点线,"每次射击射弹数 +1, 每次射击射弹数 +0%",,
+Part_SG_Torgue_Material_01_常见,皮肤,,
+Part_SG_Torgue_Material_02_普通,皮肤,,
+Part_SG_Torgue_Material_03_罕见,皮肤,,
+Part_SG_Torgue_Material_04_非常罕见,皮肤,,
+Part_SG_Torgue_Material_打孔枪,皮肤,,
+Part_SG_Torgue_Material_黑色火焰,皮肤,,
+Part_SG_Torgue_Material_高射炮,皮肤,,
+Part_SG_Torgue_Material_终点线,皮肤,,
+Part_SG_Torgue_Material_桑普兔,皮肤,,
+Part_SG_TOR_Material_Boring,皮肤,,
+Part_SG_TOR_Material_大厅,皮肤,,
+Part_SG_Torgue_Material_,皮肤,,
+Part_SG_Torgue_Scope_02,2.6x,,
+Part_SG_Torgue_Scope_03,1.5x,,
+Part_AR_ATL_Barrel_01_A,子弹容量 +10%,,
+Part_AR_ATL_Barrel_01_B,射速 +10%,,
+Part_AR_ATL_Barrel_01_C,射速 +10%,,
+Part_AR_ATL_Barrel_02_A,射速 +10%,,
+Part_AR_ATL_Barrel_02_B,"装弹时间 -10%, 伤害 +10%",,
+Part_AR_ATL_Barrel_02_C,伤害 +10%,,
+Part_AR_ATL_Barrel_03_A,"武器晃动 -20%, 准心范围扩散 -25%",,
+Part_AR_ATL_Barrel_03_B,准心范围 +15%,,
+Part_AR_ATL_Barrel_03_C,准心范围 +15%,,
+Part_AR_ATL_Barrel_航空母舰,"准心范围扩散 -15%, 伤害 +20%",,
+Part_AR_ATL_Barrel_反抗的号角,"纵向后坐力 -25%, 伤害 +70%",伤害 -30%,
+Part_AR_ATL_Foregrip_01,"准心范围 -10%, 伤害 +5%",,
+Part_AR_ATL_Foregrip_02,"武器晃动 -30%, 射速 +5%",,
+Part_AR_ATL_Foregrip_03,"装弹时间 -5%, 准心范围扩散 -30%",,
+Part_AR_ATL_Foregrip_04,暴击伤害 +10%,,
+Part_AR_ATL_Grip_01,"准心范围扩散 -20%, 射速 +5%",,
+Part_AR_ATL_Grip_02,"装弹时间 -5%, 准心范围 -20%",,
+Part_AR_ATL_Grip_03,"暴击伤害 +10%, 弹匣容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_AR_ATL_Grip_04,"纵向后坐力 -15%, 伤害 +5%",,
+Part_AR_ATL_Mag_01,"22 弹匣, 伤害 +10%",,
+Part_AR_ATL_Mag_02,28 弹匣,,
+Part_AR_ATL_Mag_03,34 弹匣,伤害 -10%,
+Part_AR_ATL_Material_01_常见,皮肤,,
+Part_AR_ATL_Material_02_普通,皮肤,,
+Part_AR_ATL_Material_03_罕见,皮肤,,
+Part_AR_ATL_Material_04_非常罕见,皮肤,,
+Part_AR_ATL_Material_航空母舰,皮肤,,
+Part_AR_ATL_Material_Portals,皮肤,,
+Part_AR_ATL_Material_反抗的号角,皮肤,,
+Part_AR_ATL_Scope_01,1.5x,,
+Part_AR_ATL_Tracker_01,标记冰球,,
+Part_AR_ATL_Tracker_02,纵向后坐力幅度 -25%,,
+Part_AR_ATL_Tracker_03,武器晃动 -20%,,
+Part_AR_ATL_Tracker_反抗的号角,武器晃动 -20%,,
+Part_ATL_AR_Body_A,伤害 +10%,,
+Part_ATL_AR_Body_B,射速 +10%,,
+Part_ATL_AR_Body_C,"装弹时间 -10%, 准心范围 -15%",,
+Part_AR_COV_Barrel_01_A,射速 +10%,,
+Part_AR_COV_Barrel_01_B,每击增加热量 -25%,,
+Part_AR_COV_Barrel_01_C,伤害 +10%,,
+Part_AR_COV_Barrel_02_A,准心范围 -15%,,
+Part_AR_COV_Barrel_02_B,"纵向后坐力 -25%, 近战伤害 +80%",,
+Part_AR_COV_Barrel_02_C,射速 +10%,,
+Part_AR_COV_Barrel_02_D,射速 +10%,,
+Part_AR_COV_Barrel_03_A,伤害 +10%,,
+Part_AR_COV_Barrel_03_B,伤害 +10%,,
+Part_AR_COV_Barrel_03_C,准心范围扩散 -25%,,
+Part_AR_COV_Barrel_ETech,每击增加热量 +100%,,
+Part_AR_COV_Barrel_ETech_A,每击增加热量 -25%,,
+Part_AR_COV_Barrel_痛苦之力,伤害 +200%,准心范围 +35%,
+Part_AR_COV_Barrel_拥抱痛苦,伤害 +130%,,
+Part_AR_COV_Barrel_锯条,伤害 +100%,,
+Part_AR_COV_Barrel_梅尔加尼的爆发,伤害 +15%,,
+Part_AR_COV_Barrel_梅尔加尼的爆发_A,每击增加热量 -25%,,
+Part_AR_COV_Barrel_梅尔加尼的爆发_B,伤害 +10%,,
+Part_AR_COV_Body,不可移除,,
+Part_AR_COV_Body_A,每击增加热量 -25%,"伤害 -5%, 准心范围 +10%",
+Part_AR_COV_Body_B,每击增加热量 -25%,"伤害 -5%, 准心范围 +10%",
+Part_AR_COV_Body_C,伤害 +10%,,
+Part_AR_COV_Foregrip_01,"武器晃动 -30%, 伤害 +5%",,
+Part_AR_COV_Foregrip_02,"武器晃动 -30%, 纵向后坐力 -30%",,
+Part_AR_COV_Foregrip_03,"每次射击射弹数 +1, 横向后坐力幅度 -15%","准心范围 +10%, 每击增加热量 +40%, 准心范围扩散 +20%, 伤害 -20%",
+Part_AR_COV_Foregrip_04,"纵向后坐力 -30%, 射速 +5%",,
+Part_AR_COV_Grip_01,"武器晃动 -30%, 射速 +5%",,
+Part_AR_COV_Grip_02,"纵向后坐力 -15%, 伤害 +5%",,
+Part_AR_COV_Grip_03,"每击增加热量 -15%, 准心范围扩散 -20%",,
+Part_AR_COV_Grip_04,"横向后坐力幅度 -30%, 每次射击射弹数 +1","准心范围 +10%, 伤害 -20%, 准心范围扩散 +20%",
+Part_AR_COV_Material_01_常见,皮肤,,
+Part_AR_COV_Material_02_普通,皮肤,,
+Part_AR_COV_Material_04_非常罕见,皮肤,,
+Part_AR_COV_Material_KriegAR,皮肤,,
+Part_AR_COV_Material_锯条,皮肤,,
+Part_AR_COV_Material_梅尔加尼的爆发,皮肤,,
+Part_AR_COV_Bottle,瓶子瞄准镜,,
+Part_AR_COV_Scope_01,3.3x,,
+Part_AR_COV_Starter_01,每击增加热量 -25%,"伤害 -5%, 准心范围 +10%",
+Part_AR_COV_Starter_02,射速 +10%,,
+Part_AR_COV_Starter_03,伤害 +10%,,
+Part_DAL_AR_Barrel_01_A,纵向后坐力 -25%,,
+Part_DAL_AR_Barrel_01_B,伤害 +10%,,
+Part_DAL_AR_Barrel_01_C,伤害 +10%,,
+Part_DAL_AR_Barrel_02_A,准心范围 -15%,,
+Part_DAL_AR_Barrel_02_B,准心范围 -15%,,
+Part_DAL_AR_Barrel_02_C,射速 +10%,,
+Part_DAL_AR_Barrel_03_A,射速 +10%,,
+Part_DAL_AR_Barrel_03_B,射速 +10%,,
+Part_DAL_AR_Barrel_03_C,准心范围扩散 -25%,,
+Part_DAL_AR_Barrel_狂轰滥炸,"子弹容量 +10, 暴击伤害 +15%, 横向后坐力幅度 -75%, 准心范围扩散 -50%",,
+Part_DAL_AR_Barrel_ETech,子弹容量 +20%,,
+Part_DAL_AR_Barrel_ETech_A,装弹时间 -10%,,
+Part_DAL_AR_Barrel_害虫,伤害 +15%,,
+Part_DAL_AR_Barrel_冰雹,"暴击伤害 +150%, 伤害 +400%",,
+Part_DAL_AR_Barrel_卡奥斯,伤害 +200%,准心范围 +60%,
+Part_DAL_AR_Barrel_恒星螺旋,伤害 +50%,,
+Part_DAL_AR_Barrel_ETech_Juju,"射速 +1250%, 伤害 +125%",暴击伤害 -50%,
+Part_DAL_AR_Barrel_ETech_Juju_A,装弹时间 -10%,,
+Part_DAL_AR_Barrel_迪格比光滑管,伤害 +20%,,
+Part_DAL_AR_Body,不可移除,,
+Part_DAL_AR_Body_A,横向后坐力幅度 -25%,,
+Part_DAL_AR_Body_B,装弹时间 -10%,,
+Part_DAL_AR_Body_C,准心范围 -15%,,
+Part_DAL_AR_Bolt_01,射速 +10%,,
+Part_DAL_AR_Bolt_02,准心范围 -15%,,
+Part_DAL_AR_Foregrip_01,"纵向后坐力 -30%, 装弹时间 -5%",,
+Part_DAL_AR_Foregrip_02,"武器晃动 -30%, 准心范围扩散 -30%",,
+Part_DAL_AR_Foregrip_03,"纵向后坐力 -30%, 准心范围 -10%",,
+Part_DAL_AR_Foregrip_04,"武器晃动 -30%, 准心范围扩散 -30%",,
+Part_DAL_AR_Foregrip_05,"横向后坐力幅度 -15%, 伤害 +5%",,
+Part_DAL_AR_Grip_01,"横向后坐力幅度 -30%, 射速 +5%",,
+Part_DAL_AR_Grip_02,"武器晃动 -30%, 纵向后坐力 -15%",,
+Part_DAL_AR_Grip_03,"装弹时间 -5%, 暴击伤害 +10%",,
+Part_DAL_AR_Grip_04,"准心范围扩散 -20%, 伤害 +5%",,
+Part_DAL_AR_Grip_05,"武器晃动 -30%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_DAL_AR_Grip_06,"纵向后坐力 -15%, 准心范围 -20%",,
+Part_DAL_AR_Magazine_01,"24 弹匣, 伤害 +10%",,
+Part_DAL_AR_Magazine_02,32 弹匣,,
+Part_DAL_AR_Magazine_03,45 弹匣,伤害 -10%,
+Part_DAL_AR_Magazine_Warlord,45 弹匣,,
+Part_DAL_AR_Material_01_常见,皮肤,,
+Part_DAL_AR_Material_02_普通,皮肤,,
+Part_DAL_AR_Material_03_罕见,皮肤,,
+Part_DAL_AR_Material_04_非常罕见,皮肤,,
+Part_DAL_AR_Material_BOTD,伤害 +230%,元素触发几率 -100%,
+Part_DAL_AR_Material_狂轰滥炸,皮肤,,
+Part_DAL_AR_Material_DigiClone,皮肤,,
+Part_DAL_AR_Material_害虫,皮肤,,
+Part_DAL_AR_Material_Gaige,皮肤,,
+Part_DAL_AR_Material_冰雹,皮肤,,
+Part_DAL_AR_Material_卡奥斯,皮肤,,
+Part_DAL_AR_Material_恒星螺旋,皮肤,,
+Part_DAL_AR_Material_Warlord,皮肤,,
+Part_DAL_AR_Material_Juju,皮肤,,
+Part_DAL_AR_Material_迪格比光滑管,皮肤,,
+Part_DAL_AR_Rail_04,机瞄,,
+Part_DAL_AR_Scope_01,"2.2x, 5x",,
+Part_DAL_AR_Scope_02,2.9x.4x,,
+Part_DAL_AR_Scope_03,"1.5x, 6.0x",,
+Part_AR_JAK_Barrel_01_A,伤害 +10%,,
+Part_AR_JAK_Barrel_01_B,伤害 +10%,,
+Part_AR_JAK_Barrel_01_C,准心范围 -15%,,
+Part_AR_JAK_Barrel_02_A,射速 +10,,
+Part_AR_JAK_Barrel_02_B,"准心范围扩散 -25%, 近战伤害 +60%",,
+Part_AR_JAK_Barrel_02_C,射速 +10,,
+Part_AR_JAK_Barrel_03_A,准心范围 -15%,,
+Part_AR_JAK_Barrel_03_B,"暴击伤害 +10%, 近战伤害 +60%",,
+Part_AR_JAK_Barrel_03_C,准心范围 -15%,,
+Part_AR_JAK_Barrel_贝卡,伤害 +200%,纵向后坐力 +45%,
+Part_AR_JAK_Barrel_加特林枪,"纵向后坐力 -25%, 子弹容量 +25, 准心范围扩散 -15%, 横向后坐力幅度 -25%",准心范围 +150%,
+Part_AR_JAK_Barrel_荣耀之手,子弹容量 +4,伤害 -10%,
+Part_AR_JAK_Barrel_弹雨,"准心范围扩散 -15%, 纵向后坐力 -25%, 每击增加热量 -90%","准心范围 +50%, 暴击伤害 -25%",
+Part_AR_JAK_Barrel_老爸步枪,子弹容量 +6,,
+Part_AR_JAK_Barrel_罗恩的召唤,"纵向后坐力 -30%, 准心范围 -50%, 伤害 +300%",,
+Part_AR_JAK_Barrel_叛徒之死,准心范围扩散 -75%,,
+Part_AR_JAK_Body,不可移除,,
+Part_AR_JAK_Bolt_01,暴击伤害 +10%,,
+Part_AR_JAK_Bolt_02,射速 +10,,
+Part_AR_JAK_Bolt_03,装弹时间 -10%,,
+Part_AR_JAK_Foregrip_01,"武器晃动 -30%, 纵向后坐力 -30%",,
+Part_AR_JAK_Foregrip_02,"准心范围 -10%, 暴击伤害 +10%",,
+Part_AR_JAK_Foregrip_03,"武器晃动 -30%, 准心范围扩散 -30%",,
+Part_AR_JAK_Foregrip_04,"纵向后坐力 -30%, 伤害 +5%",,
+Part_AR_JAK_Mag_01,"8 弹匣, 伤害 +20%",,
+Part_AR_JAK_Mag_02,"10 弹匣, 伤害 +10%",,
+Part_AR_JAK_Mag_03,20 弹匣,伤害 -10%,
+Part_AR_JAK_Mag_04,14 弹匣,,
+Part_AR_JAK_Scope_01,1.7x,,
+Part_AR_JAK_StockMod_01,暴击伤害 +10%,,
+Part_AR_JAK_StockMod_02,装弹时间 -10%,,
+Part_AR_JAK_StockMod_03,准心范围 -15%,,
+Part_AR_JAK_StockMod_04,子弹容量 +4,"准心范围 +10%, 伤害 -5%",
+Part_AR_JAK_StockMod_05,武器晃动 -20%,,
+Part_AR_JAK_Stock_01,"武器晃动 -30%, 准心范围 -20%",,
+Part_AR_JAK_Stock_02,"装弹时间 -5%, 射速 +5%",,
+Part_AR_JAK_Stock_03,"准心范围扩散 -20%, 伤害 +5%",,
+Part_AR_JAK_Stock_04,"武器晃动 -30%, 装弹时间 -5%",,
+Part_AR_JAK_Stock_05,"横向后坐力幅度 -30%, 纵向后坐力 -15%",,
+Part_AR_JAK_Trigger_01,射速 +10%,,
+Part_AR_JAK_Trigger_02,伤害 +10%,,
+Part_AR_JAK_Trigger_03,准心范围 -15%,,
+Part_AR_JAK_Trigger_04,每次射击射弹数 +3,"准心范围扩散 +25%, 射速 -30%, 伤害 -58%, 准心范围 +120%, 纵向后坐力 +55%",
+Part_AR_TOR_Barrel_01_A,子弹速度 +30%,,
+Part_AR_TOR_Barrel_01_B,溅射伤害范围 +20%,,
+Part_AR_TOR_Barrel_01_C,子弹速度 +30%,,
+Part_AR_TOR_Barrel_02_A,伤害 +10%,,
+Part_AR_TOR_Barrel_02_B,射速 +10%,,
+Part_AR_TOR_Barrel_02_C,伤害 +10%,,
+Part_AR_TOR_Barrel_03_A,准心范围扩散 -25%,,
+Part_AR_TOR_Barrel_03_B,射速 +10%,,
+Part_AR_TOR_Barrel_03_C,射速 +10%,,
+Part_AR_TOR_Barrel_Alchemist,伤害 -20%,,
+Part_AR_TOR_Barrel_Bearcat,"装弹时间 -25%, 伤害 +200%",准心范围 +200%,
+Part_AR_TOR_Barrel_ETech,子弹容量 +25%,,
+Part_AR_TOR_Barrel_ETech_A,元素伤害 +10%,,
+Part_AR_TOR_Barrel_TryBolt,伤害 +300%,,
+Part_AR_TOR_Barrel_Warden,准心范围 +800%,,
+Part_AR_TOR_Barrel_Juliet,"横向后坐力幅度 -50%, 纵向后坐力 -50%, 溅射伤害范围 +50, 伤害 +100%",,
+Part_AR_TOR_Barrel_Varlope,"溅射伤害范围 +30%, 伤害 +10%, 子弹容量 +4",,
+Part_AR_TOR_Body,不可移除,,
+Part_AR_TOR_Body_A,装弹时间 -10%,,
+Part_AR_TOR_Body_B,伤害 +10%,,
+Part_AR_TOR_Body_C,溅射伤害范围 +20%,,
+Part_AR_TOR_Exhaust_01,伤害 +10%,,
+Part_AR_TOR_Exhaust_02,子弹速度 +30%,,
+Part_AR_TOR_Exhaust_03,溅射伤害范围 +20%,,
+Part_AR_TOR_ForeGrip_01,"准心范围扩散 -30%, 射速 +5%",,
+Part_AR_TOR_ForeGrip_02,"子弹速度 +15%, 准心范围 -10%",,
+Part_AR_TOR_ForeGrip_03,"溅射伤害范围 +20%, 横向后坐力幅度 -15%",,
+Part_AR_TOR_ForeGrip_04,"武器晃动 -30%, 纵向后坐力 -30%",,
+Part_AR_TOR_ForeGrip_05,"准心范围 -10%, 伤害 +5%",,
+Part_AR_TOR_Grip_01,"子弹速度 +15%, 准心范围 -20%",,
+Part_AR_TOR_Grip_02,"溅射伤害范围 +20%, 武器晃动 -30%",,
+Part_AR_TOR_Grip_03,"装弹时间 -5%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_AR_TOR_Grip_04,"准心范围扩散 -20%, 伤害 +5%",,
+Part_AR_TOR_Grip_05,横向后坐力幅度 -30%,"准心范围扩散 +25%, 准心范围 +10%, 伤害 -30%",
+Part_AR_TOR_Magazine_01,22 弹匣,,
+Part_AR_TOR_Magazine_02,"16 弹匣, 伤害 +10%",,
+Part_AR_TOR_Magazine_03,28 弹匣,伤害 -10%,
+Part_AR_TOR_Magazine_03_AmberManagement,28 弹匣,伤害 -10%,
+Part_AR_TOR_Magazine_BearCat,48 弹匣,伤害 -10%,
+Part_AR_TOR_Material_01_常见,皮肤,,
+Part_AR_TOR_Material_02_普通,皮肤,,
+Part_AR_TOR_Material_03_罕见,皮肤,,
+Part_AR_TOR_Material_04_非常罕见,皮肤,,
+Part_AR_TOR_Material_Alchemist,皮肤,,
+Part_AR_TOR_Material_AmberManagement,皮肤,,
+Part_AR_TOR_Material_Bearcat,皮肤,,
+Part_AR_TOR_Material_LaserSploder,皮肤,,
+Part_AR_TOR_Material_TryBolt,皮肤,,
+Part_AR_TOR_Material_Juliet,皮肤,,
+Part_AR_TOR_Material_Varlope,皮肤,,
+Part_AR_TOR_Scope_03,3.3x,,
+Part_AR_VLA_Barrel_01_A,伤害 +10%,,
+Part_AR_VLA_Barrel_01_A_FS,伤害 +10%,,
+Part_AR_VLA_Barrel_01_B,准心范围 -15%,,
+Part_AR_VLA_Barrel_01_FRONT SIGHT,伤害 +10%,,
+Part_AR_VLA_Barrel_01_FRONT SIGHT2,射速 +10%,,
+Part_AR_VLA_Barrel_02,准心范围 -15%,,
+Part_AR_VLA_Barrel_02_B,射速 +10%,,
+Part_AR_VLA_Barrel_02_C,准心范围 -15%,,
+Part_AR_VLA_Barrel_03_A,射速 +10%,,
+Part_AR_VLA_Barrel_03_B,"准心范围扩散 -25%, 近战伤害 +60%",,
+Part_AR_VLA_Barrel_03_C,伤害 +10%,,
+Part_AR_VLA_Barrel_04_A,准心范围扩散 -25%,,
+Part_AR_VLA_Barrel_04_B,射速 +10%,,
+Part_AR_VLA_Barrel_04_C,射速 +10%,,
+Part_AR_VLA_Barrel_Dictator,,"伤害 -10%, 准心范围 +125%",
+Part_AR_VLA_Barrel_Shredifier,伤害 +120%,准心范围 +220%,
+Part_AR_VLA_Body,不可移除,,
+Part_AR_VLA_Body_A,射速 +10%,,
+Part_AR_VLA_Body_C,伤害 +10%,,
+Part_AR_VLA_Body_D,准心范围扩散 -25%,,
+Part_AR_VLA_BoomSickle,溅射伤害范围 +150,,
+Part_AR_VLA_Foregrip_01,"横向后坐力幅度 -15%, 准心范围扩散 -30%",,
+Part_AR_VLA_Foregrip_02,"准心范围 -10%, 射速 +5%",,
+Part_AR_VLA_Foregrip_03,"纵向后坐力 -30%, 伤害 +5%",,
+Part_AR_VLA_Grip_01,"横向后坐力幅度 -30%, 伤害 +5%",,
+Part_AR_VLA_Grip_02,"纵向后坐力 -15%, 准心范围扩散 -20%",,
+Part_AR_VLA_Grip_03,"准心范围 -12%, 子弹容量 +10%",伤害 -5%,
+Part_AR_VLA_Grip_03_A,准心范围 -20%,,
+Part_AR_VLA_Grip_03_B,射速 +5%,,
+Part_AR_VLA_Grip_04,"装弹时间 -5%, +1 Proj","准心范围扩散 +35%, 准心范围 +10%, 伤害 -30%",
+Part_AR_VLA_Grip_05,"武器晃动 -30%, 射速 +5%",,
+Part_AR_VLA_Grip_06,"装弹时间 -5%, 子弹容量 +10%",,
+Part_AR_VLA_Magazine_01,"40 弹匣, 伤害 +10%",,
+Part_AR_VLA_Magazine_02,60 弹匣,伤害 -10%,
+Part_AR_VLA_Magazine_03,60 弹匣,伤害 -10%,
+Part_AR_VLA_Magazine_Shredifier,100 弹匣,,
+Part_AR_VLA_Magazine_Sickle,12 弹匣,,
+Part_AR_VLA_Material_01_常见,皮肤,,
+Part_AR_VLA_Material_02_普通,皮肤,,
+Part_AR_VLA_Material_03_罕见,皮肤,,
+Part_AR_VLA_Material_04_Epic,皮肤,,
+Part_AR_VLA_Material_BigSucc,皮肤,,
+Part_AR_VLA_Material_Damn,皮肤,,
+Part_AR_VLA_Material_Dictator,皮肤,,
+Part_AR_VLA_Material_Faisor,皮肤,,
+Part_AR_VLA_Material_Lorelei,皮肤,,
+Part_AR_VLA_Material_LuciansCall,皮肤,,
+Part_AR_VLA_Material_Ogre,皮肤,,
+Part_AR_VLA_Material_Shredifier,皮肤,,
+Part_AR_VLA_Material_Sickel,皮肤,,
+Part_AR_VLA_Rail_01,准心范围 -10%,,
+Part_AR_VLA_Rail_02,装弹时间 -5%,,
+Part_AR_VLA_Rail_03,机瞄,,
+Part_AR_VLA_UnderbarrelShield,"防护 反射",,
+Part_AR_VLA_Underbarrel_01,双脚架,,
+Part_AR_VLA_Underbarrel_02,"下挂榴弹",,
+Part_AR_VLA_Underbarrel_02_A,下挂榴弹弹容翻倍,,
+Part_AR_VLA_Underbarrel_03,"下挂霰弹 4发子弹",,
+Part_AR_VLA_Underbarrel_03_A,增加50%霰弹容量,,
+Part_AR_VLA_Underbarrel_04,射速 +15%,,
+Part_AR_VLA_Underbarrel_04_A,射速 +5%,,
+Part_AR_VLA_Underbarrel_04_B,准心范围 -15%,,
+Part_AR_VLA_Underbarrel_Dictator,双脚架,,
+Part_AR_VLA_Underbarrel_DoubleShredifier,"双枪管, 射速 +15%",,
+Part_AR_VLA_Underbarrel_Faisor,"下挂霰弹 4发子弹",,
+Part_AR_VLA_Underbarrel_Sickle,伤害 +150%,"准心范围扩散 -300%, 准心范围 +700%",
+Part_SM_DAL_Barrel_01_A,射速 +10%,,
+Part_SM_DAL_Barrel_01_B,"准心范围扩散 -25%, 近战伤害 +40%",,
+Part_SM_DAL_Barrel_01_C,射速 +10%,,
+Part_SM_DAL_Barrel_02_A,准心范围扩散 -25%,,
+Part_SM_DAL_Barrel_02_B,射速 +10%,,
+Part_SM_DAL_Barrel_02_C,"准心范围 -5%, 射速 +5%, 纵向后坐力 -25%, 伤害 +5%",,
+Part_SM_DAL_Barrel_03_A,准心范围 -15%,,
+Part_SM_DAL_Barrel_03_B,准心范围 -15%,,
+Part_SM_DAL_Barrel_03_C,伤害 +10%,,
+Part_SM_DAL_Barrel_Demoskag,Night Hawk,,
+Part_SM_DAL_Barrel_ETech,子弹容量 +20%,,
+Part_SM_DAL_Barrel_ETech_A,"子弹速度 +30%, 装弹时间 -10%",,
+Part_SM_DAL_Barrel_HellFire,"元素伤害 +900%, 元素触发几率 +200%, 溅射伤害范围 +60, 伤害 +10%",,
+Part_SM_DAL_Barrel_JabberWeaponGunslinger,,伤害 -50%,
+Part_SM_DAL_Barrel_NineVolt,"元素触发几率 +150%, 横向后坐力幅度 -75%, 纵向后坐力 -75%, 伤害 +50%",准心范围 -70%,
+Part_SM_DAL_Barrel_Ripper,伤害 +100%,准心范围扩散 +35%,
+Part_SM_DAL_Barrel_RockNRoll,"武器晃动 -75%, 伤害 +75%, 横向后坐力幅度 -50%, 暴击伤害 +200%, 子弹容量 +10, 装弹时间 -50%, 纵向后坐力 -50%",武器晃动 -75%,
+Part_SM_DAL_Barrel_SleepingGiant,伤害 +10%,,
+Part_SM_DAL_Body,不可移除,,
+Part_SM_DAL_Body_A,准心范围扩散 -25%,,
+Part_SM_DAL_Body_B,装弹时间 -10%,,
+Part_SM_DAL_Body_C,准心范围 -15%,,
+Part_SM_DAL_Bolt_01,伤害 +5%,,
+Part_SM_DAL_Bolt_02,射速 +5%,,
+Part_SM_DAL_Foregrip_01,"武器晃动 -30%, 射速 +5%",,
+Part_SM_DAL_Foregrip_02,"武器晃动 -30%, 暴击伤害 +10%",,
+Part_SM_DAL_Foregrip_03,"纵向后坐力 -30%, 准心范围 -10%",,
+Part_SM_DAL_Foregrip_04,"纵向后坐力 -30%, 伤害 +5%",,
+Part_SM_DAL_Foregrip_05,"装弹时间 -5%, 准心范围扩散 -30%",,
+Part_SM_DAL_Grip_01,每次射击射弹数 +1,"准心范围扩散 +20%, 准心范围 +10%, 伤害 -20%",
+Part_SM_DAL_Grip_02,射速 +5%,,
+Part_SM_DAL_Grip_03,子弹容量 +10%,"准心范围 +10%, 伤害 -5%",
+Part_SM_DAL_Mag_01,"18 弹匣, 伤害 +10%",,
+Part_SM_DAL_Mag_02,25 弹匣,,
+Part_SM_DAL_Mag_03,32 弹匣,伤害 -10%,
+Part_SM_DAL_Mag_NineVolt,9 弹匣,,
+Part_SM_DAL_Material_01_常见,皮肤,,
+Part_SM_DAL_Material_02_普通,皮肤,,
+Part_SM_DAL_Material_03_罕见,皮肤,,
+Part_SM_DAL_Material_04_Epic,皮肤,,
+Part_SM_DAL_Material_Demoskag,皮肤,,
+Part_SM_DAL_Material_HellFire,皮肤,,
+Part_SM_DAL_Material_NineVolt,皮肤,,
+Part_SM_DAL_Material_Ripper,皮肤,,
+Part_SM_DAL_Material_SleepingGiant,皮肤,,
+Part_SM_DAL_Material_Vanquisher,皮肤,,
+Part_SM_DAL_Material_CraderMP5,皮肤,,
+Part_SM_DAL_Rail_04,机瞄,,
+Part_SM_DAL_Stock_01,"横向后坐力幅度 -30%, 准心范围扩散 -20%",,
+Part_SM_DAL_Stock_02,"武器晃动 -30%, 射速 +5%",,
+Part_SM_DAL_Stock_03,"准心范围 -20%, 暴击伤害 +10%",,
+Part_SM_HYP_Barrel_01_A,伤害 +10%,,
+Part_SM_HYP_Barrel_01_B,准心范围 -15%,,
+Part_SM_HYP_Barrel_01_C,伤害 +10%,,
+Part_SM_HYP_Barrel_02_A,准心范围 -15%,,
+Part_SM_HYP_Barrel_02_B,暴击伤害 +10%,,
+Part_SM_HYP_Barrel_02_C,准心范围 -15%,,
+Part_SM_HYP_Barrel_03_A,"射速 +10%, 近战伤害 +60%",,
+Part_SM_HYP_Barrel_03_B,射速 +10%,,
+Part_SM_HYP_Barrel_03_C,准心范围 -15%,,
+Part_SM_HYP_Barrel_Bitch,"暴击伤害 +50%, 伤害 +55%, 子弹容量 +5, 近战伤害 +60%",准心范围扩散 +150%,
+Part_SM_HYP_Barrel_Crossroad,"每次射击射弹数 +3, 准心范围扩散 -85%, 伤害 +20%",准心范围 +150%,
+Part_SM_HYP_Barrel_ETech,子弹容量 +25%,,
+Part_SM_HYP_Barrel_ETech_A,"武器护盾值 +25%, 子弹速度 +30%",,
+Part_SM_HYP_Barrel_Fork,,伤害 -20%,
+Part_SM_HYP_Barrel_Handsome,"装弹时间 -50%, 伤害 +70%",准心范围 -100%,
+Part_SM_HYP_Barrel_L0V3M4CH1N3,"纵向后坐力 -75%, 伤害 +25%, 子弹容量 +25%",,
+Part_SM_HYP_Barrel_PredatoryLending,,"伤害 -20%, 准心范围 +50%",
+Part_SM_HYP_Barrel_XZ,伤害 +75%,,
+Part_SM_HYP_Barrel_JustCaustic,"子弹容量 +12, 元素伤害 +100%, 元素触发几率 +100%",准心范围 +100%,
+Part_SM_HYP_Body,不可移除,,
+Part_SM_HYP_Body_A,伤害 +10%,,
+Part_SM_HYP_Body_B,武器护盾值 +25%,,
+Part_SM_HYP_Body_C,暴击伤害 +10%,,
+Part_SM_HYP_Grip_01,"装弹时间 -5%, 射速 +5%",,
+Part_SM_HYP_Grip_02,"纵向后坐力 -30%, 准心范围 -10%",,
+Part_SM_HYP_Grip_03,"暴击伤害 +10%, 伤害 +5%",,
+Part_SM_HYP_Mag_01,"25 弹匣, 伤害 +10%",,
+Part_SM_HYP_Mag_02,"45 弹匣, 伤害 -10%",,
+Part_SM_HYP_Mag_03,35 弹匣,,
+Part_SM_HYP_Material_01_常见,皮肤,,
+Part_SM_HYP_Material_02_普通,皮肤,,
+Part_SM_HYP_Material_03_罕见,皮肤,,
+Part_SM_HYP_Material_04_非常罕见,皮肤,,
+Part_SM_HYP_Material_Bitch,皮肤,,
+Part_SM_HYP_Material_Crossroad,皮肤,,
+Part_SM_HYP_Material_Fork,皮肤,,
+Part_SM_HYP_Material_Handsome,皮肤,,
+Part_SM_HYP_Material_L0V3M4CH1N3,皮肤,,
+Part_SM_HYP_Material_Lilith,皮肤,,
+Part_SM_HYP_Material_PredatoryLending,皮肤,,
+Part_SM_HYP_Material_XZ,皮肤,,
+Part_SM_HYP_Material_Fork2,皮肤,,
+Part_SM_HYP_Material_JustCaustic,皮肤,,
+Part_SM_HYP_Rail_01,武器护盾值 +15%,,
+Part_SM_HYP_Rail_02,装弹时间 -5%,,
+Part_SM_HYP_Rail_03,子弹容量 +10%,"准心范围 +10%, 伤害 -5%",
+Part_SM_HYP_Scope_01,2.6x,,
+Part_SM_HYP_Shield_01,"武器护盾值 +15%, 装弹时间 -5%",,
+Part_SM_HYP_Shield_02,"准心范围 -10%, 射速 +5%",,
+Part_SM_HYP_Shield_03,"武器晃动 -30%, 伤害 +5%",,
+Part_SM_HYP_Shield_04,"纵向后坐力 -30%, 准心范围 -10%",,
+Part_SM_HYP_Stock_01,"横向后坐力幅度 -30%, 射速 +5%",,
+Part_SM_HYP_Stock_02,准心范围 -20%,,
+Part_SM_HYP_Stock_03,"纵向后坐力 -15%, 伤害 +5%",,
+Part_SM_MAL_Barrel_01_A,准心范围扩散 -25%,,
+Part_SM_MAL_Barrel_01_B,射速 +10%,,
+Part_SM_MAL_Barrel_01_C,射速 +10%,,
+Part_SM_MAL_Barrel_02,溅射伤害范围 +75,,
+Part_SM_MAL_Barrel_02_A,元素伤害 +10%,,
+Part_SM_MAL_Barrel_02_B,元素伤害 +10%,,
+Part_SM_MAL_Barrel_02_C,"子弹速度 +30%, 近战伤害 +60%",,
+Part_SM_MAL_Barrel_03_A,伤害 +10%,,
+Part_SM_MAL_Barrel_03_B,伤害 +10%,,
+Part_SM_MAL_Barrel_03_C,子弹容量 +10%,,
+Part_SM_MAL_Barrel_Crit,"暴击伤害 +150%, 伤害 +700%",,
+Part_SM_MAL_Barrel_Cutsman,"溅射伤害范围 +5, 伤害 +250%",准心范围 +60%,
+Part_SM_MAL_Barrel_Devoted,"伤害 +200%, 子弹容量 +30","准心范围 +80%, 装弹时间 +50%",
+Part_SM_MAL_Barrel_ETech,子弹容量 +20%,,
+Part_SM_MAL_Barrel_ETech_A,"子弹速度 +20%, 横向后坐力幅度 -25%, 纵向后坐力 -25%",,
+Part_SM_MAL_Barrel_Egon,,伤害 -25%,
+Part_SM_MAL_Barrel_Tsunami,"元素触发几率 +50%, 准心范围扩散 -35%, 元素伤害 +50%, 伤害 +90%, 武器晃动 -20%",武器晃动 -20%,
+Part_SM_MAL_Barrel_westergun,"溅射伤害范围 +75, 伤害 +25%",,
+Part_SM_MAL_Barrel_KybsWorth,"溅射伤害范围 +75, 装弹时间 -10%, 元素伤害 +10%, 元素触发几率 +15%, 伤害 +175%",,
+Part_SM_MAL_Barrel_KybsWorth_Shield,"子弹速度 +30%, 近战伤害 +60%",,
+Part_SM_MAL_Barrel_IonLaser,"近战伤害 +40%, 伤害 +60%",,
+Part_SM_MAL_Body,不可移除,,
+Part_SM_MAL_Body_A,充能持续时间 -20%,,
+Part_SM_MAL_Body_B,"子弹速度 +30%, 准心范围 -15%",,
+Part_SM_MAL_Body_C,元素伤害 +10%,,
+Part_SM_MAL_Grip_01,"准心范围扩散 -30%, 射速 +5%",,
+Part_SM_MAL_Grip_02,"元素伤害 +10%, 武器晃动 -30%",,
+Part_SM_MAL_Grip_03,"充能持续时间 -10%, 准心范围 -10%",,
+Part_SM_MAL_Grip_03_A,"每次射击射弹数 +1, 子弹容量 +10%","伤害 -24%, 准心范围扩散 +20%, 准心范围 +21%",
+Part_SM_MAL_Mag_01,34 弹匣,,
+Part_SM_MAL_Mag_02,"24 弹匣, 伤害 +10%",,
+Part_SM_MAL_Mag_03,"44 弹匣, 伤害 -10%",,
+Part_SM_MAL_Mag_Cutsman,20 弹匣,,
+Part_SM_MAL_Scope_01,伤害 +5%,,
+Part_SM_MAL_Scope_02,溅射伤害范围 +20%,,
+Part_SM_MAL_Scope_03,"2.9x, 子弹速度 +15%",,
+Part_SM_MAL_Scope_04,装弹时间 -5%,,
+Part_SM_MAL_Stock_01,"充能持续时间 -10%, 射速 +5%",,
+Part_SM_MAL_Stock_02,"元素伤害 +10%, 武器晃动 -30%",,
+Part_SM_MAL_Stock_03,"准心范围扩散 -20%, 伤害 +5%",,
+Part_SM_TED_Barrel_01_A,伤害 +10%,,
+Part_SM_TED_Barrel_01_B,射速 +10%,,
+Part_SM_TED_Barrel_01_C,伤害 +10%,,
+Part_SM_TED_Barrel_02_A,射速 +10%,,
+Part_SM_TED_Barrel_02_B,子弹容量 +10%,,
+Part_SM_TED_Barrel_02_C,射速 +10%,,
+Part_SM_TED_Barrel_03_A,准心范围 -15%,,
+Part_SM_TED_Barrel_03_B,子弹容量 +10%,,
+Part_SM_TED_Barrel_03_C,准心范围 -15%,,
+Part_SM_TED_Barrel_ETech,子弹容量 +20%,,
+Part_SM_TED_Barrel_ETech_A,"子弹速度 +30%, 子弹容量 +10%",,
+Part_SM_TED_Barrel_NotAFlamethrower,子弹容量 +20%,伤害 -20%,
+Part_SM_TED_Barrel_SpiderMind,"伤害 +600%, 子弹容量 +40%",,
+Part_SM_TED_Barrel_TenGallon,"准心范围 -40%, 伤害 +200%",,
+Part_SM_TED_Body,不可移除,,
+Part_SM_TED_Body_A,溅射伤害范围 +20%,,
+Part_SM_TED_Body_B,子弹容量 +10%,"准心范围 +10%, 伤害 -5%",
+Part_SM_TED_Body_C,射速 +10%,,
+Part_SM_TED_Foregrip_01,"横向后坐力幅度 -15%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_SM_TED_Foregrip_02,"溅射伤害范围 +20%, 准心范围 -10%",,
+Part_SM_TED_Foregrip_03,"纵向后坐力 -30%, 伤害 +5%",,
+Part_SM_TED_Foregrip_04,"射速 +5%, 伤害 +5%",,
+Part_SM_TED_Grip_01,"横向后坐力幅度 -30%, 射速 +5%",,
+Part_SM_TED_Grip_02,"准心范围 -20%, 伤害 +5%",,
+Part_SM_TED_Grip_03,"武器晃动 -30%, 子弹容量 +10%","伤害 -5%, 准心范围 +10%",
+Part_SM_TED_Grip_04,"溅射伤害范围 +20%, 每次射击射弹数 +1","准心范围 +10%, 伤害 -20%, 准心范围扩散 +20%",
+Part_SM_TED_Grip_05,"纵向后坐力 -15%, 准心范围 -20%",,
+Part_SM_TED_TypeMod_01,"扔出后, 寻向追踪目标",,
+Part_SM_TED_TypeMod_02,"扔出后, 粘住",,
+Part_SM_TED_TypeMod_03,溅射伤害范围 +20%,,
+Part_SM_TED_TypeMod_04,"扔出后, 弹跳",,
+Part_SR_DAL_Barrel_01_A,准心范围扩散 -25%,,
+Part_SR_DAL_Barrel_01_B,准心范围 -15%,,
+Part_SR_DAL_Barrel_01_C,准心范围 -15%,,
+Part_SR_DAL_Barrel_02_A,纵向后坐力 -25%,,
+Part_SR_DAL_Barrel_02_B,伤害 +10%,,
+Part_SR_DAL_Barrel_02_C,伤害 +10%,,
+Part_SR_DAL_Barrel_03_A,射速 +10%,,
+Part_SR_DAL_Barrel_03_B,"武器晃动 -20%, 后坐力d Width -25%",,
+Part_SR_DAL_Barrel_03_C,射速 +10%,,
+Part_SR_DAL_Barrel_BrashisDedication,纵向后坐力 -50%,伤害 -50%,
+Part_SR_DAL_Barrel_ETech,子弹容量 +5,,
+Part_SR_DAL_Barrel_ETech_A,"子弹速度 +30%, 装弹时间 -10%",,
+Part_SR_DAL_Barrel_ETech_MalaksBane,"子弹容量 +5, 伤害 +230%",,
+Part_SR_DAL_Barrel_WorldDes神秘术士er,,伤害 -15%,
+Part_SR_DAL_Barrel_FBolt,"弹匣容量 +5, 元素伤害 +70%, 伤害 +200%",,
+Part_SR_DAL_Body,不可移除,,
+Part_SR_DAL_Body_A,装弹时间 -10%,,
+Part_SR_DAL_Body_B,准心范围 -15%,,
+Part_SR_DAL_Body_C,准心范围 -15%,,
+Part_SR_DAL_Bolt_A,装弹时间 -5%,,
+Part_SR_DAL_Bolt_B,武器晃动 -20%,,
+Part_SR_DAL_Foregrip_01,"纵向后坐力 -30%, 子弹容量 +10","伤害 -5%, 准心范围 +10%",
+Part_SR_DAL_Foregrip_02,"横向后坐力幅度 -15%, 准心范围扩散 -30%",,
+Part_SR_DAL_Foregrip_03,"武器晃动 -30%, 伤害 +5%",,
+Part_SR_DAL_Foregrip_04,"准心范围 -10%, 射速 +5%",,
+Part_SR_DAL_Foregrip_05,"装弹时间 -5%, 暴击伤害 +10%",,
+Part_SR_DAL_Grip_01,"横向后坐力幅度 -15%, 纵向后坐力 -15%",,
+Part_SR_DAL_Grip_02,"装弹时间 -5%, 准心范围 -20%",,
+Part_SR_DAL_Grip_03,"横向后坐力幅度 -30%, 伤害 +5%",,
+Part_SR_DAL_Grip_03_A,暴击伤害 +10%,,
+Part_SR_DAL_Grip_04,"武器晃动 -30%, 射速 +5%",,
+Part_SR_DAL_Grip_05,"武器晃动 -30%, 横向后坐力幅度 -30%",,
+Part_SR_DAL_Mag_01,"10 弹匣, 伤害 +10%",,
+Part_SR_DAL_Mag_02,14 弹匣,,
+Part_SR_DAL_Mag_03,18 弹匣,伤害 -10%,
+Part_SR_DAL_Material_BrashisDedication,皮肤,,
+Part_SR_DAL_Material_MalaksBane,皮肤,,
+Part_SR_DAL_WorldDes神秘术士er,皮肤,,
+Part_SR_DAL_01_常见,皮肤,,
+Part_SR_DAL_02_普通,皮肤,,
+Part_SR_DAL_03_罕见,皮肤,,
+Part_SR_DAL_04_非常罕见,皮肤,,
+Part_SR_DAL_Mat_Fbolt,皮肤,,
+Part_SR_DAL_Scope_01,"7.4x, 16x",,
+Part_SR_DAL_Scope_01_A,武器晃动 -30%,,
+Part_SR_HYP_Barrel_01_A,准心范围 -15%,,
+Part_SR_HYP_Barrel_01_B,准心范围 -15%,,
+Part_SR_HYP_Barrel_01_C,暴击伤害 +10%,准心范围扩散 +20%,
+Part_SR_HYP_Barrel_02_A,伤害 +10%,,
+Part_SR_HYP_Barrel_02_B,伤害 +10%,,
+Part_SR_HYP_Barrel_02_C,"暴击伤害 +10%, 近战伤害 +80%",,
+Part_SR_HYP_Barrel_02_TwoTime,"纵向后坐力 -50%, Shield Capacity +50%",伤害 -25%,
+Part_SR_HYP_Barrel_03_A,射速 +10%,,
+Part_SR_HYP_Barrel_03_B,射速 +10%,,
+Part_SR_HYP_Barrel_03_C,准心范围 -15%,,
+Part_SR_HYP_Barrel_ETech,子弹容量 +8,,
+Part_SR_HYP_Barrel_ETech_A,"武器护盾值 +25%, 暴击伤害 +10%",,
+Part_SR_HYP_Barrel_Masterwork,"准心范围 -50%, 暴击伤害 +50%, 装弹时间 -50%, 伤害 +900%",,
+Part_SR_HYP_Barrel_Woodblocks,"弹匣容量 +10, 纵向后坐力 -50%",伤害 -20%,
+Part_SR_HYP_Barrel_Tankman,"弹匣容量 +4, 伤害 +55%",,
+Part_SR_HYP_Body,不可移除,,
+Part_SR_HYP_Body_A,装弹时间 -10%,,
+Part_SR_HYP_Body_B,武器护盾值 +25%,,
+Part_SR_HYP_Body_C,伤害 +10%,,
+Part_SR_HYP_Grip_01,纵向后坐力 -30%,,
+Part_SR_HYP_Grip_02,伤害 +5%,,
+Part_SR_HYP_Grip_03,准心范围 -20%,,
+Part_SR_HYP_Grip_04,子弹容量 +3,"准心范围 +10%, 伤害 -5%",
+Part_SR_HYP_Mag_01,10 弹匣,,
+Part_SR_HYP_Mag_02,"7 Round, 伤害 +10%",,
+Part_SR_HYP_Mag_03,14 弹匣,伤害 -10%,
+Part_SR_HYP_Mag_MasterworkCrossbow,1 弹匣,伤害 -10%,
+Part_SR_HYP_Masterwork,皮肤,,
+Part_SR_HYP_Mat_TwoTime,皮肤,,
+Part_SR_HYP_Woodblocks,皮肤,,
+Part_SR_HYP_Zero,皮肤,,
+Part_SR_HYP_ZeroForPlayer,皮肤,,
+Part_SR_HYP_01_常见,皮肤,,
+Part_SR_HYP_02_普通,皮肤,,
+Part_SR_HYP_03_罕见,皮肤,,
+Part_SR_HYP_04_非常罕见,皮肤,,
+Part_SR_HYP_Tankman,皮肤,,
+Part_SR_HYP_Rail_02,武器护盾值 +15%,,
+Part_SR_HYP_Scope_03,6.6x,,
+Part_SR_HYP_Scope_03_A,暴击伤害 +10%,,
+Part_SR_HYP_Shield_01,"射速 +5%, 生成护盾",,
+Part_SR_HYP_Shield_02,纵向后坐力 -30%,,
+Part_SR_HYP_Shield_03,暴击伤害 +10%,,
+Part_SR_HYP_Shield_04,准心范围 -10%,,
+Part_SR_HYP_Stock_01,"准心范围 -20%, 伤害 +5%",,
+Part_SR_HYP_Stock_02,武器晃动 -20%,,
+Part_SR_HYP_Stock_03,"纵向后坐力 -30%, 暴击伤害 +10%",,
+Part_SR_HYP_Stock_04,"装弹时间 -5%, 射速 +5%",,
+Part_SR_JAK_Barrel_01_A,射速 +10%,,
+Part_SR_JAK_Barrel_01_B,"武器晃动 -20%, 横向后坐力幅度 -25%, 纵向后坐力 -25%",,
+Part_SR_JAK_Barrel_01_C,射速 +10%,,
+Part_SR_JAK_Barrel_02_A,"近战伤害 +10%, 近战伤害 +80%",,
+Part_SR_JAK_Barrel_02_B,准心范围 -15%,,
+Part_SR_JAK_Barrel_02_C,"武器晃动 -20%, 准心范围 -15%",,
+Part_SR_JAK_Barrel_03_A,伤害 +10%,,
+Part_SR_JAK_Barrel_03_B,暴击伤害 +10%,,
+Part_SR_JAK_Barrel_03_C,暴击伤害 +10%,,
+Part_SR_JAK_Barrel_Hunted,,"伤害 -20%, 射速 -20%",
+Part_SR_JAK_Barrel_Hunter,,射速 -20%,
+Part_SR_JAK_Barrel_Huntress,,"伤害 -20%, 射速 -20%",
+Part_SR_JAK_Barrel_Monocle,"纵向后坐力  -50%, 准心范围 -75%, 伤害 +15%",,
+Part_SR_JAK_Body,不可移除,,
+Part_SR_JAK_Body_A,伤害 +10%,,
+Part_SR_JAK_Body_B,装弹时间 -10%,,
+Part_SR_JAK_Body_C,射速 +10%,,
+Part_SR_JAK_Bolt_02,伤害 +25%,,
+Part_SR_JAK_Bolt_03,伤害 +10%,,
+Part_SR_JAK_Bolt_Headsplosion,溅射伤害范围 +100,"伤害 -6.2%, 暴击伤害 -50%",
+Part_SR_JAK_Bolt_IceQueen,"元素伤害 +50%, 伤害 +25%",,
+Part_SR_JAK_Foregrip_01,"纵向后坐力 -30%, 准心范围 -10%",,
+Part_SR_JAK_Foregrip_02,"横向后坐力幅度 -15%, 纵向后坐力 -30%",,
+Part_SR_JAK_Foregrip_03,暴击伤害 +10%,,
+Part_SR_JAK_Foregrip_04,"武器晃动 -30%, 伤害 +5%",,
+Part_SR_JAK_Foregrip_05,"装弹时间 -5%, 射速 +5%",,
+Part_SR_JAK_IceQueen,皮肤,,
+Part_SR_JAK_MAT_Monocle,皮肤,,
+Part_SR_JAK_MAterial_Hunter,皮肤,,
+Part_SR_JAK_Material_Hammerlock,皮肤,,
+Part_SR_JAK_Material_Headsplosion,皮肤,,
+Part_SR_JAK_01_常见,皮肤,,
+Part_SR_JAK_02_普通,皮肤,,
+Part_SR_JAK_03_罕见,皮肤,,
+Part_SR_JAK_04_非常罕见,皮肤,,
+Part_SR_JAK_Mag_01,8 弹匣,伤害 -10%,
+Part_SR_JAK_Mag_02,8 弹匣,,
+Part_SR_JAK_Mag_03,"8 弹匣, 伤害 +10%",,
+Part_SR_JAK_Scope_01_A,准心范围 -20%,,
+Part_SR_JAK_Scope_02,"装弹时间 -5%, 准心范围 -20%",,
+Part_SR_JAK_Scope_02_A,装弹时间 -5%,,
+Part_SR_JAK_Scope_02_B,暴击伤害 +10%,,
+Part_SR_JAK_Scope_03_A,"横向后坐力幅度 -25%, 纵向后坐力 -25%",,
+Part_SR_JAK_Scope_03_B,射速 +5%,,
+Part_SR_JAK_Stock_01,"准心范围扩散 -20%, 暴击伤害 +10%",,
+Part_SR_JAK_Stock_01_A,纵向后坐力 -15%,,
+Part_SR_JAK_Stock_02,"装弹时间 -5%, 准心范围 -20%",,
+Part_SR_JAK_Stock_02_A,装弹时间 -5%,,
+Part_SR_JAK_Stock_03,"横向后坐力幅度 -30%, 伤害 +5%",,
+Part_SR_JAK_Stock_03_A,伤害 +5%,,
+Part_SR_JAK_Stock_04,"武器晃动 -30%, 纵向后坐力 -15%",,
+Part_SR_JAK_Stock_04_A,射速 +5%,,
+Part_SR_JAK_Stock_05,"准心范围扩散 -20%, 子弹容量 +10%",,
+Part_SR_JAK_Stock_05_A,武器晃动 -30%,,
+Part_MAL_SR_Barrel_01_A,射速 +10%,,
+Part_MAL_SR_Barrel_01_B,射速 +10%,,
+Part_MAL_SR_Barrel_01_C,"充能持续时间 -20%, 近战伤害 +80%",,
+Part_MAL_SR_Barrel_02_A,伤害 +10%,,
+Part_MAL_SR_Barrel_02_B,伤害 +10%,,
+Part_MAL_SR_Barrel_02_C,充能持续时间 -20%,,
+Part_MAL_SR_Barrel_03,溅射伤害范围 +80,,
+Part_MAL_SR_Barrel_03_A,元素伤害 +10%,,
+Part_MAL_SR_Barrel_03_B,元素触发几率 +15%,,
+Part_MAL_SR_Barrel_03_C,元素伤害 +10%,,
+Part_MAL_SR_Barrel_ASMD,"溅射伤害范围 +50, 准心范围 -75%, 伤害 +70%",,
+Part_MAL_SR_Barrel_ETech,子弹容量 +8,,
+Part_MAL_SR_Barrel_ETech_A,"射速 +10%, 子弹容量 +10%",,
+Part_MAL_SR_Barrel_FireStorm,"溅射伤害范围 +300, 伤害 +125%",,
+Part_MAL_SR_Barrel_Krakatoa,伤害 +325%,元素触发几率 -100%,
+Part_MAL_SR_Barrel_Soleki,元素触发几率 +25%,伤害 -25%,
+Part_MAL_SR_Barrel_Storm,"溅射伤害范围 +250, 伤害 +250%",,
+Part_MAL_SR_Body,不可移除,,
+Part_MAL_SR_Body_A,伤害 +10%,,
+Part_MAL_SR_Body_B,装弹时间 -10%,,
+Part_MAL_SR_Body_C,元素伤害 +10%,,
+Part_MAL_SR_Foregrip_01,充能持续时间 -10%,,
+Part_MAL_SR_Foregrip_02,武器晃动 -30%,,
+Part_MAL_SR_Foregrip_03,元素触发几率 +10%,,
+Part_MAL_SR_Foregrip_04,子弹容量 +2,"准心范围 +10%, 伤害 -5%",
+Part_MAL_SR_Foregrip_05,装弹时间 -5%,,
+Part_MAL_SR_Foregrip_06,横向后坐力幅度 -15%,,
+Part_MAL_SR_Grip_01,"武器晃动 -30%, 伤害 +5%",,
+Part_MAL_SR_Grip_02,"充能持续时间 -10%, 准心范围 -20%",,
+Part_MAL_SR_Grip_02_A,准心扩散范围 -20%,,
+Part_MAL_SR_Grip_03,"武器晃动 -30%, 横向后坐力幅度 -30%",,
+Part_MAL_SR_Grip_03_A,装弹时间 -5%,,
+Part_MAL_SR_Grip_04,"元素伤害 +10%, 横向后坐力幅度 -30%",,
+Part_MAL_SR_Grip_05,"武器晃动 -30%, 准心范围 -20%",,
+Part_MAL_SR_Grip_05_A,元素触发几率 +10%,,
+Part_MAL_SR_Grip_06,"元素触发几率 +10%, 横向后坐力幅度 -30%",,
+Part_MAL_SR_Grip_07,"武器晃动 -30%, 装弹时间 -5%",,
+Part_MAL_SR_Mag_01,"6 弹匣, 伤害 +10%",,
+Part_MAL_SR_Mag_02,10 弹匣,,
+Part_MAL_SR_Mag_03,14 弹匣,伤害 -10%,
+Part_MAL_SR_Material_01_常见,皮肤,,
+Part_MAL_SR_Material_02_普通,皮肤,,
+Part_MAL_SR_Material_03_罕见,皮肤,,
+Part_MAL_SR_Material_04_非常罕见,皮肤,,
+Part_MAL_SR_Material_ASMD,皮肤,,
+Part_MAL_SR_Material_Krakatoa,皮肤,,
+Part_MAL_SR_Material_LGD_FireStorm,皮肤,,
+Part_MAL_SR_Material_LGD_Storm,皮肤,,
+Part_MAL_SR_Material_Soleki,皮肤,,
+Part_MAL_SR_Scope_01,4.2x,,
+Part_MAL_SR_Scope_03,7.7x,,
+Part_SR_VLA_Barrel_01_A,准心范围扩散 -25%,,
+Part_SR_VLA_Barrel_01_B,射速 +10%,,
+Part_SR_VLA_Barrel_01_C,射速 +10%,,
+Part_SR_VLA_Barrel_02_A,"装弹时间 -10%, 准心范围扩散 -25%",,
+Part_SR_VLA_Barrel_02_B,"准心范围扩散 -25%, 子弹容量 +10%",,
+Part_SR_VLA_Barrel_02_C,准心范围 -15%,,
+Part_SR_VLA_Barrel_03_A,伤害 +10%,,
+Part_SR_VLA_Barrel_03_B,射速 +10%,,
+Part_SR_VLA_Barrel_03_C,伤害 +10%,,
+Part_SR_VLA_Barrel_ETech,子弹容量 +12,,
+Part_SR_VLA_Barrel_Lyuda,"装弹时间 -60%, 暴击伤害 +10%, 伤害 +20%",,
+Part_SR_VLA_Barrel_Prison,"元素伤害 +50%, 伤害 +20%",,
+Part_SR_VLA_Body,不可移除,,
+Part_SR_VLA_Body_A,伤害 +10%,,
+Part_SR_VLA_Body_B,准心范围扩散 -25%,,
+Part_SR_VLA_Body_C,射速 +10%,,
+Part_SR_VLA_Foregrip_01,"装弹时间 -5%, 准心范围扩散 -30%",,
+Part_SR_VLA_Foregrip_02,"纵向后坐力 -30%, 子弹容量 +10%",,
+Part_SR_VLA_Foregrip_03,"横向后坐力幅度 -15%, 伤害 +5%",,
+Part_SR_VLA_Foregrip_04,"武器晃动 -30%, 横向后坐力幅度 -15%",,
+Part_SR_VLA_Foregrip_05,"准心范围 -10%, 射速 +5%",,
+Part_SR_VLA_Grip_01,"武器晃动 -30%, 横向后坐力幅度 -30%",,
+Part_SR_VLA_Grip_02,"纵向后坐力 -15%, 准心范围 -20%",,
+Part_SR_VLA_Grip_03,"武器晃动 -30%, 射速 +5%",,
+Part_SR_VLA_Grip_04,"准心范围扩散 -20%, 伤害 +5%",,
+Part_SR_VLA_Grip_05,"每次射击射弹数 +1, 子弹容量 +10%","伤害 -24%, 准心范围扩散 +20%, 准心范围 +21%",
+Part_SR_VLA_Mag_01,"15 弹匣, 伤害 +5%",,
+Part_SR_VLA_Mag_02,20 弹匣,伤害 -10%,
+Part_SR_VLA_Mag_03,"10 弹匣, 伤害 +26.5%",,
+Part_SR_VLA_Scope_01,"7, 7x",,
+Part_SR_VLA_Scope_01_A,武器晃动 -30%,,
+Part_SR_VLA_Scope_02,5.0X,,
+Part_SR_VLA_Scope_02_A,伤害 +5%,,
+Part_SR_VLA_Scope_02_B,伤害 +5%,,
+Part_SR_VLA_Scope_03,8.2x,,
+Part_SR_VLA_Scope_03_A,子弹容量 +10%,,
+Part_SR_VLA_Scope_03_B,射速 +5%,,
+Part_SR_VLA_Underbarrel_01,"下挂霰弹, 4 弹匣",,
+Part_SR_VLA_Underbarrel_01_A,下挂霰弹 子弹容量 +50%,,
+Part_SR_VLA_Underbarrel_02_Double,下挂两发榴弹发射器,,
+Part_SR_VLA_Underbarrel_02_Single,下挂榴弹发射器,,
+Part_SR_VLA_Underbarrel_03,双脚架,,
+Part_SR_VLA_Underbarrel_04,"额外枪管, 射速 +35%",,
+Part_SR_VLA_Underbarrel_04_A,射速 +5%,,
+Part_SR_VLA_Underbarrel_04_B,充能持续时间 -20%,,
+Part_SR_VLA_Underbarrel_04_C,射速 +5%,,
+Part_ATL_Barrel_01,溅射伤害范围 +202,,
+Part_ATL_Barrel_01_A,射速 +10%,,
+Part_ATL_Barrel_01_B,射速 +10%,,
+Part_ATL_Barrel_01_C,伤害 +10%,,
+Part_ATL_Barrel_02,溅射伤害范围 +163,,
+Part_ATL_Barrel_02_A,"每次射击射弹数 +1, 准心范围 -15%",,
+Part_ATL_Barrel_02_B,装弹时间 -10%,,
+Part_ATL_Barrel_02_C,每次射击射弹数 +1,,
+Part_ATL_Barrel_03,溅射伤害范围 +176,,
+Part_ATL_Barrel_03_A,"溅射伤害范围 +20%, 纵向后坐力 -25%",,
+Part_ATL_Barrel_03_B,伤害 +10%,,
+Part_ATL_Barrel_03_C,"子弹容量 +2, 伤害 +10%",,
+Part_ATL_Barrel_Freeman,"溅射伤害范围 +176, 伤害 +150%",准心范围 +50%,
+Part_ATL_Barrel_RubysWrath,"溅射伤害范围 +163, 伤害 +60%, 子弹容量 +7",装弹时间 +50%,
+Part_ATL_Body,不可移除,,
+Part_ATL_Body_A,伤害 +10%,,
+Part_ATL_Body_B,溅射伤害范围 +20%,,
+Part_ATL_Body_C,装弹时间 -10%,,
+Part_ATL_Foregrip_01,射速 +5%,,
+Part_ATL_Foregrip_02,伤害 +5%,,
+Part_ATL_Foregrip_03,"溅射伤害范围 +20%, 装弹时间 -5%",,
+Part_ATL_Grip_01,"溅射伤害范围 +20%, 纵向后坐力 -15%",,
+Part_ATL_Grip_02,"武器晃动 -30%, 射速 +5%",,
+Part_ATL_Grip_03,"准心范围 -20%, 伤害 +5%",,
+Part_ATL_Mag_Pod_01,8 弹匣,伤害 -10%,
+Part_ATL_Mag_Pod_02,"3 弹匣, 伤害 +10%",,
+Part_ATL_Mag_Pod_03,6 弹匣,,
+Part_ATL_Marker_01,Marker Grenade,,
+Part_ATL_Marker_02,Sticky Puck,,
+Part_ATL_Marker_03,Sticky Darts,,
+Part_ATL_Marker_Freeman,Sticky Darts,,
+Part_ATL_Marker_RubysWrath,Marker Grenade,,
+Part_ATL_Material_01_常见,皮肤,,
+Part_ATL_Material_02_普通,皮肤,,
+Part_ATL_Material_03_罕见,皮肤,,
+Part_ATL_Material_04_非常罕见,皮肤,,
+Part_ATL_Material_Freeman,皮肤,,
+Part_ATL_Material_RubysWrath,皮肤,,
+Part_ATL_Scope_01,2.2x,,
+Part_ATL_Wire_01,子弹容量 +10%,,
+Part_ATL_Wire_02,溅射伤害范围 +20%,,
+Part_ATL_Wire_03,"准心范围扩散 -25%, 准心范围 -15%",,
+Part_HW_COV_Barrel_01_A,伤害 +10%,,
+Part_HW_COV_Barrel_01_B,伤害 +10%,,
+Part_HW_COV_Barrel_01_C,每击增加热量 -25%,,
+Part_HW_COV_Barrel_02,溅射伤害范围 +300,,
+Part_HW_COV_Barrel_02_A,溅射伤害范围 +20%,,
+Part_HW_COV_Barrel_02_B,"伤害 +10%, 近战伤害 +80%",,
+Part_HW_COV_Barrel_02_C,溅射伤害范围 +20%,,
+Part_HW_COV_Barrel_03,溅射伤害范围 +130,,
+Part_HW_COV_Barrel_03_A,每次射击射弹数 +1,,
+Part_HW_COV_Barrel_03_B,准心范围 -15%,,
+Part_HW_COV_Barrel_03_C,"纵向后坐力 -25%, 射速 +10%",,
+Part_HW_COV_Barrel_ETech,溅射伤害范围 +275,,
+Part_HW_COV_Barrel_HotDrop,"溅射伤害范围 +300, 准心范围 -50%",,
+Part_HW_COV_Barrel_PortaPooper,"溅射伤害范围 +400, 伤害 +45%",,
+Part_HW_COV_Barrel_Terror,"溅射伤害范围 +420, 伤害 +25%",,
+Part_HW_COV_Body,不可移除,,
+Part_HW_COV_Body_A,每击增加热量 -25%,,
+Part_HW_COV_Body_B,伤害 +10%,,
+Part_HW_COV_Body_C,每击增加热量 -25%,,
+Part_HW_COV_Engine_01,每击增加热量 -15%,,
+Part_HW_COV_Engine_02,射速 +5%,,
+Part_HW_COV_Engine_03,伤害 +5%,,
+Part_HW_COV_Grip_01,"准心范围 -10%, 射速 +5%",,
+Part_HW_COV_Grip_02,"溅射伤害范围 +20%, 每击增加热量 -15%",,
+Part_HW_COV_Grip_03,伤害 +5%,,
+Part_HW_COV_Starter_01,射速 +10%,,
+Part_HW_COV_Starter_02,每击增加热量 -25%,,
+Part_HW_COV_Starter_03,伤害 +10%,,
+Part_HW_COV_Tail_01,准心范围 -20%,,
+Part_HW_COV_Tail_02,"纵向后坐力 -15%, 伤害 +5%",,
+Part_HW_COV_Tail_03,每击增加热量 +75%,,
+Part_HW_COV_Tail_04,射速 +5%,,
+Part_HW_COV_Tail_05,"溅射伤害范围 +20%, 每击增加热量 -15%",,
+Part_HW_COV_Tail_06,"元素伤害 +10%, 元素触发几率 +10%",,
+Part_HW_TOR_Barrel_01_A,伤害 +10%,,
+Part_HW_TOR_Barrel_01_B,子弹速度 +30%,,
+Part_HW_TOR_Barrel_01_C,伤害 +10%,,
+Part_HW_TOR_Barrel_02,溅射伤害范围 +420,,
+Part_HW_TOR_Barrel_02_A,子弹速度 +30%,,
+Part_HW_TOR_Barrel_02_B,射速 +10%,,
+Part_HW_TOR_Barrel_02_C,溅射伤害范围 +20%,,
+Part_HW_TOR_Barrel_03,溅射伤害范围 +495,,
+Part_HW_TOR_Barrel_03_A,子弹速度 +30%,,
+Part_HW_TOR_Barrel_03_B,射速 +10%,,
+Part_HW_TOR_Barrel_03_C,射速 +10%,,
+Part_HW_TOR_Barrel_BurgerCannon,"横向后坐力幅度 -55%, 溅射伤害范围 +130, 子弹容量 +6, 纵向后坐力 -55%","准心范围 +300%, 伤害 -40%, 元素触发几率 -50%",
+Part_HW_TOR_Barrel_ETech,"溅射伤害范围 +300, 装弹时间 +25%",,
+Part_HW_TOR_Barrel_ETech_A,"元素伤害 +10%, 元素触发几率 +15%",,
+Part_HW_TOR_Barrel_Hive,"溅射伤害范围 +300, 子弹容量 +3, 伤害 +75%",装弹时间 +45%,
+Part_HW_TOR_Barrel_RYNO,"溅射伤害范围 +300, 伤害 +60%, 装弹时间 -20%",准心范围 +70%,
+Part_HW_TOR_Barrel_Rampager,"溅射伤害范围 +450, 子弹容量 +6","伤害 -20%, 准心范围 +70%",
+Part_HW_TOR_Barrel_Swarm,"溅射伤害范围 +200, 准心范围 -30%",,
+Part_HW_TOR_Barrel_Tunguska,"子弹容量 +2, 溅射伤害范围 +50, 准心范围 -30%",伤害 -75%,
+Part_HW_TOR_Body,不可移除,,
+Part_HW_TOR_Body_A,子弹速度 +30%,,
+Part_HW_TOR_Body_B,伤害 +10%,,
+Part_HW_TOR_Grip_01,装弹时间 -5%,,
+Part_HW_TOR_Grip_02,射速 +5%,,
+Part_HW_TOR_Grip_03,伤害 +5%,,
+Part_HW_TOR_Mag_01,3 弹匣,,
+Part_HW_TOR_Mag_02,4 弹匣,,
+Part_HW_TOR_Mag_03,2 弹匣,,
+Part_HW_TOR_Material_01_常见,皮肤,,
+Part_HW_TOR_Material_02_普通,皮肤,,
+Part_HW_TOR_Material_03_罕见,皮肤,,
+Part_HW_TOR_Material_04_非常罕见,皮肤,,
+Part_HW_TOR_Material_BurgerCannon,皮肤,,
+Part_HW_TOR_Material_Hive,皮肤,,
+Part_HW_TOR_Material_Marcus,皮肤,,
+Part_HW_TOR_Material_RYNO,皮肤,,
+Part_HW_TOR_Material_Rampager,皮肤,,
+Part_HW_TOR_Material_Swarm,皮肤,,
+Part_HW_TOR_Material_Tunguska,皮肤,,
+Part_HW_TOR_Scope_03,1.5x,,
+Part_HW_TOR_Tail_01,装弹时间 -5%,,
+Part_HW_TOR_Tail_01_A,子弹容量 +1,,
+Part_HW_TOR_Tail_01_B,子弹容量 +1,,
+Part_HW_TOR_Tail_02,射速 +5%,,
+Part_HW_TOR_Tail_02_A,元素伤害 +10%,,
+Part_HW_TOR_Tail_02_B,溅射伤害范围 +20%,,
+Part_HW_TOR_Tail_03,伤害 +5%,,
+Part_HW_TOR_Tail_03_A,每次射击射弹数 +1,准心范围 +25%,
+Part_HW_TOR_Tail_03_B,伤害 +5%,,
+Part_HW_VLA_Barrel_01,溅射伤害范围 +143,,
+Part_HW_VLA_Barrel_01_A,子弹速度 +30%,,
+Part_HW_VLA_Barrel_01_B,伤害 +10%,,
+Part_HW_VLA_Barrel_01_C,伤害 +10%,,
+Part_HW_VLA_Barrel_02_A,射速 +10%,,
+Part_HW_VLA_Barrel_02_B,装弹时间 -10%,,
+Part_HW_VLA_Barrel_02_C,射速 +10%,,
+Part_HW_VLA_Barrel_03,溅射伤害范围 +195,,
+Part_HW_VLA_Barrel_03_A,溅射伤害范围 +20%,,
+Part_HW_VLA_Barrel_03_B,溅射伤害范围 +20%,,
+Part_HW_VLA_Barrel_03_C,准心范围 -15%,,
+Part_HW_VLA_Barrel_CloudBurst,"子弹容量 +8, 溅射伤害范围 +300, 元素触发几率 +30%",伤害 -30%,
+Part_HW_VLA_Barrel_ETech_A,"元素触发几率 +15%, 子弹容量 +10%",,
+Part_HW_VLA_Barrel_Mongol,"溅射伤害范围 +175, 伤害 +60%, 子弹容量 +8",纵向后坐力 +45%,
+Part_HW_VLA_Body,不可移除,,
+Part_HW_VLA_Body_A,溅射伤害范围 +20%,,
+Part_HW_VLA_Body_B,伤害 +10%,,
+Part_HW_VLA_Body_C,射速 +10%,,
+Part_HW_VLA_Grip_01,"装弹时间 -5%, +1 Proj",,
+Part_HW_VLA_Grip_02,"子弹速度 +15%, 射速 +5%",,
+Part_HW_VLA_Grip_03,"准心范围 -10%, 伤害 +5%",,
+Part_HW_VLA_Mag_01,"6 弹匣, 伤害 +10%",,
+Part_HW_VLA_Mag_02,10 弹匣,,
+Part_HW_VLA_Mag_03,16 弹匣,伤害 -10%,
+Part_HW_VLA_Material_01_常见,皮肤,,
+Part_HW_VLA_Material_02_普通,皮肤,,
+Part_HW_VLA_Material_03_罕见,皮肤,,
+Part_HW_VLA_Material_04_非常罕见,皮肤,,
+Part_HW_VLA_Material_CloudBurst,皮肤,,
+Part_HW_VLA_Material_Mongol,皮肤,,
+Part_HW_VLA_Shoulder_01,"子弹容量 +2, 子弹速度 +15%",,
+Part_HW_VLA_Shoulder_02,"装弹时间 -5%, 射速 +5%",,
+Part_HW_VLA_Shoulder_03,"溅射伤害范围 +20%, 准心范围 -20%",,
+Part_HW_VLA_Tail_01,"子弹容量 +2, 射速 +5%",,
+Part_HW_VLA_Tail_02,"子弹速度 +15%, 装弹时间 -5%",,
+Part_HW_VLA_Tail_03,"准心范围 -20%, 伤害 +5%",,
+Part_HW_VLA_Tail_04,"溅射伤害范围 +20%, 纵向后坐力 -30%",,
+Part_HW_VLA_Underbarrel_01,"两发火箭齐射",,
+Part_HW_VLA_Underbarrel_02,"发射一个大火箭",,
+Part_HW_VLA_Underbarrel_03,"武器下挂四发迫击炮",,
+Part_PS_ATL_Barrel_DoubleTap,"子弹容量 +10, 伤害 +450%",装弹时间 +50%,
+Part_PS_COV_Barrel_Gargoyle,伤害 +150%,"子弹速度 -50%, 每击增加热量 +100%",
+Part_PS_COV_Barrel_Hydrafrost,伤害 +30%,准心范围 +100%,
+Part_PS_COV_Barrel_司凯希斯,伤害 +15%,,
+Part_PS_COV_Barrel_Tizzy,"纵向后坐力 -90%, 射速 +50%, 横向后坐力幅度 -90%, 准心范围 -50%, 伤害 +100%",每击增加热量 +250%,
+Part_Dal_PS_AAA,"元素触发几率 +400%, 准心范围扩散 -15%, 纵向后坐力 -100%",伤害 -10%,
+Part_Dal_PS_Barrel_Kaleidoscope,伤害 +10%,,
+Part_Dal_PS_Barrel_PrivateInvestigator,伤害 +25%,,
+Part_PS_JAK_Barrel_BiteSize,"溅射伤害范围 +100, 伤害 +20%",,
+Part_PS_JAK_Barrel_Rose,"横向后坐力幅度 -33.3%, 纵向后坐力 -33.3%, 伤害 +50%",,
+Part_PS_JAK_Barrel_02_LittleYeeti,"每次射击射弹数 +1, 伤害 +100%",装弹时间 +25%,
+Part_PS_JAK_Barrel_Love连接,"暴击伤害 +200%, 准心范围扩散 -50%",伤害 -25%,
+Part_PS_JAK_Barrel_Love连接_Legendary,"暴击伤害 +250%, 准心范围扩散 -50%",伤害 -50%,
+Part_PS_JAK_Barrel_Lucky7,子弹容量 +5,"装弹时间 +25%, 伤害 -30%",
+Part_PS_JAK_Barrel_Peashooter,装弹时间 -50%,,
+Part_PS_JAK_Barrel_QuickDraw,"纵向后坐力 -80%, 伤害 +25%",装弹时间 +50%,
+Part_PS_JAK_Barrel_SeventhGhost,"元素触发几率 +100%, 准心范围 -50%, 伤害 +150%","纵向后坐力 +50%, 装弹时间 +20%",
+Part_PS_JAK_Barrel_SeventhSense,伤害 +200%,,
+Part_PS_JAK_Barrel_Trickshot,"准心范围扩散 -90%, 准心范围 -75%, 纵向后坐力 -75%, 伤害 +200%",装弹时间 +100%,
+Part_PS_MAL_Barrel_BubbleBlaster,溅射伤害范围 +50,,
+Part_PS_MAL_Barrel_FrozenDevil,元素伤害 +300%,伤害 -75%,
+Part_PS_MAL_Barrel_GreaseTrap,"溅射伤害范围 +100, 伤害 +50%",,
+Part_PS_MAL_Barrel_IcePick,溅射伤害范围 +60,,
+Part_PS_TOR_Barrel_Craps,伤害 +120%,准心范围 +80%,
+Part_PS_TOR_Barrel_Voice_Epic,"横向后坐力幅度 -50%, 纵向后坐力 -50%, 伤害 +95%",,
+Part_PS_TOR_Barrel_HandCannon,"准心范围 -30%, 暴击伤害 +70%, 伤害 +125%","准心范围扩散 +100%, 溅射伤害范围 -100%, 纵向后坐力 +100%",
+Part_PS_TOR_Barrel_Voice,"横向后坐力幅度 -50%, 纵向后坐力 -50%, 伤害 +30%",,
+Part_PS_TOR_Barrel_UnkemptHarold,"伤害 +100%, 子弹容量 +16",,
+Part_PS_VLA_Barrel_Firefly,"准心范围 -50%, 伤害 +250%",,
+Part_PS_VLA_Barrel_Lasocannon,"横向后坐力幅度 -100%, 纵向后坐力 -100%, 武器晃动 -100%, 准心范围扩散 -100%, 伤害 +100%",武器晃动 -100%,
+Part_PS_VLA_Barrel_Miscreant,伤害 +130%,准心范围 +20%,
+Part_SM_DAL_Barrel_AshenBeast,"伤害 +75%, 子弹容量 +50%",,
+Part_SM_DAL_Barrel_Boomer,"溅射伤害范围 +75%, 伤害 +100%",,
+Part_SM_DAL_Barrel_CraderMP5,伤害 +80%,,
+Part_SM_DAL_Barrel_卡奥斯on,"溅射伤害范围 +90, 伤害 +125%","暴击伤害 -30%, 准心范围扩散 +200%",
+Part_SM_DAL_Barrel_Torrent,"纵向后坐力 -75%, 伤害 +270%, 横向后坐力幅度 -50%",,
+Part_SM_DAL_Barrel_Vanquisher,伤害 +40%,,
+Part_SM_HYP_Barrel_GoldRush,"装弹时间 -30%, 伤害 +200%, 子弹容量 +37",,
+Part_SM_HYP_Barrel_Oldridian,伤害 +50%,,
+Part_SM_HYP_Barrel_02_Pricker,装弹时间 -25%,,
+Part_SM_HYP_Barrel_Copybeast,伤害 +80%,,
+Part_SM_HYP_Barrel_Fork2,伤害 +160%,,
+Part_SM_HYP_Barrel_ShortStick,"暴击伤害 +7.5%, 装弹时间 -26%","Shield Capacity -20%, 伤害 -39%",
+Part_SM_HYP_Barrel_Smog,伤害 +250%,,
+Part_SM_HYP_Barrel_Troubleshooter,伤害 +200%,,
+Part_SM_MAL_Barrel_CloudKill,伤害 +82.5%,,
+Part_SM_MAL_Barrel_DNA,"溅射伤害范围 +5, 伤害 +950%, 装弹时间 -50%, 子弹容量 +50%",准心范围 +60%,
+Part_SM_MAL_Barrel_DestructoSpin,伤害 +100%,,
+Part_SM_MAL_Barrel_Flipper,"溅射伤害范围 +5, 伤害 +60%",,
+Part_SM_MAL_Barrel_Link,,伤害 -40%,
+Part_SM_MAL_Barrel_PlasmaCoil,"装弹时间 -30%, 射速 +150%, 横向后坐力幅度 -75%, 准心范围 -75%, 纵向后坐力 -75%, 伤害 +1900%",,
+Part_SM_MAL_Barrel_SFForce,"横向后坐力幅度 -75%, 纵向后坐力 -75%, 伤害 +600%",,
+Part_SM_MAL_Barrel_01_PolyAim,伤害 +50%,,
+Part_SM_TED_Barrel_DarkArmy,"纵向后坐力 -67%, 伤害 +70%",,
+Part_SM_TED_Barrel_Earthbound,伤害 +200%,,
+Part_SM_TED_Barrel_NeedleGun,子弹容量 +10,伤害 -25%,
+Part_SM_TED_Barrel_PatMk3,伤害 +100%,,
+Part_AR_ATL_Barrel_OPQ,伤害 +80%,,
+Part_AR_COV_Barrel_Trash,"元素伤害 +70%, 每击增加热量 -15%, 伤害 +2.5%",,
+Part_AR_COV_Barrel_PewPew,"每击增加热量 -33.3%, 伤害 +110%",,
+Part_AR_COV_Barrel_Sawhorse,伤害 +100%,,
+Part_AR_COV_Barrel_Sawhorse_Epic,伤害 +100%,,
+Part_AR_COV_Barrel_Homicidal,伤害 +40%,,
+Part_AR_COV_Barrel_SparkyBoom,装弹时间 -25%,,
+Part_DAL_AR_Barrel_Soulrender,伤害 +70%,,
+Part_AR_JAK_Barrel_01_Clairvoyance,伤害 +150%,,
+Part_AR_JAK_Barrel_CoolBeans,子弹容量 +20,,
+Part_AR_JAK_Barrel_Mutant,"子弹容量 +15, 准心范围 -90%, 武器晃动 -100%, 伤害 +75%",武器晃动 -100%,
+Part_AR_JAK_Barrel_Stonethrow,伤害 +60%,,
+Part_AR_TOR_Barrel_Hotfoot,"元素触发几率 +50%, 伤害 +100%, 子弹容量 +25%",,
+Part_AR_TOR_Barrel_LaserSploder,伤害 +120%,,
+Part_AR_TOR_Barrel_LovableRogue_Epic,"横向后坐力幅度 -50%, 纵向后坐力 -50%, 伤害 +140%",,
+Part_AR_TOR_Barrel_LovableRogue_Ali,"横向后坐力幅度 -50%, 纵向后坐力 -50%, 伤害 +140%",,
+Part_AR_VLA_Barrel_Monarch,伤害 +60%,准心范围 -125%,
+Part_AR_VLA_Barrel_WebSlinger,伤害 +850%,,
+Part_SG_Hyp_Barrel_Convergence,"装弹时间 -23.1%, 伤害 +80%",,
+Part_SG_Hyp_Barrel_ETECH_Fearmonger,"溅射伤害范围 +100, 子弹容量 +40%, 伤害 +40%",,
+Part_SG_Hyp_Barrel_Firecracker,伤害 +300%,,
+Part_SG_Hyp_Barrel_Guardian,"装弹时间 -25%, 每次射击射弹数 +9",射速 -67%,
+Part_SG_Hyp_Barrel_HeartBreaker,"准心范围 -25%, 伤害 +200%",准心范围扩散 +100%,
+Part_SG_Hyp_Barrel_IceBurger,"溅射伤害范围 +200, 准心范围 -25%, 横向后坐力幅度 -35%, 纵向后坐力 -35%, 伤害 +250%",,
+Part_SG_Hyp_Barrel_MeltFacer,纵向后坐力 -10%,准心范围 +15%,
+Part_SG_Hyp_Barrel_Reflux,伤害 +130%,"纵向后坐力 -10%, 准心范围 +25%",
+Part_SG_Hyp_Barrel_Convergence_Epic,"装弹时间 -23.1%, 伤害 +80%",,
+Part_SG_Hyp_Barrel_SlowHand,"溅射伤害范围 +280, 元素触发几率 +25%, 纵向后坐力 -15%, 子弹容量 +25%, 伤害 +50%",,
+Part_SG_JAK_Barrel_Dakota,"每次射击射弹数 +7, 子弹容量 +1",,
+Part_SG_Barrel_SpeakEasy,"每次射击射弹数 +9, 弹匣容量 +12",,
+Part_SG_JAK_Barrel_Splinter,每次射击射弹数 +7,,
+Part_SG_JAK_Barrel_TheCure,"每次射击射弹数 +9, 伤害 +40%",,
+Part_SG_JAK_Trigger_Fakobs,每次射击射弹数 +7,,
+Part_SG_MAL_Barrel_BlindBandit_Epic,"伤害 +125%, 武器晃动 -20%",武器晃动 -20%,
+Part_SG_MAL_Barrel_BlindBandit,"伤害 +125%, 武器晃动 -20%",武器晃动 -20%,
+Part_SG_MAL_Barrel_Antler,"溅射伤害范围 +210, 伤害 +20%, 子弹容量 +50%",准心范围 +50%,
+Part_SG_MAL_Barrel_Frequency,"纵向后坐力 -50%, 武器晃动 -20%",武器晃动 -20%,
+Part_SG_MAL_Barrel_Insider,"溅射伤害范围 +210, 伤害 +30%, 子弹容量 +50%",,
+Part_SG_MAL_Barrel_TheNothing,"伤害 +400%, 武器晃动 -20%","准心范围 +25%, 武器晃动 -20%",
+Part_SG_TED_Barrel_Brightside,伤害 +60%,,
+Part_SG_TED_Barrel_Omen,"每次射击射弹数 +8, 伤害 +50%",,
+Part_SG_TED_Barrel_SacrificialLamb,"每次射击射弹数 +6, 伤害 +25%",,
+Part_SG_Torgue_Barrel_ETech_Shocker,伤害 +25%,,
+Part_SG_TOR_Barrel_Boring,"溅射伤害范围 +30%, 准心范围 -10%",装弹时间 +25%,
+Part_HW_ATL_Barrel_Plumage,"溅射伤害范围 +163, 伤害 +120%",,
+Part_HW_COV_Barrel_Globetrotter,"溅射伤害范围 +275, 伤害 +50%",,
+Part_HW_COV_Barrel_Mechanic,"溅射伤害范围 +130, 伤害 +100%",,
+Part_HW_COV_Barrel_BanditoLauncher_Epic,"溅射伤害范围 +300, 伤害 +140%",每击增加热量 +100%,
+Part_HW_COV_Barrel_BanditoLauncher,"溅射伤害范围 +300, 伤害 +200%",每击增加热量 +33%,
+Part_HW_COV_Barrel_ETech_YellowCake,"溅射伤害范围 +275, 伤害 +75%",,
+Part_HW_TOR_Barrel_Creamer,溅射伤害范围 +500,,
+Part_HW_TOR_Barrel_ETech_Plague,"溅射伤害范围 +200, 准心范围 -30%, 伤害 +10%",,
+Part_HW_TOR_Barrel_Satisfaction,"溅射伤害范围 +420, 伤害 +150%",准心范围 +50%,
+Part_HW_VLA_Barrel_ETech_BackBurner,"子弹容量 +6, 伤害 +100%",,
+Part_HW_VLA_Barrel_IonCannon,"溅射伤害范围 +195, 伤害 +400%",装弹时间 +30%,
+Part_HW_VLA_Barrel_ETech_Kickcharger,"装弹时间 -25%, 伤害 +300%",,
+Part_SR_DAL_Barrel_AutoAime,伤害 +60%,,
+Part_SR_DAL_Barrel_SandHawk,"装弹时间 -25%, 伤害 +50%, 每次射击射弹数 +7, 子弹容量 +10",准心范围 +500%,
+Part_SR_HYP_Barrel_Narp,弹匣容量 +25%,,
+Part_SR_JAK_Barrel_Disruptor,"纵向后坐力 -50%, 伤害 +200%, 装弹时间 -25%, 准心范围 -30%, 横向后坐力幅度 -50%, 准心范围扩散 -30%, 子弹容量 +50%",,
+Part_MAL_SR_Barrel_BinaryOperator,伤害 +0%,"伤害 +0%, 弹道速度 -50%",
+Part_SR_VLA_Barrel_Boogeyman,"准心范围 -90%, 横向后坐力幅度 -60%, 伤害 +70%, 子弹容量 +12, 溅射伤害范围 +100, 武器晃动 -90%, 准心范围扩散 -75%, 纵向后坐力 -75%",武器晃动 -90%,
+Part_SR_VLA_Barrel_Septimator_Epic,"子弹容量 +21, 伤害 +100%",,
+Part_SR_VLA_Barrel_Septimator,"子弹容量 +21, 伤害 +100%",,
